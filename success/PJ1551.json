@@ -1,0 +1,104 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "AVENIDA MATUCANA ESQ. / AVENIDA MAPOCHO",
+  "paradero": "PJ1551",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1221",
+        "distanciabus2": "1341",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXB-78",
+        "ppubus2": "CJRB-80",
+        "respuestaServicio": "",
+        "servicio": "B26",
+        "color": "#ED1C24",
+        "destino": "Metro Estacion Central",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quinta Normal, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4324628,
+        "lng": -70.680666
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4311138197085,
+          "lng": -70.6793170197085
+        },
+        "southwest": {
+          "lat": -33.4338117802915,
+          "lng": -70.68201498029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ8XHEhEjEYpYRMT-JFgdFyCg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4324628,
+  "lng": -70.680666
+}

@@ -1,0 +1,184 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "GABRIELA MISTRAL ESQ. / ORTIZ DE ZARATE",
+  "paradero": "PH1479",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "255",
+        "distanciabus2": "1085",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-6218",
+        "ppubus2": "ZN-6019",
+        "respuestaServicio": "",
+        "servicio": "105",
+        "color": "#00A1E4",
+        "destino": "Lo Espejo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3999",
+        "distanciabus2": "8759",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJRF-31",
+        "ppubus2": "ZJ-1812",
+        "respuestaServicio": "",
+        "servicio": "121",
+        "color": "#00A1E4",
+        "destino": "Lo Espejo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "930",
+        "distanciabus2": "1130",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRG-16",
+        "ppubus2": "ZN-5130",
+        "respuestaServicio": "",
+        "servicio": "125",
+        "color": "#00A1E4",
+        "destino": "Lo Espejo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "940",
+        "distanciabus2": "11640",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "FLXR-18",
+        "ppubus2": "BGTL-68",
+        "respuestaServicio": "",
+        "servicio": "329",
+        "color": "#00A77E",
+        "destino": "Mall Plaza Oeste",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3666",
+        "distanciabus2": "3786",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "BGTL-67",
+        "ppubus2": "FLXR-49",
+        "respuestaServicio": "",
+        "servicio": "H12",
+        "color": "#00A77E",
+        "destino": "Lo Espejo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "I12",
+        "color": null,
+        "destino": null,
+        "sentido": null,
+        "itinerario": null,
+        "codigo": null
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Espejo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5308697,
+        "lng": -70.7020869
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5295207197085,
+          "lng": -70.7007379197085
+        },
+        "southwest": {
+          "lat": -33.5322186802915,
+          "lng": -70.70343588029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9T0ZNXDbYpYRQm8wdsvBzlY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5308697,
+  "lng": -70.7020869
+}

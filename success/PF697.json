@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:15",
+  "nomett": "AV. CAMILO HENRIQUEZ ESQ. / ALTURA DEL 1800",
+  "paradero": "PF697",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "686",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXS-15",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F24",
+        "color": "#FFD400",
+        "destino": "Metro Elisa Correa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.585091,
+        "lng": -70.54511
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5837420197085,
+          "lng": -70.54376101970848
+        },
+        "southwest": {
+          "lat": -33.5864399802915,
+          "lng": -70.54645898029149
+        }
+      }
+    },
+    "place_id": "ChIJjVPx95PWYpYRxqjLUEF2Vvg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.585091,
+  "lng": -70.54511
+}

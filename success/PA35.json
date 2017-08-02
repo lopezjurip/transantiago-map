@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:01",
+  "nomett": "PARADA 1 / (M) TOESCA",
+  "paradero": "PA35",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "113",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "115",
+        "color": "#00A1E4",
+        "destino": "Villa El Abrazo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1928",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-5140",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "125",
+        "color": "#00A1E4",
+        "destino": "Lo Espejo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "811",
+        "distanciabus2": "1011",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BJFW-83",
+        "ppubus2": "BJFV-96",
+        "respuestaServicio": "",
+        "servicio": "302",
+        "color": "#00A77E",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "302N",
+        "color": "#00A77E",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1242",
+        "distanciabus2": "6182",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "BFRT-72",
+        "ppubus2": "BFKC-18",
+        "respuestaServicio": "",
+        "servicio": "510",
+        "color": "#0093B3",
+        "destino": "Río Claro",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4531492,
+        "lng": -70.658928
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4518002197085,
+          "lng": -70.65757901970849
+        },
+        "southwest": {
+          "lat": -33.45449818029149,
+          "lng": -70.66027698029151
+        }
+      }
+    },
+    "place_id": "ChIJn9Bz3QXFYpYRo_zgbBXZ5BM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4531492,
+  "lng": -70.658928
+}

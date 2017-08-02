@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:36",
+  "nomett": "PARADA  / RAUL LABBE   ALTURA DEL 14700",
+  "paradero": "PC607",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2778",
+        "distanciabus2": "8678",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "ZN-6525",
+        "ppubus2": "WA-9116",
+        "respuestaServicio": "",
+        "servicio": "409",
+        "color": "#F7941D",
+        "destino": "Plaza San Enrique",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "64",
+        "distanciabus2": "1724",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "CJRS-27",
+        "ppubus2": "CJRS-10",
+        "respuestaServicio": "",
+        "servicio": "C01",
+        "color": "#ED1C24",
+        "destino": "Metro Francisco Bilbao",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C21N",
+        "color": "#ED1C24",
+        "destino": "Metro Escuela Militar",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "C23",
+        "color": "#ED1C24",
+        "destino": "La Ermita De San Antonio",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Barnechea, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3626134,
+        "lng": -70.500852
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3612644197085,
+          "lng": -70.4995030197085
+        },
+        "southwest": {
+          "lat": -33.3639623802915,
+          "lng": -70.5022009802915
+        }
+      }
+    },
+    "place_id": "ChIJA_dUYZPLYpYRb01tKtQ_ePY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3626134,
+  "lng": -70.500852
+}

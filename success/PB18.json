@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:56",
+  "nomett": "ROMA ESQ. / LA PRIMAVER",
+  "paradero": "PB18",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3801",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRF-11",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "101",
+        "color": "#00A1E4",
+        "destino": "Cerrillos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1565",
+        "distanciabus2": "2895",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "CJRF-96",
+        "ppubus2": "ZB-6721",
+        "respuestaServicio": "",
+        "servicio": "107",
+        "color": "#00A1E4",
+        "destino": "Av. Departamental",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "107C",
+        "color": "#00A1E4",
+        "destino": "Plaza Renca",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3992501,
+        "lng": -70.6736403
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3979011197085,
+          "lng": -70.67229131970849
+        },
+        "southwest": {
+          "lat": -33.4005990802915,
+          "lng": -70.67498928029151
+        }
+      }
+    },
+    "place_id": "ChIJHSHC7IbGYpYRMa5j4G2EWEc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3992501,
+  "lng": -70.6736403
+}

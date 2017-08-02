@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:56",
+  "nomett": "PADRE F. GAZZIERO ESQ. / NUEVA 5",
+  "paradero": "PB375",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 3 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 3 min.",
+        "servicio": "301",
+        "color": "#00A77E",
+        "destino": "Angelmó",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Independencia",
+        "short_name": "Independencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Independencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4116879,
+        "lng": -70.675236
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4103389197085,
+          "lng": -70.67388701970849
+        },
+        "southwest": {
+          "lat": -33.4130368802915,
+          "lng": -70.67658498029151
+        }
+      }
+    },
+    "place_id": "ChIJi7IeVinEYpYRKh9nupY2GuI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4116879,
+  "lng": -70.675236
+}

@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "AVENIDA MARATHON ESQ. / AV. ESCUELA AGRICOLA",
+  "paradero": "PD1153",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "666",
+        "distanciabus2": "5066",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "FLXP-96",
+        "ppubus2": "FLXP-92",
+        "respuestaServicio": "",
+        "servicio": "D13",
+        "color": "#00A77E",
+        "destino": "Metro B. de La Florida",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2356",
+        "distanciabus2": "5976",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "CJRZ-55",
+        "ppubus2": "CJRZ-43",
+        "respuestaServicio": "",
+        "servicio": "D14",
+        "color": "#F7941D",
+        "destino": "Metro Pedrero",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Macul, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.490795,
+        "lng": -70.611913
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4894460197085,
+          "lng": -70.6105640197085
+        },
+        "southwest": {
+          "lat": -33.49214398029149,
+          "lng": -70.61326198029151
+        }
+      }
+    },
+    "place_id": "ChIJ642X4gTQYpYRpk_vYxk5TxA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.490795,
+  "lng": -70.611913
+}

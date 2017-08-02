@@ -1,0 +1,112 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "AVENIDA DEL CANAL ESQ. / LAS LOICAS",
+  "paradero": "PJ1623",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "7890",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Mas de 25 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXT-95",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J12",
+        "color": "#0093B3",
+        "destino": "Ciudad De Los Valles",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gran Santiago",
+        "short_name": "Gran Santiago",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4487163,
+        "lng": -70.8433033
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4473673197085,
+          "lng": -70.8419543197085
+        },
+        "southwest": {
+          "lat": -33.4500652802915,
+          "lng": -70.84465228029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJN6pyP5HpYpYRgoqrCfdVUlA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4487163,
+  "lng": -70.8433033
+}

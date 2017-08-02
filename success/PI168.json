@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:50",
+  "nomett": "HECTOR FUENZALIDA ESQ. / AVENIDA 4 PONIENTE",
+  "paradero": "PI168",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5182",
+        "distanciabus2": "8732",
+        "horaprediccionbus1": "Entre 14 Y 22 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "FLXJ-11",
+        "ppubus2": "FLXJ-47",
+        "respuestaServicio": "",
+        "servicio": "I01",
+        "color": "#00A77E",
+        "destino": "Villa Los Héroes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4310",
+        "distanciabus2": "5170",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "BJFY-43",
+        "ppubus2": "BFKB-61",
+        "respuestaServicio": "",
+        "servicio": "509",
+        "color": "#0093B3",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5409679,
+        "lng": -70.7831892
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5396189197085,
+          "lng": -70.78184021970849
+        },
+        "southwest": {
+          "lat": -33.5423168802915,
+          "lng": -70.7845381802915
+        }
+      }
+    },
+    "place_id": "ChIJ5xB2OxLdYpYRIg_8b--p_Qw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5409679,
+  "lng": -70.7831892
+}

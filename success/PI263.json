@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:49",
+  "nomett": "AVENIDA EL DESCANSO ESQ. / M. DE SANTILLANA",
+  "paradero": "PI263",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "795",
+        "distanciabus2": "5055",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "ZN-5478",
+        "ppubus2": "ZB-6739",
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Metro Pajaritos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1201",
+        "distanciabus2": "7431",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "FLXP-49",
+        "ppubus2": "BJFX-66",
+        "respuestaServicio": "",
+        "servicio": "I20",
+        "color": "#00A77E",
+        "destino": "Marta Ossa Ruiz",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "139",
+        "distanciabus2": "2669",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "WH-2085",
+        "ppubus2": "CJRJ-51",
+        "respuestaServicio": "",
+        "servicio": "404",
+        "color": "#F7941D",
+        "destino": "El Descanso",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "404C",
+        "color": "#F7941D",
+        "destino": "El Descanso",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.46951,
+        "lng": -70.7586755
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4681610197085,
+          "lng": -70.75732651970849
+        },
+        "southwest": {
+          "lat": -33.4708589802915,
+          "lng": -70.76002448029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJLbIB9wPDYpYRM-w6B_npghU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.46951,
+  "lng": -70.7586755
+}

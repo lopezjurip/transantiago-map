@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:49",
+  "nomett": "AVENIDA 4 PONIENTE ESQ. / EL LIBANO",
+  "paradero": "PI325",
+  "respuestaParadero": "No hay buses que se dirijan al paradero.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "115",
+        "color": "#00A1E4",
+        "destino": "Metro Los Héroes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2247",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXF-58",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I04",
+        "color": "#00A77E",
+        "destino": "Metro Sn. A. Hurtado",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "I04C",
+        "color": "#00A77E",
+        "destino": "Metro Plaza Maipu",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "26",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXG-25",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "506V",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "546E",
+        "color": "#0093B3",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5472352,
+        "lng": -70.770252
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5458862197085,
+          "lng": -70.7689030197085
+        },
+        "southwest": {
+          "lat": -33.5485841802915,
+          "lng": -70.77160098029151
+        }
+      }
+    },
+    "place_id": "ChIJ_SzkSgHdYpYRXxb9ITOn9Hg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5472352,
+  "lng": -70.770252
+}

@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "CAMINO PADRE HURTADO ESQ. / QUETRUPILLAN",
+  "paradero": "PG371",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "12",
+        "distanciabus2": "72",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXP-35",
+        "ppubus2": "FLXP-28",
+        "respuestaServicio": "",
+        "servicio": "228",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2046",
+        "distanciabus2": "1946",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "BJFG-92",
+        "ppubus2": "ZN-6293",
+        "respuestaServicio": "",
+        "servicio": "G08",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "339",
+        "distanciabus2": "1389",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "BJFW-60",
+        "ppubus2": "BJFW-86",
+        "respuestaServicio": "",
+        "servicio": "301",
+        "color": "#00A77E",
+        "destino": "Juan Antonio Ríos",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "301C",
+        "color": "#00A77E",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipo",
+        "short_name": "Maipo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Bernardo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5905049,
+        "lng": -70.67874809999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5891559197085,
+          "lng": -70.67739911970848
+        },
+        "southwest": {
+          "lat": -33.5918538802915,
+          "lng": -70.68009708029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJDxCIgnrZYpYR9C5mnK09XTk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5905049,
+  "lng": -70.67874809999999
+}

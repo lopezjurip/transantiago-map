@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:42",
+  "nomett": "PARADA 2 / OCEANIA   LAGUNA SUR",
+  "paradero": "PJ73",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3843",
+        "distanciabus2": "3853",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "BJFD-11",
+        "ppubus2": "ZN-5133",
+        "respuestaServicio": "",
+        "servicio": "110",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1376",
+        "distanciabus2": "3796",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "ZN-6476",
+        "ppubus2": "ZN-5413",
+        "respuestaServicio": "",
+        "servicio": "110C",
+        "color": "#00A1E4",
+        "destino": "Pudahuel Sur",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "60",
+        "distanciabus2": "1740",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "ZN-4318",
+        "ppubus2": "ZN-4327",
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3306",
+        "distanciabus2": "3286",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BFKC-28",
+        "ppubus2": "FLXT-97",
+        "respuestaServicio": "",
+        "servicio": "J08",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4593175,
+        "lng": -70.75588359999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4579685197085,
+          "lng": -70.7545346197085
+        },
+        "southwest": {
+          "lat": -33.46066648029149,
+          "lng": -70.7572325802915
+        }
+      }
+    },
+    "place_id": "ChIJ4cd9G6nDYpYRwvMPtX_kV8M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4593175,
+  "lng": -70.75588359999999
+}

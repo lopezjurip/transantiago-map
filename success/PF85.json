@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:14",
+  "nomett": "PARADA 3 / (M) LAS MERCEDES",
+  "paradero": "PF85",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2428",
+        "distanciabus2": "3388",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "BJFK-57",
+        "ppubus2": "BJFK-92",
+        "respuestaServicio": "",
+        "servicio": "205",
+        "color": "#0077bb",
+        "destino": "Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "205E",
+        "color": "#0077bb",
+        "destino": "Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "7274",
+        "distanciabus2": "9334",
+        "horaprediccionbus1": "Entre 15 Y 25 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "BJFF-64",
+        "ppubus2": "WB-1006",
+        "respuestaServicio": "",
+        "servicio": "210",
+        "color": "#0077bb",
+        "destino": "Puente Alto",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1861",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXS-21",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F26",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F30N",
+        "color": "#FFD400",
+        "destino": "Bajos De Mena",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "835",
+        "distanciabus2": "2905",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FLXP-67",
+        "ppubus2": "FLXP-80",
+        "respuestaServicio": "",
+        "servicio": "213E",
+        "color": "#FFD400",
+        "destino": "Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6001394,
+        "lng": -70.5779
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5987904197085,
+          "lng": -70.5765510197085
+        },
+        "southwest": {
+          "lat": -33.60148838029149,
+          "lng": -70.57924898029151
+        }
+      }
+    },
+    "place_id": "ChIJ6QHexQPXYpYRpbxzoLTlPpg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6001394,
+  "lng": -70.5779
+}

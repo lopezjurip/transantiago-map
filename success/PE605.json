@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:18",
+  "nomett": "MARIA ELENA ESQ. / AV. SANTA RAQUEL",
+  "paradero": "PE605",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "897",
+        "distanciabus2": "2937",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BJFT-77",
+        "ppubus2": "BJFV-18",
+        "respuestaServicio": "",
+        "servicio": "E09",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1762",
+        "distanciabus2": "4452",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "BJFV-74",
+        "ppubus2": "BJFX-25",
+        "respuestaServicio": "",
+        "servicio": "E11",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "791",
+        "distanciabus2": "5061",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "BJFX-59",
+        "ppubus2": "BJFW-10",
+        "respuestaServicio": "",
+        "servicio": "E16",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5621721,
+        "lng": -70.599865
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5608231197085,
+          "lng": -70.5985160197085
+        },
+        "southwest": {
+          "lat": -33.56352108029149,
+          "lng": -70.6012139802915
+        }
+      }
+    },
+    "place_id": "ChIJN-oR27XQYpYRL27yfJEde-c",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5621721,
+  "lng": -70.599865
+}

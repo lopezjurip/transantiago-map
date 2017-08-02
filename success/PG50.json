@@ -1,0 +1,143 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:35",
+  "nomett": "PARADA  / PARADERO 35   GRAN AVENIDA",
+  "paradero": "PG50",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1879",
+        "distanciabus2": "2859",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "WA-8083",
+        "ppubus2": "WA-9728",
+        "respuestaServicio": "",
+        "servicio": "201",
+        "color": "#0077bb",
+        "destino": "Mall Plaza Norte",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1948",
+        "distanciabus2": "2508",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "ZU-5657",
+        "ppubus2": "FLXD-14",
+        "respuestaServicio": "",
+        "servicio": "211",
+        "color": "#0077bb",
+        "destino": "La Florida",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2457",
+        "distanciabus2": "3517",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "BJFF-18",
+        "ppubus2": "ZN-5369",
+        "respuestaServicio": "",
+        "servicio": "211C",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3442",
+        "distanciabus2": "6512",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "BJFK-37",
+        "ppubus2": "ZN-5372",
+        "respuestaServicio": "",
+        "servicio": "G05",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "El Bosque",
+        "short_name": "El Bosque",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "El Bosque, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5642218,
+        "lng": -70.68278699999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5628728197085,
+          "lng": -70.6814380197085
+        },
+        "southwest": {
+          "lat": -33.56557078029149,
+          "lng": -70.6841359802915
+        }
+      }
+    },
+    "place_id": "ChIJtd9vdcbbYpYRKi944_K8gvQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5642218,
+  "lng": -70.68278699999999
+}

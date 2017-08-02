@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:14",
+  "nomett": "SARGENTO MENADIER ESQ. / ESMERALDA",
+  "paradero": "PF717",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F12C",
+        "color": "#FFD400",
+        "destino": "Metro Plaza Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2254",
+        "distanciabus2": "4034",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "BHZV-30",
+        "ppubus2": "CJRB-64",
+        "respuestaServicio": "",
+        "servicio": "F18",
+        "color": "#FFD400",
+        "destino": "Metro Plaza Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6183943,
+        "lng": -70.58842299999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6170453197085,
+          "lng": -70.5870740197085
+        },
+        "southwest": {
+          "lat": -33.6197432802915,
+          "lng": -70.5897719802915
+        }
+      }
+    },
+    "place_id": "ChIJpbt0L6XXYpYRl4kC_-2a60U",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6183943,
+  "lng": -70.58842299999999
+}

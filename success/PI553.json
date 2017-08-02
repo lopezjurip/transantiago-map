@@ -1,0 +1,184 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:47",
+  "nomett": "PARADA 6 / 5 DE ABRIL   LAS REJAS",
+  "paradero": "PI553",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1566",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFT-50",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I13",
+        "color": "#00A77E",
+        "destino": "Villa Los Presidentes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2083",
+        "distanciabus2": "4263",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRX-54",
+        "ppubus2": "CJRW-61",
+        "respuestaServicio": "",
+        "servicio": "I14",
+        "color": "#00A77E",
+        "destino": "Mall Plaza Oeste",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1946",
+        "distanciabus2": "5836",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "BJFH-46",
+        "ppubus2": "BJFC-84",
+        "respuestaServicio": "",
+        "servicio": "506",
+        "color": "#0093B3",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "506E",
+        "color": "#0093B3",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3158",
+        "distanciabus2": "5348",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "BJFY-33",
+        "ppubus2": "FDJX-64",
+        "respuestaServicio": "",
+        "servicio": "506V",
+        "color": "#0093B3",
+        "destino": "Villa El Abrazo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1868",
+        "distanciabus2": "4998",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "BJFB-60",
+        "ppubus2": "FLXD-45",
+        "respuestaServicio": "",
+        "servicio": "509",
+        "color": "#0093B3",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Estación Central",
+        "short_name": "Estación Central",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Estación Central, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4640975,
+        "lng": -70.7041289
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4627485197085,
+          "lng": -70.70277991970849
+        },
+        "southwest": {
+          "lat": -33.4654464802915,
+          "lng": -70.7054778802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJb3t07Y_EYpYRSNaWNSioIvA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4640975,
+  "lng": -70.7041289
+}

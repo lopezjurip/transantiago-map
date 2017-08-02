@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:19",
+  "nomett": "FRESIA ESQ. / NUEVA UNO",
+  "paradero": "PE371",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "204N",
+        "color": "#0077bb",
+        "destino": "Gabriela",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "474",
+        "distanciabus2": "2374",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "BJFT-98",
+        "ppubus2": "BJFW-39",
+        "respuestaServicio": "",
+        "servicio": "E03",
+        "color": "#00A77E",
+        "destino": "Jardín Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.525241,
+        "lng": -70.607151
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5238920197085,
+          "lng": -70.6058020197085
+        },
+        "southwest": {
+          "lat": -33.5265899802915,
+          "lng": -70.60849998029151
+        }
+      }
+    },
+    "place_id": "ChIJO6IuKojQYpYRjhfIzPlT1ZY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.525241,
+  "lng": -70.607151
+}

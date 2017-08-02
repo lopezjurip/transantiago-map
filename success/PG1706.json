@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:37",
+  "nomett": "SANTA MARGARITA ESQ. / AVENIDA LO ESPEJO",
+  "paradero": "PG1706",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 10 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 10 min.",
+        "servicio": "119",
+        "color": "#00A1E4",
+        "destino": "Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6011",
+        "distanciabus2": "10041",
+        "horaprediccionbus1": "Entre 15 Y 25 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJRL-86",
+        "ppubus2": "CJRP-67",
+        "respuestaServicio": "",
+        "servicio": "G09",
+        "color": "#0077bb",
+        "destino": "Santa Margarita",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipo",
+        "short_name": "Maipo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Bernardo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5343974,
+        "lng": -70.6989473
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5330484197085,
+          "lng": -70.6975983197085
+        },
+        "southwest": {
+          "lat": -33.5357463802915,
+          "lng": -70.70029628029151
+        }
+      }
+    },
+    "place_id": "ChIJkc3N_3PbYpYRKrbQcmGr9GE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5343974,
+  "lng": -70.6989473
+}

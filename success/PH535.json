@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:31",
+  "nomett": "ABRANQUIL ESQ. / NAVIDAD",
+  "paradero": "PH535",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "526",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFP-35",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "H05",
+        "color": "#00A77E",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pedro Aguirre Cerda, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5074901,
+        "lng": -70.674277
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5061411197085,
+          "lng": -70.67292801970851
+        },
+        "southwest": {
+          "lat": -33.50883908029149,
+          "lng": -70.67562598029151
+        }
+      }
+    },
+    "place_id": "ChIJ043_libbYpYR36nfITMlO3M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5074901,
+  "lng": -70.674277
+}

@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "AV. APOSTOL SANTIAGO ESQ. / AV. DGO SANTA MARIA",
+  "paradero": "PB78",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5470",
+        "distanciabus2": "5580",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "ZN-5423",
+        "ppubus2": "ZN-3301",
+        "respuestaServicio": "",
+        "servicio": "105",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5890",
+        "distanciabus2": "7180",
+        "horaprediccionbus1": "Entre 15 Y 25 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "ZN-5126",
+        "ppubus2": "ZN-5435",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "14",
+        "distanciabus2": "2934",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "ZN-5104",
+        "ppubus2": "ZN-5400",
+        "respuestaServicio": "",
+        "servicio": "120",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3322",
+        "distanciabus2": "3322",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFD-29",
+        "ppubus2": "BJFD-27",
+        "respuestaServicio": "",
+        "servicio": "410",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3888",
+        "distanciabus2": "4768",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRC-47",
+        "ppubus2": "CJJW-61",
+        "respuestaServicio": "",
+        "servicio": "B20",
+        "color": "#ED1C24",
+        "destino": "Miraflores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4095391,
+        "lng": -70.6932911
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4081901197085,
+          "lng": -70.6919421197085
+        },
+        "southwest": {
+          "lat": -33.41088808029149,
+          "lng": -70.6946400802915
+        }
+      }
+    },
+    "place_id": "ChIJswWSAKDGYpYRMI3WLUh-VRU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4095391,
+  "lng": -70.6932911
+}

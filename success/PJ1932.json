@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:44",
+  "nomett": "COSTANERA SUR ESQ. / MIGUEL DE ATERO",
+  "paradero": "PJ1932",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 12 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 12 min.",
+        "servicio": "B09",
+        "color": "#ED1C24",
+        "destino": "Lo Boza",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quinta Normal, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4101921,
+        "lng": -70.7014733
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4088431197085,
+          "lng": -70.70012431970851
+        },
+        "southwest": {
+          "lat": -33.41154108029149,
+          "lng": -70.70282228029151
+        }
+      }
+    },
+    "place_id": "ChIJwbeRcKfGYpYRilpWH8_CeX4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4101921,
+  "lng": -70.7014733
+}

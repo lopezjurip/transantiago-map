@@ -1,0 +1,184 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:02",
+  "nomett": "PARADA 2 / HOSPITAL   SN. BORJA ARRIARAN",
+  "paradero": "PA104",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2964",
+        "distanciabus2": "3674",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "WC-1102",
+        "ppubus2": "WA-8048",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "203E",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2869",
+        "distanciabus2": "4399",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZN-6333",
+        "ppubus2": "BJFJ-30",
+        "respuestaServicio": "",
+        "servicio": "206",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "206E",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 10 min.",
+        "servicio": "I01",
+        "color": "#00A77E",
+        "destino": "Villa Los Héroes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2316",
+        "distanciabus2": "2806",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "BJFZ-61",
+        "ppubus2": "CJRZ-84",
+        "respuestaServicio": "",
+        "servicio": "385",
+        "color": "#00A77E",
+        "destino": "Villa Francia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4608829,
+        "lng": -70.6428512
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4595339197085,
+          "lng": -70.64150221970849
+        },
+        "southwest": {
+          "lat": -33.4622318802915,
+          "lng": -70.64420018029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJpUMLfmvFYpYRtDw_ujtCinI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4608829,
+  "lng": -70.6428512
+}

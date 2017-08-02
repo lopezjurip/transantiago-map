@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:41",
+  "nomett": "AVENIDA DORSAL ESQ. / ESPANA",
+  "paradero": "PJ879",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4195",
+        "distanciabus2": "5985",
+        "horaprediccionbus1": "Entre 14 Y 22 min. ",
+        "horaprediccionbus2": "Entre 25 Y 35 min. ",
+        "ppubus1": "BJFY-29",
+        "ppubus2": "BJFZ-16",
+        "respuestaServicio": "",
+        "servicio": "511",
+        "color": "#0093B3",
+        "destino": "Cerro Navia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1925",
+        "distanciabus2": "2285",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "BFKC-76",
+        "ppubus2": "CJRW-59",
+        "respuestaServicio": "",
+        "servicio": "514",
+        "color": "#0093B3",
+        "destino": "Enea",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "568",
+        "distanciabus2": "4008",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "FLXR-63",
+        "ppubus2": "FLXR-72",
+        "respuestaServicio": "",
+        "servicio": "J10",
+        "color": "#0093B3",
+        "destino": "San Daniel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "419",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFD-56",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J19",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Prado, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4500852,
+        "lng": -70.7112949
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.44873621970849,
+          "lng": -70.70994591970849
+        },
+        "southwest": {
+          "lat": -33.45143418029149,
+          "lng": -70.71264388029151
+        }
+      }
+    },
+    "place_id": "ChIJD9-DU3nEYpYRTt9CtfTuugM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4500852,
+  "lng": -70.7112949
+}

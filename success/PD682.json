@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:30",
+  "nomett": "AV. SAN LUIS DE MACUL ESQ. / LOS MUEBLISTAS",
+  "paradero": "PD682",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "534",
+        "distanciabus2": "6294",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "CJRV-27",
+        "ppubus2": "ZN-5966",
+        "respuestaServicio": "",
+        "servicio": "D12",
+        "color": "#F7941D",
+        "destino": "Las Perdices",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Penalolen",
+        "short_name": "Penalolen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Peñalolén",
+        "short_name": "Peñalolén",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Penalolen, Peñalolén, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5069245,
+        "lng": -70.573433
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5055755197085,
+          "lng": -70.5720840197085
+        },
+        "southwest": {
+          "lat": -33.5082734802915,
+          "lng": -70.5747819802915
+        }
+      }
+    },
+    "place_id": "ChIJMZ6Vz7LRYpYRu9fpapEfNgw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5069245,
+  "lng": -70.573433
+}

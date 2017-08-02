@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:41",
+  "nomett": "GENERAL SAN MARTIN ESQ. / AV. MANUEL A. MATTA",
+  "paradero": "PB528",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1183",
+        "distanciabus2": "1293",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "CJRK-10",
+        "ppubus2": "BJFF-80",
+        "respuestaServicio": "",
+        "servicio": "429",
+        "color": "#F7941D",
+        "destino": "Lo Hermida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "429C",
+        "color": "#F7941D",
+        "destino": "Metro Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "821",
+        "distanciabus2": "1381",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZN-5656",
+        "ppubus2": "WA-8254",
+        "respuestaServicio": "",
+        "servicio": "430",
+        "color": "#F7941D",
+        "destino": "La Dehesa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2011",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRH-96",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "435",
+        "color": "#F7941D",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "275",
+        "distanciabus2": "2195",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "CJRF-63",
+        "ppubus2": "CJRC-89",
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Metro Zapadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quilicura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3633099,
+        "lng": -70.73700579999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3619609197085,
+          "lng": -70.73565681970848
+        },
+        "southwest": {
+          "lat": -33.36465888029149,
+          "lng": -70.73835478029149
+        }
+      }
+    },
+    "place_id": "ChIJm2cL0NzAYpYRIuR1Gh6r4ok",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3633099,
+  "lng": -70.73700579999999
+}

@@ -1,0 +1,199 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:48",
+  "nomett": "ALBERTO LLONA ESQ. / FERNARDO RIESCO",
+  "paradero": "PI383",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "298",
+        "distanciabus2": "1838",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "ZN-4304",
+        "ppubus2": "ZN-4108",
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Metro Pajaritos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3785",
+        "distanciabus2": "6475",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "FLXL-48",
+        "ppubus2": "FLXL-73",
+        "respuestaServicio": "",
+        "servicio": "I24",
+        "color": "#00A77E",
+        "destino": "Villa Los Maitenes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "6903",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXL-40",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "350",
+        "color": "#00A77E",
+        "destino": "Rinconada",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3439",
+        "distanciabus2": "7659",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 15 Y 25 min. ",
+        "ppubus1": "FLXL-13",
+        "ppubus2": "FLXF-58",
+        "respuestaServicio": "",
+        "servicio": "I04",
+        "color": "#00A77E",
+        "destino": "Metro Sn. A. Hurtado",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "I04C",
+        "color": "#00A77E",
+        "destino": "Metro Plaza Maipu",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4122",
+        "distanciabus2": "7342",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "FLXK-55",
+        "ppubus2": "FLXF-47",
+        "respuestaServicio": "",
+        "servicio": "I11",
+        "color": "#00A77E",
+        "destino": "Metro Plaza Maipu",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4527",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXF-26",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I12",
+        "color": "#00A77E",
+        "destino": "Pueblito La Farfana",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5190975,
+        "lng": -70.755567
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5177485197085,
+          "lng": -70.7542180197085
+        },
+        "southwest": {
+          "lat": -33.5204464802915,
+          "lng": -70.75691598029151
+        }
+      }
+    },
+    "place_id": "ChIJTUfkVdrcYpYRX7NueE8dAZM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5190975,
+  "lng": -70.755567
+}

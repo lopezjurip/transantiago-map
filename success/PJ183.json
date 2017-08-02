@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:44",
+  "nomett": "SANTA GENOVEVA ESQ. / AV.SAN PABLO",
+  "paradero": "PJ183",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6708",
+        "distanciabus2": "7938",
+        "horaprediccionbus1": "Entre 15 Y 23 min. ",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "ZN-6743",
+        "ppubus2": "ZN-5664",
+        "respuestaServicio": "",
+        "servicio": "406",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1427",
+        "distanciabus2": "4697",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "ZN-4776",
+        "ppubus2": "ZN-6011",
+        "respuestaServicio": "",
+        "servicio": "422",
+        "color": "#F7941D",
+        "destino": "Pob. Teniente Merino",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4568",
+        "distanciabus2": "7738",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "CJRS-75",
+        "ppubus2": "ZN-6027",
+        "respuestaServicio": "",
+        "servicio": "426",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quinta Normal, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4387636,
+        "lng": -70.697918
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4374146197085,
+          "lng": -70.69656901970849
+        },
+        "southwest": {
+          "lat": -33.4401125802915,
+          "lng": -70.69926698029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJaerJOGnEYpYRAy083W4lE5s",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4387636,
+  "lng": -70.697918
+}

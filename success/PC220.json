@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:38",
+  "nomett": "PARADA 4 / CLINICA ALEMANA",
+  "paradero": "PC220",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "472",
+        "distanciabus2": "602",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "WA-8463",
+        "ppubus2": "WB-1718",
+        "respuestaServicio": "",
+        "servicio": "405",
+        "color": "#F7941D",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "405C",
+        "color": "#F7941D",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1703",
+        "distanciabus2": "5963",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "CJRJ-13",
+        "ppubus2": "CJRJ-65",
+        "respuestaServicio": "",
+        "servicio": "435",
+        "color": "#F7941D",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "718",
+        "distanciabus2": "4978",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "BJFX-82",
+        "ppubus2": "CJRX-37",
+        "respuestaServicio": "",
+        "servicio": "502",
+        "color": "#0093B3",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "546E",
+        "color": "#0093B3",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3913929,
+        "lng": -70.5734626
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3900439197085,
+          "lng": -70.57211361970849
+        },
+        "southwest": {
+          "lat": -33.3927418802915,
+          "lng": -70.57481158029151
+        }
+      }
+    },
+    "place_id": "ChIJi9nlXNXOYpYRPiveuvC-j6Y",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3913929,
+  "lng": -70.5734626
+}

@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:21",
+  "nomett": "PARADA 2 / (M) ROJAS   MAGALLANES",
+  "paradero": "PE148",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1410",
+        "distanciabus2": "6440",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "BJFG-64",
+        "ppubus2": "ZN-6314",
+        "respuestaServicio": "",
+        "servicio": "210",
+        "color": "#0077bb",
+        "destino": "Estación Central",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5273",
+        "distanciabus2": "7143",
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "ZN-6265",
+        "ppubus2": "BJFJ-38",
+        "respuestaServicio": "",
+        "servicio": "210V",
+        "color": "#0077bb",
+        "destino": "Estación Central",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F30N",
+        "color": "#FFD400",
+        "destino": "La Moneda",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5054",
+        "distanciabus2": "7244",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "FLXP-77",
+        "ppubus2": "FLXP-73",
+        "respuestaServicio": "",
+        "servicio": "213E",
+        "color": "#FFD400",
+        "destino": "Plaza Italia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.535339,
+        "lng": -70.592883
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5339900197085,
+          "lng": -70.59153401970849
+        },
+        "southwest": {
+          "lat": -33.5366879802915,
+          "lng": -70.59423198029151
+        }
+      }
+    },
+    "place_id": "ChIJ4ZRexO3QYpYRIa9vus0q5w4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.535339,
+  "lng": -70.592883
+}

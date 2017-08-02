@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "PARADA  / FUNDACION INTEGRA",
+  "paradero": "PG391",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2879",
+        "distanciabus2": "3099",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "ZB-6735",
+        "ppubus2": "WA-8256",
+        "respuestaServicio": "",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Vespucio",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1802",
+        "distanciabus2": "2972",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "ZN-5075",
+        "ppubus2": "ZN-5099",
+        "respuestaServicio": "",
+        "servicio": "120",
+        "color": "#00A1E4",
+        "destino": "Metro La Cisterna",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "881",
+        "distanciabus2": "1091",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFX-31",
+        "ppubus2": "BJFR-79",
+        "respuestaServicio": "",
+        "servicio": "302",
+        "color": "#00A77E",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "302N",
+        "color": "#00A77E",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.535262,
+        "lng": -70.672027
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.53391301970851,
+          "lng": -70.6706780197085
+        },
+        "southwest": {
+          "lat": -33.53661098029151,
+          "lng": -70.67337598029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJbTuCfgDbYpYR9QO1T3A34ig",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.535262,
+  "lng": -70.672027
+}

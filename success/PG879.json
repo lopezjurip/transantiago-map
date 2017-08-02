@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:34",
+  "nomett": "LO MARTINEZ ESQ. / AV. PADRE HURTADO",
+  "paradero": "PG879",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "368",
+        "distanciabus2": "2528",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "ZN-5384",
+        "ppubus2": "BJFF-11",
+        "respuestaServicio": "",
+        "servicio": "G05",
+        "color": "#0077bb",
+        "destino": "El Castillo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "El Bosque",
+        "short_name": "El Bosque",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "El Bosque, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.571258,
+        "lng": -70.673918
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5699090197085,
+          "lng": -70.67256901970849
+        },
+        "southwest": {
+          "lat": -33.5726069802915,
+          "lng": -70.67526698029151
+        }
+      }
+    },
+    "place_id": "ChIJ--l_ydPbYpYRRniVlCIMTWY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.571258,
+  "lng": -70.673918
+}

@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:58",
+  "nomett": "REINA MARIA ESQ. / 3 DE DICIEMBRE",
+  "paradero": "PB1466",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2214",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXB-49",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B23",
+        "color": "#ED1C24",
+        "destino": "Reina María",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Independencia",
+        "short_name": "Independencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Independencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4020819,
+        "lng": -70.673109
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4007329197085,
+          "lng": -70.67176001970849
+        },
+        "southwest": {
+          "lat": -33.40343088029149,
+          "lng": -70.6744579802915
+        }
+      }
+    },
+    "place_id": "ChIJC_ruPIHGYpYRPoJc4xiObgE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4020819,
+  "lng": -70.673109
+}

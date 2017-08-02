@@ -1,0 +1,127 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "AV. EDO. FREI MONTALVA ESQ. / DGO. SANTA MARIA",
+  "paradero": "PB435",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "597",
+        "distanciabus2": "4607",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "FLXF-13",
+        "ppubus2": "FLXP-39",
+        "respuestaServicio": "",
+        "servicio": "303",
+        "color": "#00A77E",
+        "destino": "Quilicura",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "836",
+        "distanciabus2": "4946",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRY-59",
+        "ppubus2": "CJRC-51",
+        "respuestaServicio": "",
+        "servicio": "B26",
+        "color": "#ED1C24",
+        "destino": "El Cortijo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B29",
+        "color": "#ED1C24",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Independencia",
+        "short_name": "Independencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Independencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4144874,
+        "lng": -70.6787305
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4131384197085,
+          "lng": -70.67738151970849
+        },
+        "southwest": {
+          "lat": -33.4158363802915,
+          "lng": -70.68007948029151
+        }
+      }
+    },
+    "place_id": "ChIJ13msGy_EYpYRUN4PcCKCzAM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4144874,
+  "lng": -70.6787305
+}

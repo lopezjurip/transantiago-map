@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:47",
+  "nomett": "AVENIDA 5 DE ABRIL ESQ. / PADRE V. IRARRAZAVAL",
+  "paradero": "PI544",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1880",
+        "distanciabus2": "4270",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "BJFC-65",
+        "ppubus2": "FDJX-69",
+        "respuestaServicio": "",
+        "servicio": "506",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "725",
+        "distanciabus2": "2465",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BJFY-34",
+        "ppubus2": "FLXH-88",
+        "respuestaServicio": "",
+        "servicio": "506V",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4456",
+        "distanciabus2": "7316",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "BDXR-20",
+        "ppubus2": "FLXD-48",
+        "respuestaServicio": "",
+        "servicio": "509",
+        "color": "#0093B3",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Estación Central",
+        "short_name": "Estación Central",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Estación Central, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4597126,
+        "lng": -70.693664
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4583636197085,
+          "lng": -70.6923150197085
+        },
+        "southwest": {
+          "lat": -33.4610615802915,
+          "lng": -70.69501298029151
+        }
+      }
+    },
+    "place_id": "ChIJRR1ayIzEYpYR3YMZo5PrYWA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4597126,
+  "lng": -70.693664
+}

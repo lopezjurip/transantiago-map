@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:22",
+  "nomett": "AVENIDA MARATHON ESQ. / AVENIDA ZANARTU",
+  "paradero": "PD839",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3148",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 16 Y 26 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXP-96",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "D13",
+        "color": "#00A77E",
+        "destino": "Metro B. de La Florida",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1957",
+        "distanciabus2": "2127",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "ZN-3935",
+        "ppubus2": "ZN-4193",
+        "respuestaServicio": "",
+        "servicio": "D05",
+        "color": "#F7941D",
+        "destino": "Las Perdices",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.472504,
+        "lng": -70.6139594
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4711550197085,
+          "lng": -70.61261041970849
+        },
+        "southwest": {
+          "lat": -33.4738529802915,
+          "lng": -70.6153083802915
+        }
+      }
+    },
+    "place_id": "ChIJCzU2dPrPYpYR4e2eNitIk_I",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.472504,
+  "lng": -70.6139594
+}

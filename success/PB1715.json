@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:57",
+  "nomett": "GRANADA ESQ. / HUECHURABA",
+  "paradero": "PB1715",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "11",
+        "distanciabus2": "11",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "WB-1027",
+        "ppubus2": "WB-9734",
+        "respuestaServicio": "",
+        "servicio": "230",
+        "color": "#0077bb",
+        "destino": "Conchalí",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3679366,
+        "lng": -70.6870919
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3665876197085,
+          "lng": -70.68574291970849
+        },
+        "southwest": {
+          "lat": -33.3692855802915,
+          "lng": -70.68844088029151
+        }
+      }
+    },
+    "place_id": "ChIJ4zV5KuLGYpYRk30VAxhGVRY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3679366,
+  "lng": -70.6870919
+}

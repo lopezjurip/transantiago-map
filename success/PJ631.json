@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:42",
+  "nomett": "AVENIDA LA TRAVESIA ESQ. / AVENIDA LA ESTRELLA",
+  "paradero": "PJ631",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1868",
+        "distanciabus2": "1958",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRY-68",
+        "ppubus2": "CJRW-58",
+        "respuestaServicio": "",
+        "servicio": "510",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2838",
+        "distanciabus2": "3228",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "FLXG-36",
+        "ppubus2": "FLXS-88",
+        "respuestaServicio": "",
+        "servicio": "516",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2265",
+        "distanciabus2": "5525",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "BJFX-94",
+        "ppubus2": "CJRB-29",
+        "respuestaServicio": "",
+        "servicio": "J01",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4536",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BGDX-44",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J14C",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "5016",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 17 Y 27 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFD-56",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J19",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4558166,
+        "lng": -70.750801
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4544676197085,
+          "lng": -70.7494520197085
+        },
+        "southwest": {
+          "lat": -33.4571655802915,
+          "lng": -70.7521499802915
+        }
+      }
+    },
+    "place_id": "ChIJk84Pw6XDYpYRxR-2mhYi-ZE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4558166,
+  "lng": -70.750801
+}

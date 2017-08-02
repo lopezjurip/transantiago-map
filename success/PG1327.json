@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:38",
+  "nomett": "ARGENTINA ESQ. / ISMAEL TOCORNAL",
+  "paradero": "PG1327",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2133",
+        "distanciabus2": "3493",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRP-59",
+        "ppubus2": "CJRL-15",
+        "respuestaServicio": "",
+        "servicio": "G18",
+        "color": "#0077bb",
+        "destino": "Santo Tomás",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5309204,
+        "lng": -70.646079
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5295714197085,
+          "lng": -70.64473001970849
+        },
+        "southwest": {
+          "lat": -33.5322693802915,
+          "lng": -70.64742798029151
+        }
+      }
+    },
+    "place_id": "ChIJYZnwUPXaYpYR4aj4n5dE7js",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5309204,
+  "lng": -70.646079
+}

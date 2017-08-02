@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:16",
+  "nomett": "AV. GABRIELA ORIENTE ESQ. / LOS AZAHARES",
+  "paradero": "PF38",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "8",
+        "distanciabus2": "2328",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXJ-59",
+        "ppubus2": "CJRD-68",
+        "respuestaServicio": "",
+        "servicio": "F06",
+        "color": "#FFD400",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3009",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRD-46",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F08",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "23",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BWRF-22",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F23",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "646",
+        "distanciabus2": "2416",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "PW-6148",
+        "ppubus2": "FLXS-15",
+        "respuestaServicio": "",
+        "servicio": "F24",
+        "color": "#FFD400",
+        "destino": "Metro Elisa Correa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F27",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1028",
+        "distanciabus2": "7478",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "FLXS-59",
+        "ppubus2": "FLXS-57",
+        "respuestaServicio": "",
+        "servicio": "712",
+        "color": "#FFD400",
+        "destino": "Puente Alto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5762246,
+        "lng": -70.5666671
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5748756197085,
+          "lng": -70.5653181197085
+        },
+        "southwest": {
+          "lat": -33.57757358029149,
+          "lng": -70.5680160802915
+        }
+      }
+    },
+    "place_id": "ChIJ6aWDwNvWYpYRy_NalogMcFE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5762246,
+  "lng": -70.5666671
+}

@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "PARADA  / COLEGIO POLIVALENTE   PATRICIO MEKIS",
+  "paradero": "PI101",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2536",
+        "distanciabus2": "3196",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXK-25",
+        "ppubus2": "FLXH-66",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Vespucio",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3860",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXL-37",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "348",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "388",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXL-23",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I07",
+        "color": "#00A77E",
+        "destino": "Mall Arauco Maipu",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3257",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXL-29",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I18",
+        "color": "#00A77E",
+        "destino": "Metro U.L.A.",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2715",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "WB-1982",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "419",
+        "color": "#F7941D",
+        "destino": "Plaza Italia",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5103371,
+        "lng": -70.7754709
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5089881197085,
+          "lng": -70.7741219197085
+        },
+        "southwest": {
+          "lat": -33.5116860802915,
+          "lng": -70.77681988029151
+        }
+      }
+    },
+    "place_id": "ChIJ8a7nQi3dYpYRKXYj8X6VUHg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5103371,
+  "lng": -70.7754709
+}

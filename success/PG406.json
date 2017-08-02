@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "PARADA 11 / (M) LA CISTERNA",
+  "paradero": "PG406",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "247",
+        "distanciabus2": "4737",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "ZN-5103",
+        "ppubus2": "ZN-3977",
+        "respuestaServicio": "",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "37",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-4326",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "120",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2644",
+        "distanciabus2": "3414",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFW-84",
+        "ppubus2": "BJFV-96",
+        "respuestaServicio": "",
+        "servicio": "302",
+        "color": "#00A77E",
+        "destino": "Metro Santa Ana",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "302N",
+        "color": "#00A77E",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5367725,
+        "lng": -70.6652642
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5354235197085,
+          "lng": -70.6639152197085
+        },
+        "southwest": {
+          "lat": -33.5381214802915,
+          "lng": -70.6666131802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJoQ-psVXaYpYRl3FURMB7miw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5367725,
+  "lng": -70.6652642
+}

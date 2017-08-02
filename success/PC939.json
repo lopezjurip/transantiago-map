@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "JOSE ALCALDE DELANO ESQ. / EL TRANQUE",
+  "paradero": "PC939",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "414E",
+        "color": "#F7941D",
+        "destino": "Los Trapenses",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C10E",
+        "color": "#ED1C24",
+        "destino": "Camino Juan Pablo Ii",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "906",
+        "distanciabus2": "6446",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "FZJL-62",
+        "ppubus2": "FZJS-97",
+        "respuestaServicio": "",
+        "servicio": "C14",
+        "color": "#ED1C24",
+        "destino": "Los Trapenses",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Barnechea, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3616519,
+        "lng": -70.544133
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3603029197085,
+          "lng": -70.5427840197085
+        },
+        "southwest": {
+          "lat": -33.3630008802915,
+          "lng": -70.54548198029151
+        }
+      }
+    },
+    "place_id": "ChIJzUrhhmnJYpYRHZpR-hp3f0c",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3616519,
+  "lng": -70.544133
+}

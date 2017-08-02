@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "PARADA 3 / PARADERO 11   SANTA ROSA",
+  "paradero": "PH145",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "411",
+        "distanciabus2": "2421",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "WA-9734",
+        "ppubus2": "ZN-6340",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "212",
+        "distanciabus2": "522",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-6354",
+        "ppubus2": "ZN-5607",
+        "respuestaServicio": "",
+        "servicio": "206",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Miguel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5022115,
+        "lng": -70.639152
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5008625197085,
+          "lng": -70.6378030197085
+        },
+        "southwest": {
+          "lat": -33.5035604802915,
+          "lng": -70.6405009802915
+        }
+      }
+    },
+    "place_id": "ChIJMfi75rvaYpYRIka2y5cUOmw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5022115,
+  "lng": -70.639152
+}

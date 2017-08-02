@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:39",
+  "nomett": "AV. PADRE HURTADO -SUR ESQ. / MONROE",
+  "paradero": "PC1134",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "917",
+        "distanciabus2": "9427",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "ZN-6316",
+        "ppubus2": "BDWL-39",
+        "respuestaServicio": "",
+        "servicio": "225",
+        "color": "#0077bb",
+        "destino": "Las Condes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "275",
+        "distanciabus2": "975",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRR-17",
+        "ppubus2": "CJRT-48",
+        "respuestaServicio": "",
+        "servicio": "C03",
+        "color": "#ED1C24",
+        "destino": "Rotonda Perez Zukjovic",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C03C",
+        "color": "#ED1C24",
+        "destino": "Lo Gallo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1896",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRK-46",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C09",
+        "color": "#ED1C24",
+        "destino": "La Dehesa",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2281",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRR-81",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C16",
+        "color": "#ED1C24",
+        "destino": "El Huinganal",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Las Condes, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4112725,
+        "lng": -70.5413638
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4099235197085,
+          "lng": -70.5400148197085
+        },
+        "southwest": {
+          "lat": -33.41262148029149,
+          "lng": -70.54271278029151
+        }
+      }
+    },
+    "place_id": "ChIJBw_2J5fOYpYRNrlUcEoXpEI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4112725,
+  "lng": -70.5413638
+}

@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:31",
+  "nomett": "PARADA  / PARADERO 10   SANTA ROSA",
+  "paradero": "PH511",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "18",
+        "distanciabus2": "2418",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "BGTL-78",
+        "ppubus2": "BJFP-24",
+        "respuestaServicio": "",
+        "servicio": "H05",
+        "color": "#00A77E",
+        "destino": "Pobl. Davila",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5010236,
+        "lng": -70.638735
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.49967461970849,
+          "lng": -70.63738601970849
+        },
+        "southwest": {
+          "lat": -33.50237258029149,
+          "lng": -70.6400839802915
+        }
+      }
+    },
+    "place_id": "ChIJISslzrvaYpYR9dxDh-fLu6M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5010236,
+  "lng": -70.638735
+}

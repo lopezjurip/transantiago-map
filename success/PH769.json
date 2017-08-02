@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "SIERRA BELLA ESQ. / GANDARILLAS",
+  "paradero": "PH769",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4505",
+        "distanciabus2": "5095",
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "BJFX-62",
+        "ppubus2": "BJFT-62",
+        "respuestaServicio": "",
+        "servicio": "E04",
+        "color": "#00A77E",
+        "destino": "Metro Franklin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4855546,
+        "lng": -70.63262999999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4842056197085,
+          "lng": -70.63128101970848
+        },
+        "southwest": {
+          "lat": -33.4869035802915,
+          "lng": -70.63397898029149
+        }
+      }
+    },
+    "place_id": "ChIJz2r3sFLFYpYRXGGHrIg2WBU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4855546,
+  "lng": -70.63262999999999
+}

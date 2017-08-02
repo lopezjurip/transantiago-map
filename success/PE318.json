@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:20",
+  "nomett": "MANUEL RODRIGUEZ ESQ. / CORONEL",
+  "paradero": "PE318",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3636",
+        "distanciabus2": "4086",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "BJFV-78",
+        "ppubus2": "BJFT-64",
+        "respuestaServicio": "",
+        "servicio": "E02",
+        "color": "#00A77E",
+        "destino": "Diego Portales",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Granja, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5462909,
+        "lng": -70.61554699999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5449419197085,
+          "lng": -70.6141980197085
+        },
+        "southwest": {
+          "lat": -33.5476398802915,
+          "lng": -70.6168959802915
+        }
+      }
+    },
+    "place_id": "ChIJB3mHzJjQYpYR_XAs_k_ghW0",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5462909,
+  "lng": -70.61554699999999
+}

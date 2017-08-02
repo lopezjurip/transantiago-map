@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:14",
+  "nomett": "AVENIDA EL PENON ESQ. / SAN ENRIQUE",
+  "paradero": "PF846",
+  "respuestaParadero": "No hay buses que se dirijan al paradero.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "F05",
+        "color": "#FFD400",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2754",
+        "distanciabus2": "4784",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "FLXT-82",
+        "ppubus2": "BKXV-84",
+        "respuestaServicio": "",
+        "servicio": "F14",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5793727,
+        "lng": -70.552336
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5780237197085,
+          "lng": -70.5509870197085
+        },
+        "southwest": {
+          "lat": -33.5807216802915,
+          "lng": -70.55368498029151
+        }
+      }
+    },
+    "place_id": "ChIJBQcKR8DWYpYRLjcDSXev9Ck",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5793727,
+  "lng": -70.552336
+}

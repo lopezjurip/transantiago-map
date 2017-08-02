@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "SAN GERMAN ESQ. / LOS TAMARINDOS",
+  "paradero": "PJ1031",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2988",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXR-62",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J06",
+        "color": "#0093B3",
+        "destino": "Metro Pajaritos",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Prado, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4396062,
+        "lng": -70.719551
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4382572197085,
+          "lng": -70.71820201970849
+        },
+        "southwest": {
+          "lat": -33.4409551802915,
+          "lng": -70.7208999802915
+        }
+      }
+    },
+    "place_id": "ChIJs3m2NYrDYpYRngGQcyuXkBo",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4396062,
+  "lng": -70.719551
+}

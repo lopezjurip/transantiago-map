@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "PEPE VILA ESQ. / LOS PRUNOS",
+  "paradero": "PD1106",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1166",
+        "distanciabus2": "3726",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRX-88",
+        "ppubus2": "CJRV-44",
+        "respuestaServicio": "",
+        "servicio": "D11",
+        "color": "#F7941D",
+        "destino": "Diagonal Las Torres",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4543408,
+        "lng": -70.552059
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4529918197085,
+          "lng": -70.55071001970849
+        },
+        "southwest": {
+          "lat": -33.4556897802915,
+          "lng": -70.55340798029151
+        }
+      }
+    },
+    "place_id": "ChIJ9yt1Sz7OYpYRWL5C99bS89o",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4543408,
+  "lng": -70.552059
+}

@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "AVENIDA QUILIN ESQ. / LOS 3 ANTONIOS",
+  "paradero": "PD1165",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1917",
+        "distanciabus2": "3097",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRV-82",
+        "ppubus2": "CJRV-76",
+        "respuestaServicio": "",
+        "servicio": "D14",
+        "color": "#F7941D",
+        "destino": "Metro Quilín",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Macul, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.485036,
+        "lng": -70.604784
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4836870197085,
+          "lng": -70.60343501970848
+        },
+        "southwest": {
+          "lat": -33.4863849802915,
+          "lng": -70.6061329802915
+        }
+      }
+    },
+    "place_id": "ChIJHUlhOhzQYpYRCu0XsId6eCQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.485036,
+  "lng": -70.604784
+}

@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "ALC.CARLOS VALDOVINOS ESQ. / BELEN",
+  "paradero": "PH97",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2422",
+        "distanciabus2": "3622",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "ZB-6739",
+        "ppubus2": "ZB-6724",
+        "respuestaServicio": "",
+        "servicio": "113",
+        "color": "#00A1E4",
+        "destino": "Metro Los Héroes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1642",
+        "distanciabus2": "3632",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "ZN-6201",
+        "ppubus2": "ZN-3950",
+        "respuestaServicio": "",
+        "servicio": "115",
+        "color": "#00A1E4",
+        "destino": "Metro Los Héroes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4616",
+        "distanciabus2": "6716",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "ZN-5473",
+        "ppubus2": "ZN-5441",
+        "respuestaServicio": "",
+        "servicio": "125",
+        "color": "#00A1E4",
+        "destino": "Metro U. De Chile",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 12 min.",
+        "servicio": "H04",
+        "color": "#00A77E",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "323",
+        "distanciabus2": "5373",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRW-56",
+        "ppubus2": "CJRW-53",
+        "respuestaServicio": "",
+        "servicio": "H07",
+        "color": "#00A77E",
+        "destino": "Metro Ñuble",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3005",
+        "distanciabus2": "3285",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRX-66",
+        "ppubus2": "CJRW-12",
+        "respuestaServicio": "",
+        "servicio": "345",
+        "color": "#00A77E",
+        "destino": "Alameda",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pedro Aguirre Cerda, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4786711,
+        "lng": -70.6734158
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4773221197085,
+          "lng": -70.6720668197085
+        },
+        "southwest": {
+          "lat": -33.4800200802915,
+          "lng": -70.67476478029151
+        }
+      }
+    },
+    "place_id": "ChIJ5THcDdnEYpYRhlmLsjGBgTQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4786711,
+  "lng": -70.6734158
+}

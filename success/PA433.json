@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:01",
+  "nomett": "PARADA 1 / ESCUELA   DE INGENIERIA",
+  "paradero": "PA433",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "800",
+        "distanciabus2": "780",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFH-23",
+        "ppubus2": "BJFJ-29",
+        "respuestaServicio": "",
+        "servicio": "506",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "506E",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "805",
+        "distanciabus2": "1045",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXG-34",
+        "ppubus2": "FLXG-33",
+        "respuestaServicio": "",
+        "servicio": "506V",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "770",
+        "distanciabus2": "2080",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXG-24",
+        "ppubus2": "BJFF-52",
+        "respuestaServicio": "",
+        "servicio": "507",
+        "color": "#0093B3",
+        "destino": "Av. Grecia",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2396",
+        "distanciabus2": "8116",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "BFKB-99",
+        "ppubus2": "FLXD-41",
+        "respuestaServicio": "",
+        "servicio": "509",
+        "color": "#0093B3",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4572035,
+        "lng": -70.66423139999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4558545197085,
+          "lng": -70.6628824197085
+        },
+        "southwest": {
+          "lat": -33.45855248029149,
+          "lng": -70.6655803802915
+        }
+      }
+    },
+    "place_id": "ChIJxZPWaAPFYpYRhMpcIW25Gl8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4572035,
+  "lng": -70.66423139999999
+}

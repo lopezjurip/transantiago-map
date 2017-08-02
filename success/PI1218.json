@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:29",
+  "nomett": "HERMANOS CARRERA ESQ. / USPALLATA",
+  "paradero": "PI1218",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1589",
+        "distanciabus2": "5909",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 20 Y 30 min. ",
+        "ppubus1": "BBSR-17",
+        "ppubus2": "FLXF-16",
+        "respuestaServicio": "",
+        "servicio": "I16",
+        "color": "#00A77E",
+        "destino": "Poblacion Santiago",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Estación Central",
+        "short_name": "Estación Central",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Estación Central, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4747856,
+        "lng": -70.69629499999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4734366197085,
+          "lng": -70.6949460197085
+        },
+        "southwest": {
+          "lat": -33.4761345802915,
+          "lng": -70.6976439802915
+        }
+      }
+    },
+    "place_id": "ChIJB7CZgJXEYpYRAkHeM2iG8wk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4747856,
+  "lng": -70.69629499999999
+}

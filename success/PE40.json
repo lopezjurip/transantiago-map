@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:19",
+  "nomett": "PARADA 1 / TERMINAL   MARIA ANGELICA",
+  "paradero": "PE40",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2165",
+        "distanciabus2": "4025",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "ZN-4332",
+        "ppubus2": "ZN-6547",
+        "respuestaServicio": "",
+        "servicio": "106",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "60",
+        "distanciabus2": "10",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-6208",
+        "ppubus2": "ZN-6536",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "837",
+        "distanciabus2": "3587",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "ZN-5450",
+        "ppubus2": "ZJ-1784",
+        "respuestaServicio": "",
+        "servicio": "126",
+        "color": "#00A1E4",
+        "destino": "La Higuera",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2664",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFT-97",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "E06",
+        "color": "#00A77E",
+        "destino": "María Angélica",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2",
+        "distanciabus2": "2302",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BJFV-75",
+        "ppubus2": "BJFV-12",
+        "respuestaServicio": "",
+        "servicio": "E17",
+        "color": "#00A77E",
+        "destino": "Las Perdices",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2859",
+        "distanciabus2": "5199",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "BBZX-52",
+        "ppubus2": "CJRH-60",
+        "respuestaServicio": "",
+        "servicio": "418",
+        "color": "#F7941D",
+        "destino": "Av. Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5179387,
+        "lng": -70.557378
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5165897197085,
+          "lng": -70.55602901970849
+        },
+        "southwest": {
+          "lat": -33.5192876802915,
+          "lng": -70.55872698029151
+        }
+      }
+    },
+    "place_id": "ChIJ_yK07gnRYpYRAr0tbLDtQbE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5179387,
+  "lng": -70.557378
+}

@@ -1,0 +1,143 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:37",
+  "nomett": "AV. AMERICO VESPUCIO ESQ. / ANIBAL ZANARTU",
+  "paradero": "PG199",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2474",
+        "distanciabus2": "5814",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "ZN-3977",
+        "ppubus2": "ZN-5114",
+        "respuestaServicio": "",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1823",
+        "distanciabus2": "2073",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZW-5077",
+        "ppubus2": "WC-2781",
+        "respuestaServicio": "",
+        "servicio": "211",
+        "color": "#0077bb",
+        "destino": "Nos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2320",
+        "distanciabus2": "4240",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFK-33",
+        "ppubus2": "BJFK-26",
+        "respuestaServicio": "",
+        "servicio": "229",
+        "color": "#0077bb",
+        "destino": "Metro La Moneda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "262N",
+        "color": "#0077bb",
+        "destino": "Villa España",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5404854,
+        "lng": -70.646536
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.53913641970851,
+          "lng": -70.64518701970849
+        },
+        "southwest": {
+          "lat": -33.5418343802915,
+          "lng": -70.64788498029151
+        }
+      }
+    },
+    "place_id": "ChIJVRW9bl3aYpYRfAjp67u7uIE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5404854,
+  "lng": -70.646536
+}

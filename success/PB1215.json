@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "SAN IGNACIO ESQ. / CERRO SANTA LUCIA",
+  "paradero": "PB1215",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "313E",
+        "color": "#00A77E",
+        "destino": "Estacion Central",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "316E",
+        "color": "#00A77E",
+        "destino": "Metro Cal Y Canto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "7567",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 22 Y 32 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CRXW-94",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Metro Zapadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quilicura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3353062,
+        "lng": -70.718525
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.33395721970849,
+          "lng": -70.71717601970849
+        },
+        "southwest": {
+          "lat": -33.33665518029149,
+          "lng": -70.71987398029151
+        }
+      }
+    },
+    "place_id": "ChIJtb_K4azAYpYR_JBgG3xtQNk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3353062,
+  "lng": -70.718525
+}

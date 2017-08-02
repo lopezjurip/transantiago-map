@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:14",
+  "nomett": "RAFAEL ALBERTI ESQ. / DALI",
+  "paradero": "PF881",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1440",
+        "distanciabus2": "1620",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRC-72",
+        "ppubus2": "CJRD-37",
+        "respuestaServicio": "",
+        "servicio": "F25",
+        "color": "#FFD400",
+        "destino": "Bajos De Mena",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "215",
+        "distanciabus2": "2495",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BWRF-19",
+        "ppubus2": "CJRC-12",
+        "respuestaServicio": "",
+        "servicio": "F29",
+        "color": "#FFD400",
+        "destino": "Pie Andino",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6131481,
+        "lng": -70.5884487
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6117991197085,
+          "lng": -70.5870997197085
+        },
+        "southwest": {
+          "lat": -33.6144970802915,
+          "lng": -70.58979768029151
+        }
+      }
+    },
+    "place_id": "ChIJBQawe6bXYpYRHiSwW4et7Ys",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6131481,
+  "lng": -70.5884487
+}

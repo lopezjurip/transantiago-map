@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "PARADA 1 / DEPARTAMENTAL   SANTA ROSA",
+  "paradero": "PH153",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1221",
+        "distanciabus2": "2971",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "ZN-5599",
+        "ppubus2": "WC-1111",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1682",
+        "distanciabus2": "9072",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 20 Y 30 min. ",
+        "ppubus1": "WB-1030",
+        "ppubus2": "WA-9793",
+        "respuestaServicio": "",
+        "servicio": "203E",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3317",
+        "distanciabus2": "10377",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "ZN-5381",
+        "ppubus2": "WC-2778",
+        "respuestaServicio": "",
+        "servicio": "206",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "7944",
+        "distanciabus2": "9034",
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": "Entre 15 Y 25 min. ",
+        "ppubus1": "WA-9982",
+        "ppubus2": "ZN-6256",
+        "respuestaServicio": "",
+        "servicio": "206E",
+        "color": "#0077bb",
+        "destino": "Centro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5065231,
+        "lng": -70.638554
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5051741197085,
+          "lng": -70.6372050197085
+        },
+        "southwest": {
+          "lat": -33.5078720802915,
+          "lng": -70.63990298029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJS7hyz73aYpYR_DZiTvyet38",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5065231,
+  "lng": -70.638554
+}

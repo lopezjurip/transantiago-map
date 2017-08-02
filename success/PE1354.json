@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:21",
+  "nomett": "AV. SANTO TOMAS ESQ. / LAS PARCELAS",
+  "paradero": "PE1354",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "31",
+        "distanciabus2": "1291",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRL-62",
+        "ppubus2": "CJRP-32",
+        "respuestaServicio": "",
+        "servicio": "G04",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "264N",
+        "color": "#0077bb",
+        "destino": "Pedro Fontova",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Granja, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5572349,
+        "lng": -70.6196683
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.55588591970849,
+          "lng": -70.61831931970849
+        },
+        "southwest": {
+          "lat": -33.55858388029149,
+          "lng": -70.62101728029151
+        }
+      }
+    },
+    "place_id": "ChIJFylRpKfQYpYRT856-5nSrZQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5572349,
+  "lng": -70.6196683
+}

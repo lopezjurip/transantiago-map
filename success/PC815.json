@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:35",
+  "nomett": "SAN F. DE ASIS ESQ. / AVENIDA LA PLAZA",
+  "paradero": "PC815",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2551",
+        "distanciabus2": "3111",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "CJRP-99",
+        "ppubus2": "CJRY-13",
+        "respuestaServicio": "",
+        "servicio": "C09",
+        "color": "#ED1C24",
+        "destino": "Nueva Bilbao",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Las Condes, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3899515,
+        "lng": -70.50013799999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3886025197085,
+          "lng": -70.49878901970848
+        },
+        "southwest": {
+          "lat": -33.3913004802915,
+          "lng": -70.50148698029149
+        }
+      }
+    },
+    "place_id": "ChIJsf3ZcG3MYpYRRAbQIlYq_vQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3899515,
+  "lng": -70.50013799999999
+}

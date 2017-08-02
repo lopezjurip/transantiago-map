@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "CALLE 1 ESQ. / SAN PEDRO DE ATACAMA",
+  "paradero": "PB1107",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4278",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRD-73",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Ciudad Empresarial",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 12 min.",
+        "servicio": "B10",
+        "color": "#ED1C24",
+        "destino": "Metro Cerro Blanco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4555",
+        "distanciabus2": "12925",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJJT-30",
+        "ppubus2": "CRXW-94",
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Metro Zapadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huechuraba, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.359763,
+        "lng": -70.6904534
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3584140197085,
+          "lng": -70.68910441970849
+        },
+        "southwest": {
+          "lat": -33.3611119802915,
+          "lng": -70.6918023802915
+        }
+      }
+    },
+    "place_id": "ChIJUYmH2RjHYpYRWosQM8p7fZY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.359763,
+  "lng": -70.6904534
+}

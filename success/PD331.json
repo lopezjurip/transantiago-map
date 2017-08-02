@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:32",
+  "nomett": "AVENIDA IRARRAZAVAL ESQ. / AVENIDA SALVADOR",
+  "paradero": "PD331",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "705",
+        "distanciabus2": "2645",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "BJFF-22",
+        "ppubus2": "BJFK-68",
+        "respuestaServicio": "",
+        "servicio": "227",
+        "color": "#0077bb",
+        "destino": "La Reina",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 11 min.",
+        "servicio": "325",
+        "color": "#00A77E",
+        "destino": "Gabriela",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2883",
+        "distanciabus2": "3863",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "ZN-5845",
+        "ppubus2": "WB-1975",
+        "respuestaServicio": "",
+        "servicio": "403",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6361",
+        "distanciabus2": "6511",
+        "horaprediccionbus1": "Entre 24 Y 34 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "WA-9499",
+        "ppubus2": "CJRW-94",
+        "respuestaServicio": "",
+        "servicio": "422",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "952",
+        "distanciabus2": "2382",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "CJRV-50",
+        "ppubus2": "CJRT-79",
+        "respuestaServicio": "",
+        "servicio": "D03",
+        "color": "#F7941D",
+        "destino": "Las Parcelas",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2711",
+        "distanciabus2": "4371",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "BJFB-14",
+        "ppubus2": "BJFR-61",
+        "respuestaServicio": "",
+        "servicio": "513",
+        "color": "#0093B3",
+        "destino": "Jose Arrieta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4536061,
+        "lng": -70.62086049999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4522571197085,
+          "lng": -70.61951151970848
+        },
+        "southwest": {
+          "lat": -33.4549550802915,
+          "lng": -70.62220948029149
+        }
+      }
+    },
+    "place_id": "ChIJTV1BO4jPYpYRtAHnVenzOoU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4536061,
+  "lng": -70.62086049999999
+}

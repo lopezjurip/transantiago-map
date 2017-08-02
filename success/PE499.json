@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:19",
+  "nomett": "DIAGONAL SANTA IRENE ESQ. / PAICAVI",
+  "paradero": "PE499",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1767",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFT-97",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "E06",
+        "color": "#00A77E",
+        "destino": "María Angélica",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5202926,
+        "lng": -70.56669099999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5189436197085,
+          "lng": -70.5653420197085
+        },
+        "southwest": {
+          "lat": -33.52164158029149,
+          "lng": -70.5680399802915
+        }
+      }
+    },
+    "place_id": "ChIJv-nyPQfRYpYRSuOmM0sV5Go",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5202926,
+  "lng": -70.56669099999999
+}

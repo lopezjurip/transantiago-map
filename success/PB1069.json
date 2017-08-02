@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "LLANQUIHUE ESQ. / MANUEL RODRIGUEZ",
+  "paradero": "PB1069",
+  "respuestaParadero": "No hay buses que se dirijan al paradero.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "120",
+        "color": "#00A1E4",
+        "destino": "Metro La Cisterna",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1186",
+        "distanciabus2": "5776",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRB-79",
+        "ppubus2": "CJRC-43",
+        "respuestaServicio": "",
+        "servicio": "B09",
+        "color": "#ED1C24",
+        "destino": "Hosp. Felix Bulnes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B29",
+        "color": "#ED1C24",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3962062,
+        "lng": -70.723336
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.39485721970851,
+          "lng": -70.7219870197085
+        },
+        "southwest": {
+          "lat": -33.3975551802915,
+          "lng": -70.7246849802915
+        }
+      }
+    },
+    "place_id": "ChIJD8Qre0nBYpYRkLs9ts4Zg1o",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3962062,
+  "lng": -70.723336
+}

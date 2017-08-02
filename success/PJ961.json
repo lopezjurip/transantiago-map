@@ -1,0 +1,111 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:41",
+  "nomett": "TORRES DE PISA ESQ. / TURIN",
+  "paradero": "PJ961",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "295",
+        "distanciabus2": "6355",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "FLXK-33",
+        "ppubus2": "BDXR-58",
+        "respuestaServicio": "",
+        "servicio": "J13",
+        "color": "#0093B3",
+        "destino": "Costanera Sur",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "117",
+        "distanciabus2": "2697",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BJFB-82",
+        "ppubus2": "YB-6668",
+        "respuestaServicio": "",
+        "servicio": "J13C",
+        "color": "#0093B3",
+        "destino": "Costanera Sur",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerro Navia",
+        "short_name": "Cerro Navia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cerro Navia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.426865,
+        "lng": -70.730475
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4255160197085,
+          "lng": -70.72912601970849
+        },
+        "southwest": {
+          "lat": -33.4282139802915,
+          "lng": -70.73182398029151
+        }
+      }
+    },
+    "place_id": "ChIJey9MjO_DYpYRtiEKycc7qfI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.426865,
+  "lng": -70.730475
+}

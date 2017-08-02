@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:33",
+  "nomett": "AVENIDA EGANA ESQ. / CALLE NUEVA",
+  "paradero": "PD1350",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "196",
+        "distanciabus2": "746",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "FLXD-29",
+        "ppubus2": "BJFC-64",
+        "respuestaServicio": "",
+        "servicio": "505",
+        "color": "#0093B3",
+        "destino": "Cerro Navia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Penalolen",
+        "short_name": "Penalolen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Peñalolén",
+        "short_name": "Peñalolén",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Penalolen, Peñalolén, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4690745,
+        "lng": -70.574711
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.46772551970849,
+          "lng": -70.57336201970848
+        },
+        "southwest": {
+          "lat": -33.47042348029149,
+          "lng": -70.57605998029149
+        }
+      }
+    },
+    "place_id": "ChIJn5MWL9PPYpYR-MLuNAZlEWg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4690745,
+  "lng": -70.574711
+}

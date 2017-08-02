@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:20",
+  "nomett": "PARADA 5 / (M) LOS QUILLAYES",
+  "paradero": "PE332",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4113",
+        "distanciabus2": "8633",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 23 Y 33 min. ",
+        "ppubus1": "BJFT-59",
+        "ppubus2": "BJFV-78",
+        "respuestaServicio": "",
+        "servicio": "E02",
+        "color": "#00A77E",
+        "destino": "Diego Portales",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "21",
+        "distanciabus2": "3761",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "BJFT-83",
+        "ppubus2": "BJFW-55",
+        "respuestaServicio": "",
+        "servicio": "E11",
+        "color": "#00A77E",
+        "destino": "Diego Portales",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5608363,
+        "lng": -70.585832
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5594873197085,
+          "lng": -70.58448301970849
+        },
+        "southwest": {
+          "lat": -33.56218528029149,
+          "lng": -70.58718098029149
+        }
+      }
+    },
+    "place_id": "ChIJ-yYEddLQYpYRufcapPLsGzk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5608363,
+  "lng": -70.585832
+}

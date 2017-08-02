@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:57",
+  "nomett": "PARADA 2 / DORSAL   INDEPENDENCIA",
+  "paradero": "PB16",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3053",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRF-11",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "101",
+        "color": "#00A1E4",
+        "destino": "Cerrillos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "767",
+        "distanciabus2": "2417",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "CJRF-96",
+        "ppubus2": "ZB-6721",
+        "respuestaServicio": "",
+        "servicio": "107",
+        "color": "#00A1E4",
+        "destino": "Av. Departamental",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "107C",
+        "color": "#00A1E4",
+        "destino": "Plaza Renca",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "471",
+        "distanciabus2": "4301",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "FLXB-40",
+        "ppubus2": "FLXB-62",
+        "respuestaServicio": "",
+        "servicio": "B10",
+        "color": "#ED1C24",
+        "destino": "Metro Cerro Blanco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4017",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXB-57",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B27",
+        "color": "#ED1C24",
+        "destino": "Metro Salvador",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3976016,
+        "lng": -70.6691005
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.39625261970851,
+          "lng": -70.66775151970849
+        },
+        "southwest": {
+          "lat": -33.3989505802915,
+          "lng": -70.67044948029151
+        }
+      }
+    },
+    "place_id": "ChIJTyiBf33GYpYRlAp9Ml4J8p4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3976016,
+  "lng": -70.6691005
+}

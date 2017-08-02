@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "CARD. RAUL SILVA H. ESQ. / AVENIDA LO OVALLE",
+  "paradero": "PH86",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "634",
+        "distanciabus2": "1154",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-5437",
+        "ppubus2": "ZN-6468",
+        "respuestaServicio": "",
+        "servicio": "105",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1548",
+        "distanciabus2": "5898",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "ZN-5113",
+        "ppubus2": "ZN-5313",
+        "respuestaServicio": "",
+        "servicio": "120",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "604",
+        "distanciabus2": "2704",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "ZN-5473",
+        "ppubus2": "ZN-5441",
+        "respuestaServicio": "",
+        "servicio": "125",
+        "color": "#00A1E4",
+        "destino": "Metro U. De Chile",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2694",
+        "distanciabus2": "4624",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "CJRW-52",
+        "ppubus2": "FLXP-63",
+        "respuestaServicio": "",
+        "servicio": "H03",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "346N",
+        "color": "#00A77E",
+        "destino": "Alameda",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Espejo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5037507,
+        "lng": -70.690797
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5024017197085,
+          "lng": -70.6894480197085
+        },
+        "southwest": {
+          "lat": -33.5050996802915,
+          "lng": -70.6921459802915
+        }
+      }
+    },
+    "place_id": "ChIJ6-p4rTfbYpYRFe52QiKRWLQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5037507,
+  "lng": -70.690797
+}

@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:34",
+  "nomett": "BARROS ARANA ESQ. / ALFONSO DONOSO",
+  "paradero": "PG918",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4566",
+        "distanciabus2": "10206",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "CJRR-93",
+        "ppubus2": "CJRR-70",
+        "respuestaServicio": "",
+        "servicio": "G07",
+        "color": "#0077bb",
+        "destino": "San Francisco",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipo",
+        "short_name": "Maipo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Bernardo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6066174,
+        "lng": -70.703142
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6052684197085,
+          "lng": -70.70179301970849
+        },
+        "southwest": {
+          "lat": -33.6079663802915,
+          "lng": -70.70449098029151
+        }
+      }
+    },
+    "place_id": "ChIJ0ynjQTjZYpYRoDarAXuEipM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6066174,
+  "lng": -70.703142
+}

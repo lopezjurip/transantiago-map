@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:35",
+  "nomett": "AV. FERNANDEZ ALBANO ESQ. / CONCEPCION",
+  "paradero": "PG460",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1833",
+        "distanciabus2": "7393",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 23 Y 33 min. ",
+        "ppubus1": "BJFV-80",
+        "ppubus2": "BJFS-83",
+        "respuestaServicio": "",
+        "servicio": "E03",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5246653,
+        "lng": -70.654132
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.52331631970849,
+          "lng": -70.65278301970851
+        },
+        "southwest": {
+          "lat": -33.52601428029149,
+          "lng": -70.65548098029151
+        }
+      }
+    },
+    "place_id": "ChIJpxOXAPHaYpYRE-0_MmdRjU4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5246653,
+  "lng": -70.654132
+}

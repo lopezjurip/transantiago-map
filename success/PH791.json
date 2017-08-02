@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "PINTOR CICARELLI ESQ. / ARTEMIO GUTIERREZ",
+  "paradero": "PH791",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6019",
+        "distanciabus2": "6799",
+        "horaprediccionbus1": "Entre 21 Y 31 min. ",
+        "horaprediccionbus2": "Entre 23 Y 33 min. ",
+        "ppubus1": "BJFX-62",
+        "ppubus2": "BJFT-62",
+        "respuestaServicio": "",
+        "servicio": "E04",
+        "color": "#00A77E",
+        "destino": "Metro Franklin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2742",
+        "distanciabus2": "4612",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 12 Y 18 min. ",
+        "ppubus1": "FLXF-68",
+        "ppubus2": "BJFR-94",
+        "respuestaServicio": "",
+        "servicio": "385",
+        "color": "#00A77E",
+        "destino": "Villa Francia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3157",
+        "distanciabus2": "5557",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "FLXC-58",
+        "ppubus2": "FLXC-25",
+        "respuestaServicio": "",
+        "servicio": "D07",
+        "color": "#F7941D",
+        "destino": "Metro Franklin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4762809,
+        "lng": -70.6323769
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4749319197085,
+          "lng": -70.63102791970849
+        },
+        "southwest": {
+          "lat": -33.4776298802915,
+          "lng": -70.63372588029151
+        }
+      }
+    },
+    "place_id": "ChIJBfL0E1DFYpYR7oKOzkK71Bo",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4762809,
+  "lng": -70.6323769
+}

@@ -1,0 +1,112 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "PARADA 10 / (M) SANTA ROSA",
+  "paradero": "PG423",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1417",
+        "distanciabus2": "6937",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "BJFX-37",
+        "ppubus2": "BJFT-65",
+        "respuestaServicio": "",
+        "servicio": "E01",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1829",
+        "distanciabus2": "4369",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "BJFS-23",
+        "ppubus2": "BJFT-78",
+        "respuestaServicio": "",
+        "servicio": "E02",
+        "color": "#00A77E",
+        "destino": "Diego Portales",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5413209,
+        "lng": -70.6343368
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5399719197085,
+          "lng": -70.63298781970849
+        },
+        "southwest": {
+          "lat": -33.5426698802915,
+          "lng": -70.63568578029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJz-qo6G_aYpYRgzhV-5ySl0M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5413209,
+  "lng": -70.6343368
+}

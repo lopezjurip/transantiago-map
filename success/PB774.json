@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "CAM. BOSQUE DE STGO. ESQ. / REP. YUGOSLAVIA",
+  "paradero": "PB774",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4178",
+        "distanciabus2": "4408",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 12 Y 18 min. ",
+        "ppubus1": "ZN-4381",
+        "ppubus2": "ZN-6497",
+        "respuestaServicio": "",
+        "servicio": "116",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5680",
+        "distanciabus2": "6100",
+        "horaprediccionbus1": "Entre 16 Y 24 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "ZB-6708",
+        "ppubus2": "CJRF-96",
+        "respuestaServicio": "",
+        "servicio": "117",
+        "color": "#00A1E4",
+        "destino": "Metro Vespucio Norte",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "117C",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3244",
+        "distanciabus2": "5884",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "FLXB-65",
+        "ppubus2": "FLXB-28",
+        "respuestaServicio": "",
+        "servicio": "B02",
+        "color": "#ED1C24",
+        "destino": "Camino Punta Mocha",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B02N",
+        "color": "#ED1C24",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2720",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRD-92",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Barrio San Ignacio",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huechuraba, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3766087,
+        "lng": -70.628592
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3752597197085,
+          "lng": -70.6272430197085
+        },
+        "southwest": {
+          "lat": -33.37795768029149,
+          "lng": -70.62994098029151
+        }
+      }
+    },
+    "place_id": "ChIJ9wkvESLGYpYRgQNb1IrWxB4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3766087,
+  "lng": -70.628592
+}

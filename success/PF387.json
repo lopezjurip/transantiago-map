@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:16",
+  "nomett": "LAS NIEVES ORIENTE ESQ. / SANTA ALICIA",
+  "paradero": "PF387",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3566",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXS-30",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F07",
+        "color": "#FFD400",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5942314,
+        "lng": -70.578181
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5928824197085,
+          "lng": -70.5768320197085
+        },
+        "southwest": {
+          "lat": -33.5955803802915,
+          "lng": -70.57952998029151
+        }
+      }
+    },
+    "place_id": "ChIJbw7Y6xzXYpYRjgssbQDl0m8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5942314,
+  "lng": -70.578181
+}

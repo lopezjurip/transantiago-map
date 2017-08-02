@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "AVENIDA SAN PABLO ESQ. / CRUCHAGA MONTT",
+  "paradero": "PJ135",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2798",
+        "distanciabus2": "4978",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "FLXB-16",
+        "ppubus2": "ZN-6010",
+        "respuestaServicio": "",
+        "servicio": "402",
+        "color": "#F7941D",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1326",
+        "distanciabus2": "1936",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "ZN-6745",
+        "ppubus2": "CJRY-45",
+        "respuestaServicio": "",
+        "servicio": "406",
+        "color": "#F7941D",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1316",
+        "distanciabus2": "3856",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRT-35",
+        "ppubus2": "WA-9481",
+        "respuestaServicio": "",
+        "servicio": "407",
+        "color": "#F7941D",
+        "destino": "Las Condes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2873",
+        "distanciabus2": "5773",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "CJRT-34",
+        "ppubus2": "ZN-6047",
+        "respuestaServicio": "",
+        "servicio": "422",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4158",
+        "distanciabus2": "4678",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "CJRV-46",
+        "ppubus2": "CJRS-72",
+        "respuestaServicio": "",
+        "servicio": "426",
+        "color": "#F7941D",
+        "destino": "La Dehesa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1918",
+        "distanciabus2": "3748",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "ZN-5650",
+        "ppubus2": "FLXB-11",
+        "respuestaServicio": "",
+        "servicio": "427",
+        "color": "#F7941D",
+        "destino": "Vital Apoquindo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quinta Normal, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4387226,
+        "lng": -70.694819
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4373736197085,
+          "lng": -70.6934700197085
+        },
+        "southwest": {
+          "lat": -33.44007158029149,
+          "lng": -70.6961679802915
+        }
+      }
+    },
+    "place_id": "ChIJN7KiuWnEYpYRgJd-1F7gFm8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4387226,
+  "lng": -70.694819
+}

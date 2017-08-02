@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "PEDRO DONOSO ESQ. / MARIA DEL PILAR",
+  "paradero": "PB45",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3760",
+        "distanciabus2": "5930",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "ZN-3962",
+        "ppubus2": "ZN-4342",
+        "respuestaServicio": "",
+        "servicio": "101",
+        "color": "#00A1E4",
+        "destino": "Recoleta",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4228",
+        "distanciabus2": "4328",
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "ZN-5422",
+        "ppubus2": "FLXK-19",
+        "respuestaServicio": "",
+        "servicio": "107",
+        "color": "#00A1E4",
+        "destino": "Ciudad Empresarial",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "107C",
+        "color": "#00A1E4",
+        "destino": "Ciudad Empresarial",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3980845,
+        "lng": -70.63833430000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3967355197085,
+          "lng": -70.63698531970851
+        },
+        "southwest": {
+          "lat": -33.3994334802915,
+          "lng": -70.63968328029152
+        }
+      }
+    },
+    "place_id": "ChIJC-cZngnGYpYRlZq6PYni5G4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3980845,
+  "lng": -70.63833430000001
+}

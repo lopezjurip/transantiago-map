@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "NUEVA IMPERIAL ESQ. / SANTA PETRONILA",
+  "paradero": "PJ1609",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "23",
+        "distanciabus2": "303",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BFKC-76",
+        "ppubus2": "CJRW-59",
+        "respuestaServicio": "",
+        "servicio": "514",
+        "color": "#0093B3",
+        "destino": "Enea",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2437",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BDXR-25",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J19",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quinta Normal",
+        "short_name": "Quinta Normal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quinta Normal, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4459034,
+        "lng": -70.704917
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4445544197085,
+          "lng": -70.70356801970848
+        },
+        "southwest": {
+          "lat": -33.44725238029149,
+          "lng": -70.7062659802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJr1RQLWXEYpYRKpLaLDxE6RI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4459034,
+  "lng": -70.704917
+}

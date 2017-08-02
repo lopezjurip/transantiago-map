@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "ALC.CARLOS VALDOVINOS ESQ. / AV. J. J. PRIETO VIAL",
+  "paradero": "PH102",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1582",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRX-69",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "H04",
+        "color": "#00A77E",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1904",
+        "distanciabus2": "8144",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 23 Y 33 min. ",
+        "ppubus1": "BJFP-33",
+        "ppubus2": "FLXP-58",
+        "respuestaServicio": "",
+        "servicio": "H06",
+        "color": "#00A77E",
+        "destino": "Av. Matta",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pedro Aguirre Cerda, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4788672,
+        "lng": -70.6566631
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4775182197085,
+          "lng": -70.65531411970849
+        },
+        "southwest": {
+          "lat": -33.4802161802915,
+          "lng": -70.65801208029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJoedSrzrFYpYRdf_Sh4FFwMw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4788672,
+  "lng": -70.6566631
+}

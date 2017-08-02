@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:50",
+  "nomett": "CAMINO A LONQUEN ESQ. / AVENIDA LO ESPEJO",
+  "paradero": "PI1648",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "26",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXL-73",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I24",
+        "color": "#00A77E",
+        "destino": "Villa Los Maitenes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "31",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXF-26",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I12",
+        "color": "#00A77E",
+        "destino": "Pueblito La Farfana",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5236,
+        "lng": -70.72617799999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5222510197085,
+          "lng": -70.72482901970848
+        },
+        "southwest": {
+          "lat": -33.5249489802915,
+          "lng": -70.7275269802915
+        }
+      }
+    },
+    "place_id": "ChIJebCHZJjcYpYR8MXjuA4TS2M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5236,
+  "lng": -70.72617799999999
+}

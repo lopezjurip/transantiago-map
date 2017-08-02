@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "HUECHURABA ESQ. / CANBERRA",
+  "paradero": "PB1162",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 5 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 5 min.",
+        "servicio": "230",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1784",
+        "distanciabus2": "8054",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "CJRF-44",
+        "ppubus2": "CJRC-61",
+        "respuestaServicio": "",
+        "servicio": "B11",
+        "color": "#ED1C24",
+        "destino": "El Salto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3686164,
+        "lng": -70.681981
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3672674197085,
+          "lng": -70.68063201970848
+        },
+        "southwest": {
+          "lat": -33.3699653802915,
+          "lng": -70.68332998029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJiZQNOOPGYpYREnEFc7peHog",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3686164,
+  "lng": -70.681981
+}

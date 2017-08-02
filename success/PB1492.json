@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:57",
+  "nomett": "RINCONADA EL SALTO ESQ. / CAMINO LA PIRAMIDE",
+  "paradero": "PB1492",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5622",
+        "distanciabus2": "8342",
+        "horaprediccionbus1": "Entre 15 Y 25 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "ZN-3984",
+        "ppubus2": "BJFT-45",
+        "respuestaServicio": "",
+        "servicio": "116",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4724",
+        "distanciabus2": "7494",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "ZJ-1784",
+        "ppubus2": "ZB-6849",
+        "respuestaServicio": "",
+        "servicio": "117",
+        "color": "#00A1E4",
+        "destino": "Metro Vespucio Norte",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "117C",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Barrio San Ignacio",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huechuraba, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3833389,
+        "lng": -70.61731999999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3819899197085,
+          "lng": -70.6159710197085
+        },
+        "southwest": {
+          "lat": -33.38468788029149,
+          "lng": -70.6186689802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJyfrg8qbIYpYR7v-D5sEXRGs",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3833389,
+  "lng": -70.61731999999999
+}

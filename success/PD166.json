@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:33",
+  "nomett": "ANTONIO VARAS ESQ. / AV. SIMON BOLIVAR",
+  "paradero": "PD166",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "855",
+        "distanciabus2": "10755",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "ZN-5453",
+        "ppubus2": "ZN-6208",
+        "respuestaServicio": "",
+        "servicio": "106",
+        "color": "#00A1E4",
+        "destino": "Nueva San Martín",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "334",
+        "distanciabus2": "1014",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZB-6849",
+        "ppubus2": "FLXK-19",
+        "respuestaServicio": "",
+        "servicio": "126",
+        "color": "#00A1E4",
+        "destino": "Metro Manuel Montt",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4513981,
+        "lng": -70.6095361
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4500491197085,
+          "lng": -70.6081871197085
+        },
+        "southwest": {
+          "lat": -33.45274708029149,
+          "lng": -70.61088508029151
+        }
+      }
+    },
+    "place_id": "ChIJ27bbIZDPYpYRNtg7l6FOWkM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4513981,
+  "lng": -70.6095361
+}

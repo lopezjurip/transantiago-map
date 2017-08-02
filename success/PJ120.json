@@ -1,0 +1,200 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:45",
+  "nomett": "AVENIDA SAN PABLO ESQ. / SARGENTO ALDEA",
+  "paradero": "PJ120",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1473",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-9186",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "402",
+        "color": "#F7941D",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "751",
+        "distanciabus2": "1031",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRV-56",
+        "ppubus2": "WB-2456",
+        "respuestaServicio": "",
+        "servicio": "406",
+        "color": "#F7941D",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2741",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-5164",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "407",
+        "color": "#F7941D",
+        "destino": "Las Condes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2958",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "WB-1980",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "422",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2713",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXC-81",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "426",
+        "color": "#F7941D",
+        "destino": "La Dehesa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1383",
+        "distanciabus2": "1523",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRY-33",
+        "ppubus2": "ZN-4782",
+        "respuestaServicio": "",
+        "servicio": "427",
+        "color": "#F7941D",
+        "destino": "Vital Apoquindo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "434",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXT-61",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J10",
+        "color": "#0093B3",
+        "destino": "Parque De Los Reyes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4436724,
+        "lng": -70.756962
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.44232341970849,
+          "lng": -70.75561301970849
+        },
+        "southwest": {
+          "lat": -33.44502138029149,
+          "lng": -70.7583109802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJocOOXbbDYpYRD5Vaq5LxlIc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4436724,
+  "lng": -70.756962
+}

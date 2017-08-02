@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:00",
+  "nomett": "AV. GENERAL RONDIZZONI ESQ. / FRANCISCO PIZARRO",
+  "paradero": "PA684",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "5842",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRY-88",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "H07",
+        "color": "#00A77E",
+        "destino": "Metro Ñuble",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "669",
+        "distanciabus2": "699",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXJ-10",
+        "ppubus2": "FLXF-88",
+        "respuestaServicio": "",
+        "servicio": "I01",
+        "color": "#00A77E",
+        "destino": "Hosp. Borja Arriarán",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "736",
+        "distanciabus2": "1486",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "BFKC-45",
+        "ppubus2": "GKRL-26",
+        "respuestaServicio": "",
+        "servicio": "511",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.470634,
+        "lng": -70.670551
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4692850197085,
+          "lng": -70.66920201970851
+        },
+        "southwest": {
+          "lat": -33.4719829802915,
+          "lng": -70.67189998029151
+        }
+      }
+    },
+    "place_id": "ChIJGe58CuDEYpYRJtQt_QsWa7Y",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.470634,
+  "lng": -70.670551
+}

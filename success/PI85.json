@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:46",
+  "nomett": "PARADA  / ESTADIO MARISTA",
+  "paradero": "PI85",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1549",
+        "distanciabus2": "1659",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "FLXJ-45",
+        "ppubus2": "FLXG-96",
+        "respuestaServicio": "",
+        "servicio": "I10",
+        "color": "#00A77E",
+        "destino": "USACH",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2202",
+        "distanciabus2": "2552",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "BDXR-51",
+        "ppubus2": "BJFY-44",
+        "respuestaServicio": "",
+        "servicio": "514",
+        "color": "#0093B3",
+        "destino": "San Luis De Macul",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2223",
+        "distanciabus2": "5513",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "BJFB-55",
+        "ppubus2": "FLXK-26",
+        "respuestaServicio": "",
+        "servicio": "J19",
+        "color": "#0093B3",
+        "destino": "Metro Santa Ana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Estación Central",
+        "short_name": "Estación Central",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Estación Central, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4443748,
+        "lng": -70.6886114
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4430258197085,
+          "lng": -70.68726241970849
+        },
+        "southwest": {
+          "lat": -33.4457237802915,
+          "lng": -70.68996038029151
+        }
+      }
+    },
+    "place_id": "ChIJnTJyZ1zEYpYRgJXlSvAHPGU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4443748,
+  "lng": -70.6886114
+}

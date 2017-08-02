@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "SANTA MARTA DE H. ESQ. / LOS PORTONES",
+  "paradero": "PB909",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "566",
+        "distanciabus2": "1786",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "CJRF-89",
+        "ppubus2": "CJRF-70",
+        "respuestaServicio": "",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Barrio San Ignacio",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1716",
+        "distanciabus2": "2196",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FLXB-80",
+        "ppubus2": "CJRK-38",
+        "respuestaServicio": "",
+        "servicio": "B10",
+        "color": "#ED1C24",
+        "destino": "Va. Los Libertadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huechuraba, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3651629,
+        "lng": -70.67416399999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.36381391970851,
+          "lng": -70.6728150197085
+        },
+        "southwest": {
+          "lat": -33.3665118802915,
+          "lng": -70.6755129802915
+        }
+      }
+    },
+    "place_id": "ChIJi0Xbbv7GYpYRrRIwOCQ61j0",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3651629,
+  "lng": -70.67416399999999
+}

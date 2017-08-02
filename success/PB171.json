@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:57",
+  "nomett": "EL SALTO ESQ. / DOCTOR OSTORNOL",
+  "paradero": "PB171",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1383",
+        "distanciabus2": "3533",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "ZN-3984",
+        "ppubus2": "BJFT-45",
+        "respuestaServicio": "",
+        "servicio": "116",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "B02",
+        "color": "#ED1C24",
+        "destino": "Camino Punta Mocha",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B02N",
+        "color": "#ED1C24",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4113815,
+        "lng": -70.63700299999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4100325197085,
+          "lng": -70.63565401970848
+        },
+        "southwest": {
+          "lat": -33.4127304802915,
+          "lng": -70.63835198029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJg4Hrfe_FYpYRpAEMro_biVU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4113815,
+  "lng": -70.63700299999999
+}

@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:32",
+  "nomett": "PARADA 1 / (M) LOS   ORIENTALES",
+  "paradero": "PD188",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "112N",
+        "color": "#00A1E4",
+        "destino": "Av. La Florida",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "18",
+        "distanciabus2": "908",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "WA-9978",
+        "ppubus2": "ZN-5586",
+        "respuestaServicio": "",
+        "servicio": "216",
+        "color": "#0077bb",
+        "destino": "Pablo De Rokha",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6335",
+        "distanciabus2": "8145",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "WB-1032",
+        "ppubus2": "WB-1029",
+        "respuestaServicio": "",
+        "servicio": "225",
+        "color": "#0077bb",
+        "destino": "Bahía Catalina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "874",
+        "distanciabus2": "2394",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZN-5325",
+        "ppubus2": "CJRY-97",
+        "respuestaServicio": "",
+        "servicio": "D12",
+        "color": "#F7941D",
+        "destino": "Las Perdices",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1271",
+        "distanciabus2": "5301",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "FLXG-20",
+        "ppubus2": "BFKC-33",
+        "respuestaServicio": "",
+        "servicio": "505",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1260",
+        "distanciabus2": "2810",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXS-51",
+        "ppubus2": "FLXS-25",
+        "respuestaServicio": "",
+        "servicio": "712",
+        "color": "#FFD400",
+        "destino": "Puente Alto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4621434,
+        "lng": -70.5739173
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4607944197085,
+          "lng": -70.57256831970851
+        },
+        "southwest": {
+          "lat": -33.4634923802915,
+          "lng": -70.57526628029152
+        }
+      }
+    },
+    "place_id": "ChIJWaV5MzPOYpYRkULKYqXtiyk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4621434,
+  "lng": -70.5739173
+}

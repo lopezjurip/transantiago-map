@@ -1,0 +1,159 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "PARADA 1 / PARADERO 23   SANTA ROSA",
+  "paradero": "PG94",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1493",
+        "distanciabus2": "3533",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BDWL-39",
+        "ppubus2": "WC-1122",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1314",
+        "distanciabus2": "4074",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "ZN-6325",
+        "ppubus2": "ZN-6354",
+        "respuestaServicio": "",
+        "servicio": "206",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "188",
+        "distanciabus2": "2188",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "ZN-6349",
+        "ppubus2": "WA-9945",
+        "respuestaServicio": "",
+        "servicio": "212",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3427",
+        "distanciabus2": "7597",
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJRR-53",
+        "ppubus2": "CJRL-27",
+        "respuestaServicio": "",
+        "servicio": "G01",
+        "color": "#0077bb",
+        "destino": "Santo Tomás",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1121",
+        "distanciabus2": "6701",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 20 Y 30 min. ",
+        "ppubus1": "BJFX-37",
+        "ppubus2": "BJFT-65",
+        "respuestaServicio": "",
+        "servicio": "E01",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5385272,
+        "lng": -70.6344889
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5371782197085,
+          "lng": -70.6331399197085
+        },
+        "southwest": {
+          "lat": -33.5398761802915,
+          "lng": -70.6358378802915
+        }
+      }
+    },
+    "place_id": "ChIJn6UqOmXaYpYRbuVjcuFnE_s",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5385272,
+  "lng": -70.6344889
+}

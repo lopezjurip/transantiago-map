@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:23",
+  "nomett": "AVENIDA SIMON BOLIVAR ESQ. / MARIA BARRIENTOS",
+  "paradero": "PD709",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 10 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 10 min.",
+        "servicio": "D01",
+        "color": "#F7941D",
+        "destino": "Consistorial",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1258",
+        "distanciabus2": "4698",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRY-90",
+        "ppubus2": "CJRV-97",
+        "respuestaServicio": "",
+        "servicio": "D02",
+        "color": "#F7941D",
+        "destino": "Diagonal Las Torres",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4479716,
+        "lng": -70.570584
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4466226197085,
+          "lng": -70.56923501970849
+        },
+        "southwest": {
+          "lat": -33.4493205802915,
+          "lng": -70.57193298029149
+        }
+      }
+    },
+    "place_id": "ChIJ_8PwZkzOYpYRb4gvk76jaTM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4479716,
+  "lng": -70.570584
+}

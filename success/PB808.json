@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "DOMINGO SANTA MARIA ESQ. / S. SANFUENTES",
+  "paradero": "PB808",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1551",
+        "distanciabus2": "2201",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRH-13",
+        "ppubus2": "CJJH-77",
+        "respuestaServicio": "",
+        "servicio": "B03",
+        "color": "#ED1C24",
+        "destino": "Metro Cerro Blanco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "7476",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 15 Y 23 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRD-93",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B24",
+        "color": "#ED1C24",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B30N",
+        "color": "#ED1C24",
+        "destino": "Centro",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4125778,
+        "lng": -70.68322289999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.41122881970851,
+          "lng": -70.68187391970848
+        },
+        "southwest": {
+          "lat": -33.4139267802915,
+          "lng": -70.6845718802915
+        }
+      }
+    },
+    "place_id": "ChIJQ3WybybEYpYRnYOT_fuFyBQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4125778,
+  "lng": -70.68322289999999
+}

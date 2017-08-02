@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:46",
+  "nomett": "CAMINO A RINCONADA ESQ. / CAMINO VECINAL",
+  "paradero": "PI967",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6593",
+        "distanciabus2": "8693",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "FLXK-73",
+        "ppubus2": "FLXR-32",
+        "respuestaServicio": "",
+        "servicio": "I24",
+        "color": "#00A77E",
+        "destino": "Villa Los Maitenes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5152343,
+        "lng": -70.8324849
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5138853197085,
+          "lng": -70.8311359197085
+        },
+        "southwest": {
+          "lat": -33.5165832802915,
+          "lng": -70.83383388029151
+        }
+      }
+    },
+    "place_id": "ChIJ8cbiqwvoYpYRPaCIyTRh2g8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5152343,
+  "lng": -70.8324849
+}

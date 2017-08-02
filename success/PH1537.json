@@ -1,0 +1,104 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "1 DE MAYO ESQ. / EL PINAR",
+  "paradero": "PH1537",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "736",
+        "distanciabus2": "2326",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "FLXL-35",
+        "ppubus2": "FLXF-18",
+        "respuestaServicio": "",
+        "servicio": "385",
+        "color": "#00A77E",
+        "destino": "Florida Center",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4915836,
+        "lng": -70.6240069
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4902346197085,
+          "lng": -70.6226579197085
+        },
+        "southwest": {
+          "lat": -33.49293258029149,
+          "lng": -70.62535588029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ55DnoqnaYpYRlqPmVb02UsA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4915836,
+  "lng": -70.6240069
+}

@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:43",
+  "nomett": "AVENIDA MAPOCHO ESQ. / TORRES DE PISA",
+  "paradero": "PJ519",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4126",
+        "distanciabus2": "7186",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "BJFC-22",
+        "ppubus2": "BJFC-39",
+        "respuestaServicio": "",
+        "servicio": "508",
+        "color": "#0093B3",
+        "destino": "Av. Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerro Navia",
+        "short_name": "Cerro Navia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cerro Navia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.423494,
+        "lng": -70.729973
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4221450197085,
+          "lng": -70.72862401970849
+        },
+        "southwest": {
+          "lat": -33.4248429802915,
+          "lng": -70.7313219802915
+        }
+      }
+    },
+    "place_id": "ChIJRVUR3-TDYpYR_DHZ-flwTFc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.423494,
+  "lng": -70.729973
+}

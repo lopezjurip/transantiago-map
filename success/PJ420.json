@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:43",
+  "nomett": "AVENIDA SAN DANIEL ESQ. / EL TRANQUE",
+  "paradero": "PJ420",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6101",
+        "distanciabus2": "8281",
+        "horaprediccionbus1": "Entre 14 Y 22 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "FLXD-59",
+        "ppubus2": "BJFD-73",
+        "respuestaServicio": "",
+        "servicio": "504",
+        "color": "#0093B3",
+        "destino": "El Tranque",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "199",
+        "distanciabus2": "3219",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BGDX-41",
+        "ppubus2": "FLXR-68",
+        "respuestaServicio": "",
+        "servicio": "J10",
+        "color": "#0093B3",
+        "destino": "San Daniel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "541N",
+        "color": "#0093B3",
+        "destino": "El tranque",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4287438,
+        "lng": -70.7703471
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4273948197085,
+          "lng": -70.76899811970848
+        },
+        "southwest": {
+          "lat": -33.4300927802915,
+          "lng": -70.7716960802915
+        }
+      }
+    },
+    "place_id": "ChIJK34BICzCYpYRcuhoM4zDwDI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4287438,
+  "lng": -70.7703471
+}

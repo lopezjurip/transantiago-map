@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:18",
+  "nomett": "AVENIDA LO OVALLE ESQ. / MANIO",
+  "paradero": "PE837",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3901",
+        "distanciabus2": "6741",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "FLXF-46",
+        "ppubus2": "CJRZ-85",
+        "respuestaServicio": "",
+        "servicio": "385",
+        "color": "#00A77E",
+        "destino": "Florida Center",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Granja, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5135059,
+        "lng": -70.61630199999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5121569197085,
+          "lng": -70.61495301970848
+        },
+        "southwest": {
+          "lat": -33.5148548802915,
+          "lng": -70.6176509802915
+        }
+      }
+    },
+    "place_id": "ChIJY9EmL3fQYpYRnG91mNz7IEQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5135059,
+  "lng": -70.61630199999999
+}

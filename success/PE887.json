@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:17",
+  "nomett": "PARADA 6 / PARADERO 26   AV.VICUNA MACKENNA",
+  "paradero": "PE887",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2778",
+        "distanciabus2": "5158",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "ZN-6265",
+        "ppubus2": "BJFJ-38",
+        "respuestaServicio": "",
+        "servicio": "210V",
+        "color": "#0077bb",
+        "destino": "Estación Central",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "62",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFV-18",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "E09",
+        "color": "#00A77E",
+        "destino": "Metro Santa Rosa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F28N",
+        "color": "#FFD400",
+        "destino": "Diego Portales",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Florida",
+        "short_name": "La Florida",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Florida, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5636858,
+        "lng": -70.58441780000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.56233681970851,
+          "lng": -70.58306881970852
+        },
+        "southwest": {
+          "lat": -33.56503478029151,
+          "lng": -70.58576678029152
+        }
+      }
+    },
+    "place_id": "ChIJaeKYx9LQYpYRuuBUghuH188",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5636858,
+  "lng": -70.58441780000001
+}

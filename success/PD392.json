@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:31",
+  "nomett": "AVENIDA TOBALABA ESQ. / EL CONTINENTE",
+  "paradero": "PD392",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2167",
+        "distanciabus2": "4647",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "ZN-6501",
+        "ppubus2": "CJRT-37",
+        "respuestaServicio": "",
+        "servicio": "418",
+        "color": "#F7941D",
+        "destino": "Enea",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "425",
+        "color": "#F7941D",
+        "destino": "Rigoberto Jara",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "429",
+        "color": "#F7941D",
+        "destino": "Lo Echevers",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Penalolen",
+        "short_name": "Penalolen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Peñalolén",
+        "short_name": "Peñalolén",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Penalolen, Peñalolén, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4761426,
+        "lng": -70.5562398
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4747936197085,
+          "lng": -70.55489081970849
+        },
+        "southwest": {
+          "lat": -33.4774915802915,
+          "lng": -70.5575887802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJbbRMK9_RYpYR4P0neKtn9To",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4761426,
+  "lng": -70.5562398
+}

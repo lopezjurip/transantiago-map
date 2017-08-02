@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "AV.CARD.JOSE M¦ CARO ESQ. / MAULEON",
+  "paradero": "PB1158",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3308",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRY-47",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B11",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2734",
+        "distanciabus2": "4634",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "CCPX-42",
+        "ppubus2": "CJKC-18",
+        "respuestaServicio": "",
+        "servicio": "B21",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.381307,
+        "lng": -70.669794
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3799580197085,
+          "lng": -70.66844501970849
+        },
+        "southwest": {
+          "lat": -33.3826559802915,
+          "lng": -70.67114298029149
+        }
+      }
+    },
+    "place_id": "ChIJLWukg_XGYpYRJA99xMyjlfc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.381307,
+  "lng": -70.669794
+}

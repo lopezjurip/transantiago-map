@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:34",
+  "nomett": "CDTE. ANDRES SOZA ESQ. / TRINIDAD RAMIREZ",
+  "paradero": "PG679",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1014",
+        "distanciabus2": "4344",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "CJRP-43",
+        "ppubus2": "CJRL-38",
+        "respuestaServicio": "",
+        "servicio": "G01",
+        "color": "#0077bb",
+        "destino": "Villa 4 De Septiembre",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "415",
+        "distanciabus2": "455",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRL-74",
+        "ppubus2": "CJRR-91",
+        "respuestaServicio": "",
+        "servicio": "G01C",
+        "color": "#0077bb",
+        "destino": "Villa 4 De Septiembre",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5401729,
+        "lng": -70.676975
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5388239197085,
+          "lng": -70.6756260197085
+        },
+        "southwest": {
+          "lat": -33.5415218802915,
+          "lng": -70.67832398029151
+        }
+      }
+    },
+    "place_id": "ChIJc8RqFKnbYpYRByG6OLetJa8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5401729,
+  "lng": -70.676975
+}

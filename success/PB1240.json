@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "AVENIDA LAS TORRES ESQ. / LO OVALLE",
+  "paradero": "PB1240",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "295",
+        "distanciabus2": "1275",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFZ-83",
+        "ppubus2": "BJFR-12",
+        "respuestaServicio": "",
+        "servicio": "315E",
+        "color": "#00A77E",
+        "destino": "Rigoberto Jara",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1845",
+        "distanciabus2": "5685",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "CJRK-67",
+        "ppubus2": "FLXT-76",
+        "respuestaServicio": "",
+        "servicio": "B13",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B31N",
+        "color": "#ED1C24",
+        "destino": "Quilicura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quilicura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3539897,
+        "lng": -70.733831
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3526407197085,
+          "lng": -70.7324820197085
+        },
+        "southwest": {
+          "lat": -33.3553386802915,
+          "lng": -70.7351799802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJw9CTJ8fAYpYRY2RvgBRGLDU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3539897,
+  "lng": -70.733831
+}

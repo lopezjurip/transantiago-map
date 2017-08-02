@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:58",
+  "nomett": "AVENIDA MEXICO ESQ. / RIO MAULE",
+  "paradero": "PB1307",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3736",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXB-52",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B15",
+        "color": "#ED1C24",
+        "destino": "Arzobispo Valdivieso",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4097167,
+        "lng": -70.630033
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.40836771970849,
+          "lng": -70.62868401970849
+        },
+        "southwest": {
+          "lat": -33.41106568029149,
+          "lng": -70.63138198029151
+        }
+      }
+    },
+    "place_id": "ChIJDwBTevrFYpYR1y7S8HgxrLE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4097167,
+  "lng": -70.630033
+}

@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:36",
+  "nomett": "AVENIDA ELIODORO YANEZ ESQ. / DOC. ROBERTO DEL RIO",
+  "paradero": "PC702",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2129",
+        "distanciabus2": "5969",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 15 Y 25 min. ",
+        "ppubus1": "FLXG-47",
+        "ppubus2": "BFKC-44",
+        "respuestaServicio": "",
+        "servicio": "517",
+        "color": "#0093B3",
+        "destino": "J. J. Perez",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "875",
+        "distanciabus2": "5225",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "CJRS-18",
+        "ppubus2": "CJRT-39",
+        "respuestaServicio": "",
+        "servicio": "C04",
+        "color": "#ED1C24",
+        "destino": "Metro Manuel Montt",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Providencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4292401,
+        "lng": -70.599677
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.42789111970851,
+          "lng": -70.5983280197085
+        },
+        "southwest": {
+          "lat": -33.4305890802915,
+          "lng": -70.60102598029151
+        }
+      }
+    },
+    "place_id": "ChIJibpO4XLPYpYRxVazk8C62Sw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4292401,
+  "lng": -70.599677
+}

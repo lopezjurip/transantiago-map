@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:13",
+  "nomett": "PARADA  / COLEGIO   LA CISTERNA",
+  "paradero": "PG1146",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 10 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 10 min.",
+        "servicio": "G12",
+        "color": "#0077bb",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5376761,
+        "lng": -70.668311
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5363271197085,
+          "lng": -70.6669620197085
+        },
+        "southwest": {
+          "lat": -33.5390250802915,
+          "lng": -70.66965998029151
+        }
+      }
+    },
+    "place_id": "ChIJRVagJ1XaYpYRAoCS1_d_LqY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5376761,
+  "lng": -70.668311
+}

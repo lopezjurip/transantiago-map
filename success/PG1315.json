@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:12",
+  "nomett": "DONIHUE ESQ. / AV. SANTA ROSA",
+  "paradero": "PG1315",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "10",
+        "distanciabus2": "2200",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRL-63",
+        "ppubus2": "CJRP-58",
+        "respuestaServicio": "",
+        "servicio": "G18",
+        "color": "#0077bb",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5377815,
+        "lng": -70.634681
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5364325197085,
+          "lng": -70.6333320197085
+        },
+        "southwest": {
+          "lat": -33.5391304802915,
+          "lng": -70.63602998029151
+        }
+      }
+    },
+    "place_id": "ChIJw4YsJ2XaYpYRnTHTackQtQc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5377815,
+  "lng": -70.634681
+}

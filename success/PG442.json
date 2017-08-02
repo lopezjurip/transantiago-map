@@ -1,0 +1,104 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:35",
+  "nomett": "GENERAL FREIRE ESQ. / ANGAMOS",
+  "paradero": "PG442",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1130",
+        "distanciabus2": "2690",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "BJFS-62",
+        "ppubus2": "BJFS-42",
+        "respuestaServicio": "",
+        "servicio": "E02",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5215133,
+        "lng": -70.654913
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5201643197085,
+          "lng": -70.65356401970848
+        },
+        "southwest": {
+          "lat": -33.5228622802915,
+          "lng": -70.6562619802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJdwuv0e_aYpYRM-j8CJCHyyI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5215133,
+  "lng": -70.654913
+}

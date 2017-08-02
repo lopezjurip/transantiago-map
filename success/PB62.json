@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:41",
+  "nomett": "AV. JOSE M.BALMACEDA ESQ. / NUEVA 1",
+  "paradero": "PB62",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1238",
+        "distanciabus2": "3878",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "ZJ-1793",
+        "ppubus2": "ZB-6997",
+        "respuestaServicio": "",
+        "servicio": "105",
+        "color": "#00A1E4",
+        "destino": "Lo Espejo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2540",
+        "distanciabus2": "3610",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZN-5079",
+        "ppubus2": "ZN-3995",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3786",
+        "distanciabus2": "4096",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "ZN-6478",
+        "ppubus2": "ZJ-1818",
+        "respuestaServicio": "",
+        "servicio": "110",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B29",
+        "color": "#ED1C24",
+        "destino": "Metro Santa Ana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.40187969999999,
+        "lng": -70.725494
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.40053071970849,
+          "lng": -70.72414501970849
+        },
+        "southwest": {
+          "lat": -33.40322868029149,
+          "lng": -70.72684298029151
+        }
+      }
+    },
+    "place_id": "ChIJkxZAUk7BYpYRter4Lmom2dk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.40187969999999,
+  "lng": -70.725494
+}

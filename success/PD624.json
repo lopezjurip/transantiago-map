@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:30",
+  "nomett": "AVENIDA LAS TORRES ESQ. / LOS CEREZOS",
+  "paradero": "PD624",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1004",
+        "distanciabus2": "1474",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "CJRW-10",
+        "ppubus2": "CJRZ-33",
+        "respuestaServicio": "",
+        "servicio": "D10",
+        "color": "#F7941D",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "693",
+        "distanciabus2": "2373",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "BJFH-27",
+        "ppubus2": "BJFC-44",
+        "respuestaServicio": "",
+        "servicio": "508",
+        "color": "#0093B3",
+        "destino": "Av. Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Penalolen",
+        "short_name": "Penalolen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Peñalolén",
+        "short_name": "Peñalolén",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Penalolen, Peñalolén, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5027285,
+        "lng": -70.57357
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5013795197085,
+          "lng": -70.57222101970851
+        },
+        "southwest": {
+          "lat": -33.50407748029149,
+          "lng": -70.57491898029151
+        }
+      }
+    },
+    "place_id": "ChIJhyTIsbTRYpYRGharDjlXvJU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5027285,
+  "lng": -70.57357
+}

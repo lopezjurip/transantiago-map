@@ -1,0 +1,112 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:41",
+  "nomett": "VICUNA ROZAS ESQ. / LO LOPEZ",
+  "paradero": "PJ974",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1239",
+        "distanciabus2": "3989",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "BDXR-35",
+        "ppubus2": "BFKC-65",
+        "respuestaServicio": "",
+        "servicio": "J13",
+        "color": "#0093B3",
+        "destino": "Metro Estación Central",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4759",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFR-66",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "J13C",
+        "color": "#0093B3",
+        "destino": "Metro San Pablo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerro Navia",
+        "short_name": "Cerro Navia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cerro Navia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.432596,
+        "lng": -70.727912
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4312470197085,
+          "lng": -70.7265630197085
+        },
+        "southwest": {
+          "lat": -33.4339449802915,
+          "lng": -70.72926098029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6R6TEvLDYpYRxjXZX3V9uvs",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.432596,
+  "lng": -70.727912
+}

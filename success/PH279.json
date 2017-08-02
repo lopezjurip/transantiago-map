@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:32",
+  "nomett": "AV. J. J. PRIETO VIAL ESQ. / FLORENCIA",
+  "paradero": "PH279",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "172",
+        "distanciabus2": "342",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFR-98",
+        "ppubus2": "BJFW-54",
+        "respuestaServicio": "",
+        "servicio": "302",
+        "color": "#00A77E",
+        "destino": "Metro Santa Ana",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "302N",
+        "color": "#00A77E",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "665",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXR-22",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "H09",
+        "color": "#00A77E",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "310",
+        "distanciabus2": "5530",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "FLXP-50",
+        "ppubus2": "BGTL-77",
+        "respuestaServicio": "",
+        "servicio": "H12",
+        "color": "#00A77E",
+        "destino": "Metro Franklin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "353",
+        "distanciabus2": "2843",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRZ-63",
+        "ppubus2": "CJRX-60",
+        "respuestaServicio": "",
+        "servicio": "H13",
+        "color": "#00A77E",
+        "destino": "Posta Central",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Miguel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4886772,
+        "lng": -70.6603631
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.48732821970849,
+          "lng": -70.6590141197085
+        },
+        "southwest": {
+          "lat": -33.49002618029149,
+          "lng": -70.66171208029151
+        }
+      }
+    },
+    "place_id": "ChIJdRGc4izFYpYRrGGSB_EqvsA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4886772,
+  "lng": -70.6603631
+}

@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "PARADA 2 / (M) LA CISTERNA",
+  "paradero": "PG388",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "154",
+        "distanciabus2": "2774",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRP-75",
+        "ppubus2": "CJRL-77",
+        "respuestaServicio": "",
+        "servicio": "G18",
+        "color": "#0077bb",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "20",
+        "distanciabus2": "2830",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BJFX-57",
+        "ppubus2": "BJFX-29",
+        "respuestaServicio": "",
+        "servicio": "301",
+        "color": "#00A77E",
+        "destino": "Juan Antonio Ríos",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Cisterna",
+        "short_name": "La Cisterna",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Cisterna, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5366664,
+        "lng": -70.6641242
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.53531741970851,
+          "lng": -70.6627752197085
+        },
+        "southwest": {
+          "lat": -33.5380153802915,
+          "lng": -70.6654731802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJsZWkzVXaYpYReYBiLLeGp5k",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5366664,
+  "lng": -70.6641242
+}

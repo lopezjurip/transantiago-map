@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:50",
+  "nomett": "CAMINO A MELIPILLA ESQ. / ESDRAS",
+  "paradero": "PI1600",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3253",
+        "distanciabus2": "7223",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 23 Y 33 min. ",
+        "ppubus1": "ZN-3240",
+        "ppubus2": "ZN-3983",
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2724",
+        "distanciabus2": "3774",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "ZB-6727",
+        "ppubus2": "ZN-6728",
+        "respuestaServicio": "",
+        "servicio": "113",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5740",
+        "distanciabus2": "5940",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "FLXR-19",
+        "ppubus2": "FLXL-58",
+        "respuestaServicio": "",
+        "servicio": "350",
+        "color": "#00A77E",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2536",
+        "distanciabus2": "2876",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "FLXK-86",
+        "ppubus2": "FLXF-56",
+        "respuestaServicio": "",
+        "servicio": "I11",
+        "color": "#00A77E",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5446969,
+        "lng": -70.782344
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5433479197085,
+          "lng": -70.78099501970848
+        },
+        "southwest": {
+          "lat": -33.5460458802915,
+          "lng": -70.7836929802915
+        }
+      }
+    },
+    "place_id": "ChIJjR7B1w3dYpYR-Y9VAnJNzX8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5446969,
+  "lng": -70.782344
+}

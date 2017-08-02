@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "AV. MANQUEHUE NORTE ESQ. / AV. PDTE. RIESCO",
+  "paradero": "PC97",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "393",
+        "distanciabus2": "1673",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "BFKB-36",
+        "ppubus2": "BJFG-76",
+        "respuestaServicio": "",
+        "servicio": "216",
+        "color": "#0077bb",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "417E",
+        "color": "#F7941D",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "352",
+        "distanciabus2": "2842",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FZJL-57",
+        "ppubus2": "MX-4314",
+        "respuestaServicio": "",
+        "servicio": "C07",
+        "color": "#ED1C24",
+        "destino": "La Pirámide",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "884",
+        "distanciabus2": "1844",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FZJL-73",
+        "ppubus2": "FZJL-55",
+        "respuestaServicio": "",
+        "servicio": "C14",
+        "color": "#ED1C24",
+        "destino": "Los Trapenses",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Las Condes, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4025966,
+        "lng": -70.5694008
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.40124761970849,
+          "lng": -70.5680518197085
+        },
+        "southwest": {
+          "lat": -33.40394558029149,
+          "lng": -70.57074978029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJy70FmdnOYpYRaT2haPm1PV0",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4025966,
+  "lng": -70.5694008
+}

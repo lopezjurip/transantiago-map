@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:56",
+  "nomett": "CAUPOLICAN ESQ. / SAN IGNACIO",
+  "paradero": "PB1852",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "710",
+        "distanciabus2": "3730",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "CJRB-82",
+        "ppubus2": "FLXB-26",
+        "respuestaServicio": "",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Barrio San Ignacio",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "648",
+        "distanciabus2": "1208",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRG-92",
+        "ppubus2": "CDXP-16",
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quilicura",
+        "short_name": "Quilicura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quilicura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3315365,
+        "lng": -70.6980815
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3301875197085,
+          "lng": -70.69673251970849
+        },
+        "southwest": {
+          "lat": -33.3328854802915,
+          "lng": -70.69943048029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJz78JZVzHYpYR7QRNH3pJi-U",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3315365,
+  "lng": -70.6980815
+}

@@ -1,0 +1,143 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "PARADA  / PASARELA   ENRIQUE SORO",
+  "paradero": "PB432",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3680",
+        "distanciabus2": "4470",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "FLXP-39",
+        "ppubus2": "FLXF-14",
+        "respuestaServicio": "",
+        "servicio": "303",
+        "color": "#00A77E",
+        "destino": "Quilicura",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "615",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRG-89",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B20",
+        "color": "#ED1C24",
+        "destino": "Miraflores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4018",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRC-51",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B26",
+        "color": "#ED1C24",
+        "destino": "El Cortijo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B29",
+        "color": "#ED1C24",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Independencia",
+        "short_name": "Independencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Independencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.421479,
+        "lng": -70.67446199999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.42013001970849,
+          "lng": -70.67311301970848
+        },
+        "southwest": {
+          "lat": -33.42282798029149,
+          "lng": -70.6758109802915
+        }
+      }
+    },
+    "place_id": "ChIJm_wS6DPEYpYRDLGUvWG3AQU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.421479,
+  "lng": -70.67446199999999
+}

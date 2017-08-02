@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "CONDELL ESQ. / MARIN",
+  "paradero": "PC999",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4188",
+        "distanciabus2": "6558",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "CJRS-40",
+        "ppubus2": "CJRS-96",
+        "respuestaServicio": "",
+        "servicio": "D18",
+        "color": "#F7941D",
+        "destino": "Metro Santa Isabel",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Providencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4444597,
+        "lng": -70.626511
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4431107197085,
+          "lng": -70.62516201970848
+        },
+        "southwest": {
+          "lat": -33.44580868029149,
+          "lng": -70.62785998029149
+        }
+      }
+    },
+    "place_id": "ChIJc9YyIX_FYpYRKiqr26ChfgI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4444597,
+  "lng": -70.626511
+}

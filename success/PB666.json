@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:41",
+  "nomett": "TOPOCALMA ESQ. / PELLUHUE",
+  "paradero": "PB666",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1949",
+        "distanciabus2": "2509",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "ZN-6186",
+        "ppubus2": "BJFD-17",
+        "respuestaServicio": "",
+        "servicio": "408",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3720",
+        "distanciabus2": "8380",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 25 Y 35 min. ",
+        "ppubus1": "BJFD-19",
+        "ppubus2": "BJFD-29",
+        "respuestaServicio": "",
+        "servicio": "410",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4099325,
+        "lng": -70.73396699999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.40858351970849,
+          "lng": -70.73261801970848
+        },
+        "southwest": {
+          "lat": -33.41128148029149,
+          "lng": -70.73531598029149
+        }
+      }
+    },
+    "place_id": "ChIJe0kp8FvBYpYR1nApFkkJXMU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4099325,
+  "lng": -70.73396699999999
+}

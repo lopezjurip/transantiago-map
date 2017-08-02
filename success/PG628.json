@@ -1,0 +1,128 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:35",
+  "nomett": "LO MARTINEZ ESQ. / LOS ANDES",
+  "paradero": "PG628",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "317",
+        "distanciabus2": "1767",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "WB-9733",
+        "ppubus2": "WB-1044",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1161",
+        "distanciabus2": "1261",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-6598",
+        "ppubus2": "CJRP-84",
+        "respuestaServicio": "",
+        "servicio": "G13",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "252",
+        "distanciabus2": "2232",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "FLXJ-57",
+        "ppubus2": "CJRB-99",
+        "respuestaServicio": "",
+        "servicio": "F06",
+        "color": "#FFD400",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "El Bosque",
+        "short_name": "El Bosque",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "El Bosque, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5731673,
+        "lng": -70.6630677
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.57181831970851,
+          "lng": -70.66171871970849
+        },
+        "southwest": {
+          "lat": -33.5745162802915,
+          "lng": -70.6644166802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJK5UkXinaYpYR_YipPvyXTHI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5731673,
+  "lng": -70.6630677
+}

@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:21",
+  "nomett": "LINARES ESQ. / CORONEL",
+  "paradero": "PE104",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2767",
+        "distanciabus2": "4607",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BJFF-66",
+        "ppubus2": "ZN-6287",
+        "respuestaServicio": "",
+        "servicio": "204",
+        "color": "#0077bb",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "204N",
+        "color": "#0077bb",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "982",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFR-92",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "E18",
+        "color": "#00A77E",
+        "destino": "Hosp. Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2239",
+        "distanciabus2": "4019",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFS-51",
+        "ppubus2": "BJFX-14",
+        "respuestaServicio": "",
+        "servicio": "E03",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Granja, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5267289,
+        "lng": -70.616714
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.52537991970851,
+          "lng": -70.6153650197085
+        },
+        "southwest": {
+          "lat": -33.5280778802915,
+          "lng": -70.61806298029151
+        }
+      }
+    },
+    "place_id": "ChIJVzNtp4DQYpYRhudb7f_o_q4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5267289,
+  "lng": -70.616714
+}

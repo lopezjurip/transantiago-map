@@ -1,0 +1,168 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:41",
+  "nomett": "AVENIDA DORSAL ESQ. / HIRAM",
+  "paradero": "PJ909",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3048",
+        "distanciabus2": "6918",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "BJFV-58",
+        "ppubus2": "FLXG-47",
+        "respuestaServicio": "",
+        "servicio": "511",
+        "color": "#0093B3",
+        "destino": "Peñalolén",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "230",
+        "distanciabus2": "2060",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BDXR-51",
+        "ppubus2": "BJFY-44",
+        "respuestaServicio": "",
+        "servicio": "514",
+        "color": "#0093B3",
+        "destino": "San Luis De Macul",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1022",
+        "distanciabus2": "6552",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "FLXR-64",
+        "ppubus2": "FLXT-61",
+        "respuestaServicio": "",
+        "servicio": "J10",
+        "color": "#0093B3",
+        "destino": "Parque De Los Reyes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "771",
+        "distanciabus2": "4281",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BJFB-55",
+        "ppubus2": "FLXK-26",
+        "respuestaServicio": "",
+        "servicio": "J19",
+        "color": "#0093B3",
+        "destino": "Metro Santa Ana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "541N",
+        "color": "#0093B3",
+        "destino": "Colón",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Prado, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4511192,
+        "lng": -70.716674
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4497702197085,
+          "lng": -70.71532501970849
+        },
+        "southwest": {
+          "lat": -33.4524681802915,
+          "lng": -70.7180229802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJL0rUqnjEYpYRDSJFEQZ34BA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4511192,
+  "lng": -70.716674
+}

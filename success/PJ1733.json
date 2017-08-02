@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:44",
+  "nomett": "TIERRA DEL FUEGO ESQ. / ARGOS",
+  "paradero": "PJ1733",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1549",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-4327",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5451",
+        "distanciabus2": "5031",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BFKC-28",
+        "ppubus2": "FLXT-97",
+        "respuestaServicio": "",
+        "servicio": "J08",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4111",
+        "distanciabus2": "6271",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "FLXS-93",
+        "ppubus2": "FLXS-68",
+        "respuestaServicio": "",
+        "servicio": "424",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pudahuel",
+        "short_name": "Pudahuel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pudahuel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4612594,
+        "lng": -70.76107
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.45991041970849,
+          "lng": -70.75972101970851
+        },
+        "southwest": {
+          "lat": -33.46260838029149,
+          "lng": -70.76241898029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEZD3U6rDYpYRMQ1QvX7448g",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4612594,
+  "lng": -70.76107
+}

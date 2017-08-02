@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:38",
+  "nomett": "PARADA 4 / HOSPITAL   METROPOLITANO",
+  "paradero": "PC270",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "405C",
+        "color": "#F7941D",
+        "destino": "Plaza Italia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1417",
+        "distanciabus2": "1557",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRS-42",
+        "ppubus2": "CJRZ-21",
+        "respuestaServicio": "",
+        "servicio": "406",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "646",
+        "distanciabus2": "2196",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "ZN-5152",
+        "ppubus2": "FLXC-62",
+        "respuestaServicio": "",
+        "servicio": "407",
+        "color": "#F7941D",
+        "destino": "Enea",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1877",
+        "distanciabus2": "4777",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "WB-2457",
+        "ppubus2": "CJRS-55",
+        "respuestaServicio": "",
+        "servicio": "426",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1421",
+        "distanciabus2": "3631",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "ZN-6445",
+        "ppubus2": "ZN-6027",
+        "respuestaServicio": "",
+        "servicio": "427",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Providencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4183171,
+        "lng": -70.605507
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4169681197085,
+          "lng": -70.60415801970849
+        },
+        "southwest": {
+          "lat": -33.4196660802915,
+          "lng": -70.60685598029151
+        }
+      }
+    },
+    "place_id": "ChIJzwKIwGnPYpYRDwSaleTSoeE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4183171,
+  "lng": -70.605507
+}

@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:36",
+  "nomett": "AV. PADRE HURTADO -NORTE ESQ. / LAS HUALTATAS",
+  "paradero": "PC658",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2208",
+        "distanciabus2": "5028",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRJ-42",
+        "ppubus2": "CJRJ-13",
+        "respuestaServicio": "",
+        "servicio": "435",
+        "color": "#F7941D",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "546E",
+        "color": "#0093B3",
+        "destino": "Vitacura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2857",
+        "distanciabus2": "5147",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRT-70",
+        "ppubus2": "CJRT-50",
+        "respuestaServicio": "",
+        "servicio": "C03",
+        "color": "#ED1C24",
+        "destino": "Vital Apoquindo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C03C",
+        "color": "#ED1C24",
+        "destino": "Vital Apoquindo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3860458,
+        "lng": -70.55012599999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.38469681970849,
+          "lng": -70.54877701970848
+        },
+        "southwest": {
+          "lat": -33.38739478029149,
+          "lng": -70.5514749802915
+        }
+      }
+    },
+    "place_id": "ChIJq0ifqUrJYpYRyB0whcTlgsk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3860458,
+  "lng": -70.55012599999999
+}

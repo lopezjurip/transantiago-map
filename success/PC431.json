@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:37",
+  "nomett": "EL RODEO ESQ. / PADRE A. ARTEAGA",
+  "paradero": "PC431",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5660",
+        "distanciabus2": "10830",
+        "horaprediccionbus1": "Entre 15 Y 23 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "WB-1721",
+        "ppubus2": "CJRS-34",
+        "respuestaServicio": "",
+        "servicio": "426",
+        "color": "#F7941D",
+        "destino": "La Dehesa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3532",
+        "distanciabus2": "4602",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "CJRH-82",
+        "ppubus2": "ZN-6000",
+        "respuestaServicio": "",
+        "servicio": "430",
+        "color": "#F7941D",
+        "destino": "La Dehesa",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "5272",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRY-12",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C17",
+        "color": "#ED1C24",
+        "destino": "Cerro 18",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C21N",
+        "color": "#ED1C24",
+        "destino": "Metro Escuela Militar",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Barnechea, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3515833,
+        "lng": -70.51046699999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3502343197085,
+          "lng": -70.50911801970848
+        },
+        "southwest": {
+          "lat": -33.3529322802915,
+          "lng": -70.5118159802915
+        }
+      }
+    },
+    "place_id": "ChIJra6PQcTLYpYRq97IBWBAHvU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3515833,
+  "lng": -70.51046699999999
+}

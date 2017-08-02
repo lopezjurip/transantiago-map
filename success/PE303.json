@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:20",
+  "nomett": "CORONEL ESQ. / MANCO CAPAC",
+  "paradero": "PE303",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "588",
+        "distanciabus2": "758",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-5593",
+        "ppubus2": "BJFD-98",
+        "respuestaServicio": "",
+        "servicio": "226",
+        "color": "#0077bb",
+        "destino": "Nonato Coo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "39",
+        "distanciabus2": "4229",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFS-17",
+        "ppubus2": "BJFR-92",
+        "respuestaServicio": "",
+        "servicio": "E18",
+        "color": "#00A77E",
+        "destino": "Hosp. Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1211",
+        "distanciabus2": "3641",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "BJFX-68",
+        "ppubus2": "BJFV-11",
+        "respuestaServicio": "",
+        "servicio": "E01",
+        "color": "#00A77E",
+        "destino": "San José de La Estrella",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Granja",
+        "short_name": "La Granja",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Granja, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5433599,
+        "lng": -70.6154501
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5420109197085,
+          "lng": -70.6141011197085
+        },
+        "southwest": {
+          "lat": -33.5447088802915,
+          "lng": -70.61679908029151
+        }
+      }
+    },
+    "place_id": "ChIJ26nqTZnQYpYRiEJkGB1OLmA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5433599,
+  "lng": -70.6154501
+}

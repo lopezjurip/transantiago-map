@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:37",
+  "nomett": "AVENIDA LOS LEONES ESQ. / AV. DIEGO DE ALMAGRO",
+  "paradero": "PC29",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "954",
+        "distanciabus2": "1464",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "ZN-5465",
+        "ppubus2": "ZN-3976",
+        "respuestaServicio": "",
+        "servicio": "104",
+        "color": "#00A1E4",
+        "destino": "Providencia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4301",
+        "distanciabus2": "4321",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "WC-1131",
+        "ppubus2": "BJFF-24",
+        "respuestaServicio": "",
+        "servicio": "212",
+        "color": "#0077bb",
+        "destino": "Providencia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Providencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4417371,
+        "lng": -70.599502
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.44038811970849,
+          "lng": -70.59815301970849
+        },
+        "southwest": {
+          "lat": -33.44308608029149,
+          "lng": -70.60085098029151
+        }
+      }
+    },
+    "place_id": "ChIJaZjHP5_PYpYRzZmd0vhm0Sk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4417371,
+  "lng": -70.599502
+}

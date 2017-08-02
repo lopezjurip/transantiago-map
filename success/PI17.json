@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:50",
+  "nomett": "AV. LO ERRAZURIZ ESQ. / BELLO HORIZONTE",
+  "paradero": "PI17",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1",
+        "distanciabus2": "2061",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "ZJ-2504",
+        "ppubus2": "ZN-6473",
+        "respuestaServicio": "",
+        "servicio": "101",
+        "color": "#00A1E4",
+        "destino": "Cerrillos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "101C",
+        "color": "#00A1E4",
+        "destino": "Cerrillos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2892",
+        "distanciabus2": "5402",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "FLXF-61",
+        "ppubus2": "FLXK-72",
+        "respuestaServicio": "",
+        "servicio": "I04",
+        "color": "#00A77E",
+        "destino": "Villa El Abrazo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1721",
+        "distanciabus2": "6541",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "CJRW-17",
+        "ppubus2": "CJRX-54",
+        "respuestaServicio": "",
+        "servicio": "I14",
+        "color": "#00A77E",
+        "destino": "Mall Plaza Oeste",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Cerrillos",
+        "short_name": "Los Cerrillos",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerrillos",
+        "short_name": "Cerrillos",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Los Cerrillos, Cerrillos, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4961472,
+        "lng": -70.720962
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4947982197085,
+          "lng": -70.7196130197085
+        },
+        "southwest": {
+          "lat": -33.4974961802915,
+          "lng": -70.72231098029151
+        }
+      }
+    },
+    "place_id": "ChIJ1xrWPlTDYpYRV-UNv7GWVSA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4961472,
+  "lng": -70.720962
+}

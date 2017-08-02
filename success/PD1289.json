@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:33",
+  "nomett": "PRINCIPE DE GALES ESQ. / P. SUBERCASEAUX",
+  "paradero": "PD1289",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1736",
+        "distanciabus2": "6636",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "ZN-5846",
+        "ppubus2": "ZN-5782",
+        "respuestaServicio": "",
+        "servicio": "412",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "432N",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1959",
+        "distanciabus2": "5069",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 12 Y 18 min. ",
+        "ppubus1": "CJRV-98",
+        "ppubus2": "CJRV-57",
+        "respuestaServicio": "",
+        "servicio": "D18",
+        "color": "#F7941D",
+        "destino": "Diagonal Las Torres",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.441065,
+        "lng": -70.538634
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4397160197085,
+          "lng": -70.5372850197085
+        },
+        "southwest": {
+          "lat": -33.4424139802915,
+          "lng": -70.53998298029151
+        }
+      }
+    },
+    "place_id": "ChIJFRr31G_OYpYRNCS8DUSqXag",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.441065,
+  "lng": -70.538634
+}

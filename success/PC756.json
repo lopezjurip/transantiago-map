@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:35",
+  "nomett": "LUIS PASTEUR ESQ. / JOAQUIN CERDA",
+  "paradero": "PC756",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "19",
+        "distanciabus2": "2679",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "FZJL-69",
+        "ppubus2": "FZJL-57",
+        "respuestaServicio": "",
+        "servicio": "C07",
+        "color": "#ED1C24",
+        "destino": "La Pirámide",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3845027,
+        "lng": -70.57395
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3831537197085,
+          "lng": -70.57260101970849
+        },
+        "southwest": {
+          "lat": -33.38585168029149,
+          "lng": -70.5752989802915
+        }
+      }
+    },
+    "place_id": "ChIJSya4_SnJYpYRygECOvgvIro",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3845027,
+  "lng": -70.57395
+}

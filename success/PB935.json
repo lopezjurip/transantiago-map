@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "AV.CARD.JOSE M¦ CARO ESQ. / TOKIO",
+  "paradero": "PB935",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3783",
+        "distanciabus2": "4133",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "WC-1136",
+        "ppubus2": "ZU-5660",
+        "respuestaServicio": "",
+        "servicio": "230",
+        "color": "#0077bb",
+        "destino": "Conchalí",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1579",
+        "distanciabus2": "3569",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "CJRC-88",
+        "ppubus2": "CJRD-97",
+        "respuestaServicio": "",
+        "servicio": "B06",
+        "color": "#ED1C24",
+        "destino": "Santa Laura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "432",
+        "distanciabus2": "2182",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "FLXB-38",
+        "ppubus2": "FLXB-98",
+        "respuestaServicio": "",
+        "servicio": "B11",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5078",
+        "distanciabus2": "6988",
+        "horaprediccionbus1": "Entre 14 Y 22 min. ",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "CCPX-42",
+        "ppubus2": "CJKC-18",
+        "respuestaServicio": "",
+        "servicio": "B21",
+        "color": "#ED1C24",
+        "destino": "Lo Marcoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B31N",
+        "color": "#ED1C24",
+        "destino": "Quilicura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conchalí",
+        "short_name": "Conchalí",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conchalí, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3743431,
+        "lng": -70.6794769
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3729941197085,
+          "lng": -70.6781279197085
+        },
+        "southwest": {
+          "lat": -33.3756920802915,
+          "lng": -70.68082588029151
+        }
+      }
+    },
+    "place_id": "ChIJYYfUmfrGYpYRgKPLelZOrbs",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3743431,
+  "lng": -70.6794769
+}

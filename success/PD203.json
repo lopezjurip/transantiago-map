@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:32",
+  "nomett": "PARADA 2 / PARADERO 1   AV.VICUNA MACKENNA",
+  "paradero": "PD203",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "376",
+        "distanciabus2": "916",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-5385",
+        "ppubus2": "BJFK-34",
+        "respuestaServicio": "",
+        "servicio": "210",
+        "color": "#0077bb",
+        "destino": "Estación Central",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "9679",
+        "distanciabus2": "11169",
+        "horaprediccionbus1": "Entre 21 Y 31 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "ZN-6265",
+        "ppubus2": "BJFJ-38",
+        "respuestaServicio": "",
+        "servicio": "210V",
+        "color": "#0077bb",
+        "destino": "Estación Central",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F30N",
+        "color": "#FFD400",
+        "destino": "La Moneda",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4723648,
+        "lng": -70.623515
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.47101581970851,
+          "lng": -70.6221660197085
+        },
+        "southwest": {
+          "lat": -33.4737137802915,
+          "lng": -70.62486398029151
+        }
+      }
+    },
+    "place_id": "ChIJi33RQFjFYpYRnPou1EiTmkE",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4723648,
+  "lng": -70.623515
+}

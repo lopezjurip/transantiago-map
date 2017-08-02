@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:31",
+  "nomett": "COMERCIO ESQ. / RIO YELCHO",
+  "paradero": "PH638",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3002",
+        "distanciabus2": "5642",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "CJRX-48",
+        "ppubus2": "FLXR-22",
+        "respuestaServicio": "",
+        "servicio": "H09",
+        "color": "#00A77E",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Joaquín",
+        "short_name": "San Joaquín",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Joaquín, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4938727,
+        "lng": -70.628425
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4925237197085,
+          "lng": -70.62707601970848
+        },
+        "southwest": {
+          "lat": -33.4952216802915,
+          "lng": -70.62977398029149
+        }
+      }
+    },
+    "place_id": "ChIJ7ZnkJa_aYpYR4NOSq7wsSGg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4938727,
+  "lng": -70.628425
+}

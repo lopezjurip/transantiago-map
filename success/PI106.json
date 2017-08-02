@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "PARADA 8 / (M) PLAZA   DE MAIPU",
+  "paradero": "PI106",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "504",
+        "distanciabus2": "534",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZB-6994",
+        "ppubus2": "BJFD-21",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1913",
+        "distanciabus2": "1923",
+        "horaprediccionbus1": "Entre 19 Y 29 min. ",
+        "horaprediccionbus2": "Entre 19 Y 29 min. ",
+        "ppubus1": "ZN-5314",
+        "ppubus2": "ZN-4329",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "109N",
+        "color": "#00A1E4",
+        "destino": "Plaza Italia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "159",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-4319",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Vespucio",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5106835,
+        "lng": -70.756211
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5093345197085,
+          "lng": -70.75486201970848
+        },
+        "southwest": {
+          "lat": -33.5120324802915,
+          "lng": -70.7575599802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJpS3yz9PcYpYRKfhEDaXierc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5106835,
+  "lng": -70.756211
+}

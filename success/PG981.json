@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:33",
+  "nomett": "EUCALIPTUS ESQ. / ZENON TORREALBA",
+  "paradero": "PG981",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2102",
+        "distanciabus2": "2632",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "CJRP-44",
+        "ppubus2": "CJRL-26",
+        "respuestaServicio": "",
+        "servicio": "G08",
+        "color": "#0077bb",
+        "destino": "Población La Selva",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2067",
+        "distanciabus2": "5647",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "CJRR-61",
+        "ppubus2": "CJRP-40",
+        "respuestaServicio": "",
+        "servicio": "G08V",
+        "color": "#0077bb",
+        "destino": "Nos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipo",
+        "short_name": "Maipo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Bernardo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6101799,
+        "lng": -70.69934479999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6088309197085,
+          "lng": -70.69799581970848
+        },
+        "southwest": {
+          "lat": -33.61152888029149,
+          "lng": -70.70069378029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJL4h7_jvZYpYROqUq0d95BO4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6101799,
+  "lng": -70.69934479999999
+}

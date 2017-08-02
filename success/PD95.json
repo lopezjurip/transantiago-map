@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:22",
+  "nomett": "PARADA 2 / COLEGIO   SAN MARCOS",
+  "paradero": "PD95",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "787",
+        "distanciabus2": "2597",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "ZN-5465",
+        "ppubus2": "ZN-3976",
+        "respuestaServicio": "",
+        "servicio": "104",
+        "color": "#00A1E4",
+        "destino": "Providencia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "151",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-5453",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "106",
+        "color": "#00A1E4",
+        "destino": "Nueva San Martín",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "616",
+        "distanciabus2": "4206",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "FLXK-19",
+        "ppubus2": "FLXH-66",
+        "respuestaServicio": "",
+        "servicio": "126",
+        "color": "#00A1E4",
+        "destino": "Metro Manuel Montt",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5024",
+        "distanciabus2": "5294",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 12 Y 18 min. ",
+        "ppubus1": "WC-1131",
+        "ppubus2": "BJFF-24",
+        "respuestaServicio": "",
+        "servicio": "212",
+        "color": "#0077bb",
+        "destino": "Providencia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "405",
+        "distanciabus2": "9295",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "ZN-6618",
+        "ppubus2": "BJFF-19",
+        "respuestaServicio": "",
+        "servicio": "224",
+        "color": "#0077bb",
+        "destino": "Ñuñoa",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Macul, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4739429,
+        "lng": -70.598637
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4725939197085,
+          "lng": -70.5972880197085
+        },
+        "southwest": {
+          "lat": -33.4752918802915,
+          "lng": -70.5999859802915
+        }
+      }
+    },
+    "place_id": "ChIJ0w-1QufPYpYRTy2zq83n9w0",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4739429,
+  "lng": -70.598637
+}

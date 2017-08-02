@@ -1,0 +1,127 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:38",
+  "nomett": "ESPERANZA ESQ. / ALMIRANTE LATORRE",
+  "paradero": "PG1362",
+  "respuestaParadero": "Fuera de horario de operacion para este paradero",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "264N",
+        "color": "#0077bb",
+        "destino": "Pedro Fontova",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "144",
+        "distanciabus2": "114",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFT-99",
+        "ppubus2": "BJFS-17",
+        "respuestaServicio": "",
+        "servicio": "E18",
+        "color": "#00A77E",
+        "destino": "Hosp. Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4530",
+        "distanciabus2": "7870",
+        "horaprediccionbus1": "Entre 12 Y 18 min. ",
+        "horaprediccionbus2": "Entre 22 Y 32 min. ",
+        "ppubus1": "FLXJ-36",
+        "ppubus2": "FLXR-83",
+        "respuestaServicio": "",
+        "servicio": "F05",
+        "color": "#FFD400",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5524194,
+        "lng": -70.644537
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5510704197085,
+          "lng": -70.64318801970849
+        },
+        "southwest": {
+          "lat": -33.5537683802915,
+          "lng": -70.6458859802915
+        }
+      }
+    },
+    "place_id": "ChIJ0-vMs2raYpYRzfiHiLSTnjU",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5524194,
+  "lng": -70.644537
+}

@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:38",
+  "nomett": "AVENIDA VITACURA ESQ. / VIRGO",
+  "paradero": "PC249",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "679",
+        "distanciabus2": "1459",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "WA-9493",
+        "ppubus2": "ZN-9200",
+        "respuestaServicio": "",
+        "servicio": "405",
+        "color": "#F7941D",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1402",
+        "distanciabus2": "2742",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FLXH-76",
+        "ppubus2": "BJFV-56",
+        "respuestaServicio": "",
+        "servicio": "502",
+        "color": "#0093B3",
+        "destino": "Cerro Navia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3824068,
+        "lng": -70.547828
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3810578197085,
+          "lng": -70.5464790197085
+        },
+        "southwest": {
+          "lat": -33.38375578029149,
+          "lng": -70.5491769802915
+        }
+      }
+    },
+    "place_id": "ChIJk2u4TkrJYpYRq26J9Pc0lwY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3824068,
+  "lng": -70.547828
+}

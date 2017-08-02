@@ -1,0 +1,184 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:29",
+  "nomett": "PARADA  / PLAZA ZAROR",
+  "paradero": "PI115",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2398",
+        "distanciabus2": "3048",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "ZB-6721",
+        "ppubus2": "ZB-6994",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "27",
+        "distanciabus2": "4447",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "ZN-5657",
+        "ppubus2": "ZN-5314",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "109N",
+        "color": "#00A1E4",
+        "destino": "Plaza Italia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2673",
+        "distanciabus2": "2823",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZN-4376",
+        "ppubus2": "ZN-4319",
+        "respuestaServicio": "",
+        "servicio": "118",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Vespucio",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1035",
+        "distanciabus2": "1835",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXK-96",
+        "ppubus2": "FLXK-77",
+        "respuestaServicio": "",
+        "servicio": "348",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "274",
+        "distanciabus2": "1994",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "FLXK-74",
+        "ppubus2": "FLXT-16",
+        "respuestaServicio": "",
+        "servicio": "I05",
+        "color": "#00A77E",
+        "destino": "Metro Lo Ovalle",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5117807,
+        "lng": -70.7292464
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5104317197085,
+          "lng": -70.72789741970848
+        },
+        "southwest": {
+          "lat": -33.51312968029149,
+          "lng": -70.73059538029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJF40xG7DcYpYR7BldcfqaooI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5117807,
+  "lng": -70.7292464
+}

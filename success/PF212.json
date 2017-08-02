@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:17",
+  "nomett": "PARADA 5 / (M) PLAZA DE   PUENTE ALTO",
+  "paradero": "PF212",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3371",
+        "distanciabus2": "9981",
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "FLXR-80",
+        "ppubus2": "CJRC-20",
+        "respuestaServicio": "",
+        "servicio": "F03",
+        "color": "#FFD400",
+        "destino": "Metro Plaza Puente Alto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2793",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BBKB-24",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F03C",
+        "color": "#FFD400",
+        "destino": "Pie Andino",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "91",
+        "distanciabus2": "1071",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "CJRG-52",
+        "ppubus2": "CJRG-73",
+        "respuestaServicio": "",
+        "servicio": "F10",
+        "color": "#FFD400",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "256",
+        "distanciabus2": "1506",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRC-25",
+        "ppubus2": "CJRB-62",
+        "respuestaServicio": "",
+        "servicio": "F13",
+        "color": "#FFD400",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "214",
+        "distanciabus2": "1904",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXS-52",
+        "ppubus2": "FLXS-43",
+        "respuestaServicio": "",
+        "servicio": "712",
+        "color": "#FFD400",
+        "destino": "Recoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6091087,
+        "lng": -70.5741331
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6077597197085,
+          "lng": -70.5727841197085
+        },
+        "southwest": {
+          "lat": -33.6104576802915,
+          "lng": -70.57548208029151
+        }
+      }
+    },
+    "place_id": "ChIJEZsoLavXYpYRVZjTgtOaTnQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6091087,
+  "lng": -70.5741331
+}

@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:36",
+  "nomett": "AV. FRANCISCO BILBAO ESQ. / ANDACOLLO",
+  "paradero": "PC494",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "748",
+        "distanciabus2": "3418",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "BJFD-86",
+        "ppubus2": "FLXD-38",
+        "respuestaServicio": "",
+        "servicio": "501",
+        "color": "#0093B3",
+        "destino": "Metro Parque Bustamante",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "156",
+        "distanciabus2": "3106",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "BFKC-61",
+        "ppubus2": "BJFD-58",
+        "respuestaServicio": "",
+        "servicio": "504",
+        "color": "#0093B3",
+        "destino": "El Tranque",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "462",
+        "distanciabus2": "2722",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "BDXR-49",
+        "ppubus2": "BJFB-37",
+        "respuestaServicio": "",
+        "servicio": "518",
+        "color": "#0093B3",
+        "destino": "J.J. Perez",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Providencia",
+        "short_name": "Providencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Providencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4378394,
+        "lng": -70.6051533
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.43649041970851,
+          "lng": -70.60380431970849
+        },
+        "southwest": {
+          "lat": -33.4391883802915,
+          "lng": -70.60650228029151
+        }
+      }
+    },
+    "place_id": "ChIJ2T6BF3bPYpYR7DBXh2Qpz1Y",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4378394,
+  "lng": -70.6051533
+}

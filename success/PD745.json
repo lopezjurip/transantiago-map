@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:23",
+  "nomett": "PARADA  / COLEGIO   LAS AMERICAS",
+  "paradero": "PD745",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1763",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRV-10",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "D02",
+        "color": "#F7941D",
+        "destino": "Metro Irarrázaval",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "326",
+        "distanciabus2": "3556",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "CJRV-92",
+        "ppubus2": "CJRZ-30",
+        "respuestaServicio": "",
+        "servicio": "D10",
+        "color": "#F7941D",
+        "destino": "Metro Carlos Valdovinos",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4525001,
+        "lng": -70.529139
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.45115111970851,
+          "lng": -70.5277900197085
+        },
+        "southwest": {
+          "lat": -33.4538490802915,
+          "lng": -70.53048798029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJtR36LQrOYpYRaBFg47yPLSg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4525001,
+  "lng": -70.529139
+}

@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:33",
+  "nomett": "AV. ESCUELA AGRICOLA ESQ. / CONCEJO DE MIERES",
+  "paradero": "PD1306",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2480",
+        "distanciabus2": "2980",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "ZJ-1782",
+        "ppubus2": "ZN-4208",
+        "respuestaServicio": "",
+        "servicio": "114",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1043",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRV-78",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "D10",
+        "color": "#F7941D",
+        "destino": "Álvaro Casanova",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Macul, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4902891,
+        "lng": -70.600393
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4889401197085,
+          "lng": -70.5990440197085
+        },
+        "southwest": {
+          "lat": -33.4916380802915,
+          "lng": -70.60174198029151
+        }
+      }
+    },
+    "place_id": "ChIJ5YHdSRjQYpYRiJYjtOCXdkc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4902891,
+  "lng": -70.600393
+}

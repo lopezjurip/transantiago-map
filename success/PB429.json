@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "PARADA 1 / PUENTE BULNES",
+  "paradero": "PB429",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "275",
+        "distanciabus2": "2775",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "FLXD-67",
+        "ppubus2": "FLXJ-97",
+        "respuestaServicio": "",
+        "servicio": "303",
+        "color": "#00A77E",
+        "destino": "Plaza Italia",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "73",
+        "distanciabus2": "3953",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CJRD-10",
+        "ppubus2": "CJRF-18",
+        "respuestaServicio": "",
+        "servicio": "B20",
+        "color": "#ED1C24",
+        "destino": "Mapocho",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2117",
+        "distanciabus2": "5807",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRF-60",
+        "ppubus2": "CJRY-58",
+        "respuestaServicio": "",
+        "servicio": "B26",
+        "color": "#ED1C24",
+        "destino": "Metro Estacion Central",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B29",
+        "color": "#ED1C24",
+        "destino": "Metro Santa Ana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4247801,
+        "lng": -70.67247189999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4234311197085,
+          "lng": -70.67112291970848
+        },
+        "southwest": {
+          "lat": -33.4261290802915,
+          "lng": -70.67382088029149
+        }
+      }
+    },
+    "place_id": "ChIJM7WcVjTEYpYRSDCreKEa9j8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4247801,
+  "lng": -70.67247189999999
+}

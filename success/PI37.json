@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:48",
+  "nomett": "AV. LO ERRAZURIZ ESQ. / SANTA CORINA",
+  "paradero": "PI37",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2105",
+        "distanciabus2": "4815",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "BJFD-38",
+        "ppubus2": "CJRF-59",
+        "respuestaServicio": "",
+        "servicio": "101",
+        "color": "#00A1E4",
+        "destino": "Recoleta",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "101C",
+        "color": "#00A1E4",
+        "destino": "Metro Las Rejas",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "36",
+        "distanciabus2": "3176",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "FLXK-14",
+        "ppubus2": "FLXJ-48",
+        "respuestaServicio": "",
+        "servicio": "I04",
+        "color": "#00A77E",
+        "destino": "Metro Sn. A. Hurtado",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1830",
+        "distanciabus2": "6910",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "CJRW-66",
+        "ppubus2": "CJRW-77",
+        "respuestaServicio": "",
+        "servicio": "I14",
+        "color": "#00A77E",
+        "destino": "Estación Central",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Cerrillos",
+        "short_name": "Los Cerrillos",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerrillos",
+        "short_name": "Cerrillos",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Los Cerrillos, Cerrillos, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4736511,
+        "lng": -70.722098
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4723021197085,
+          "lng": -70.72074901970849
+        },
+        "southwest": {
+          "lat": -33.4750000802915,
+          "lng": -70.72344698029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ44rtV2HDYpYRPeiRpbQiHLg",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4736511,
+  "lng": -70.722098
+}

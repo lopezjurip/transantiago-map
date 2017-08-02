@@ -1,0 +1,152 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:32",
+  "nomett": "PARADA 3 / PARADERO 16   SANTA ROSA",
+  "paradero": "PH194",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4",
+        "distanciabus2": "1274",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFK-69",
+        "ppubus2": "ZN-6347",
+        "respuestaServicio": "",
+        "servicio": "205",
+        "color": "#0077bb",
+        "destino": "Puente Alto",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1854",
+        "distanciabus2": "5684",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "WC-2791",
+        "ppubus2": "ZN-5375",
+        "respuestaServicio": "",
+        "servicio": "209",
+        "color": "#0077bb",
+        "destino": "El Volcán",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6328",
+        "distanciabus2": "8148",
+        "horaprediccionbus1": "Entre 16 Y 24 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "BJFK-73",
+        "ppubus2": "BJFL-81",
+        "respuestaServicio": "",
+        "servicio": "227",
+        "color": "#0077bb",
+        "destino": "Pedro Aguirre Cerda",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6",
+        "distanciabus2": "1466",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-6330",
+        "ppubus2": "WA-9985",
+        "respuestaServicio": "",
+        "servicio": "230",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Miguel",
+        "short_name": "San Miguel",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Miguel, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5166896,
+        "lng": -70.636906
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5153406197085,
+          "lng": -70.6355570197085
+        },
+        "southwest": {
+          "lat": -33.5180385802915,
+          "lng": -70.6382549802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJV67gq5HaYpYR2LQ_8LG_ZJ8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5166896,
+  "lng": -70.636906
+}

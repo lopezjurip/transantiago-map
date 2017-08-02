@@ -1,0 +1,127 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "PARADA  / CEMENTERIO   GENERAL",
+  "paradero": "PB759",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1607",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRF-65",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B04V",
+        "color": "#ED1C24",
+        "destino": "Metro Cerro Blanco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "120",
+        "distanciabus2": "1230",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "CJRY-53",
+        "ppubus2": "CJRF-15",
+        "respuestaServicio": "",
+        "servicio": "B17",
+        "color": "#ED1C24",
+        "destino": "Av. Arz. Valdivieso",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1806",
+        "distanciabus2": "5796",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "CJRF-41",
+        "ppubus2": "FLXB-30",
+        "respuestaServicio": "",
+        "servicio": "B25",
+        "color": "#ED1C24",
+        "destino": "Metro Cerro Blanco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Independencia",
+        "short_name": "Independencia",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Independencia, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4177154,
+        "lng": -70.65122500000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4163664197085,
+          "lng": -70.64987601970851
+        },
+        "southwest": {
+          "lat": -33.41906438029149,
+          "lng": -70.65257398029152
+        }
+      }
+    },
+    "place_id": "ChIJQ-PY9MPFYpYRbtSEJu7OUY8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4177154,
+  "lng": -70.65122500000001
+}

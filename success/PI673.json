@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:47",
+  "nomett": "LAS ROSAS ESQ. / PILOTO ACEVEDO",
+  "paradero": "PI673",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3995",
+        "distanciabus2": "7665",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "FLXG-63",
+        "ppubus2": "FLXJ-13",
+        "respuestaServicio": "",
+        "servicio": "I01",
+        "color": "#00A77E",
+        "destino": "Villa Los Héroes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Cerrillos",
+        "short_name": "Los Cerrillos",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerrillos",
+        "short_name": "Cerrillos",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Los Cerrillos, Cerrillos, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4860144,
+        "lng": -70.70398229999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.48466541970851,
+          "lng": -70.70263331970848
+        },
+        "southwest": {
+          "lat": -33.48736338029151,
+          "lng": -70.7053312802915
+        }
+      }
+    },
+    "place_id": "ChIJm0cGu7rEYpYRJlcHsoWJmKA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4860144,
+  "lng": -70.70398229999999
+}

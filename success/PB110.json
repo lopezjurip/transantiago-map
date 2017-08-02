@@ -1,0 +1,199 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "PARADA 2 / PLAZA EL SALTO",
+  "paradero": "PB110",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4026",
+        "distanciabus2": "4616",
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "FLXK-19",
+        "ppubus2": "FLXH-67",
+        "respuestaServicio": "",
+        "servicio": "107",
+        "color": "#00A1E4",
+        "destino": "Ciudad Empresarial",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "107C",
+        "color": "#00A1E4",
+        "destino": "Ciudad Empresarial",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2294",
+        "distanciabus2": "4944",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 17 Y 27 min. ",
+        "ppubus1": "ZN-3984",
+        "ppubus2": "BJFT-45",
+        "respuestaServicio": "",
+        "servicio": "116",
+        "color": "#00A1E4",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "239",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRY-57",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B01",
+        "color": "#ED1C24",
+        "destino": "Huamachuco",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "866",
+        "distanciabus2": "5476",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "CJRC-68",
+        "ppubus2": "CJRC-64",
+        "respuestaServicio": "",
+        "servicio": "B02",
+        "color": "#ED1C24",
+        "destino": "Camino Punta Mocha",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "B02N",
+        "color": "#ED1C24",
+        "destino": "Huechuraba",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 10 min.",
+        "servicio": "712",
+        "color": "#FFD400",
+        "destino": "Puente Alto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3971167,
+        "lng": -70.626952
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.39576771970849,
+          "lng": -70.62560301970849
+        },
+        "southwest": {
+          "lat": -33.39846568029149,
+          "lng": -70.62830098029151
+        }
+      }
+    },
+    "place_id": "ChIJpV1pzwDGYpYRJI2Ck8h4PXI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3971167,
+  "lng": -70.626952
+}

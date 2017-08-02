@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:42",
+  "nomett": "CORONA SUECA ESQ. / TUPUNGATO",
+  "paradero": "PJ624",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2967",
+        "distanciabus2": "3567",
+        "horaprediccionbus1": "Entre 07 Y 13 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "CJRB-29",
+        "ppubus2": "BJFC-17",
+        "respuestaServicio": "",
+        "servicio": "J01",
+        "color": "#0093B3",
+        "destino": "Pudahuel Sur",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2545",
+        "distanciabus2": "6015",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "FLXR-63",
+        "ppubus2": "FLXR-72",
+        "respuestaServicio": "",
+        "servicio": "J10",
+        "color": "#0093B3",
+        "destino": "San Daniel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Prado, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4499393,
+        "lng": -70.7343068
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4485903197085,
+          "lng": -70.7329578197085
+        },
+        "southwest": {
+          "lat": -33.4512882802915,
+          "lng": -70.73565578029151
+        }
+      }
+    },
+    "place_id": "ChIJZ6EBIprDYpYReynYmRA5Tt4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4499393,
+  "lng": -70.7343068
+}

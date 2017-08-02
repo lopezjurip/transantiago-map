@@ -1,0 +1,104 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:22",
+  "nomett": "AV. RODRIGO DE ARAYA ESQ. / AVENIDA MARATHON",
+  "paradero": "PD881",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1998",
+        "distanciabus2": "3898",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "CJRV-33",
+        "ppubus2": "CJRT-88",
+        "respuestaServicio": "",
+        "servicio": "D05",
+        "color": "#F7941D",
+        "destino": "Metro Franklin",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ñuñoa",
+        "short_name": "Ñuñoa",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ñuñoa, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4743521,
+        "lng": -70.6131469
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4730031197085,
+          "lng": -70.6117979197085
+        },
+        "southwest": {
+          "lat": -33.47570108029149,
+          "lng": -70.6144958802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJlzTUUPrPYpYRei0eNPOiQVY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4743521,
+  "lng": -70.6131469
+}

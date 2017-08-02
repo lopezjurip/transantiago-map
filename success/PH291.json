@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:32",
+  "nomett": "AV. AMERICO VESPUCIO ESQ. / AVENIDA CENTRAL",
+  "paradero": "PH291",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2917",
+        "distanciabus2": "3917",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "CJRH-70",
+        "ppubus2": "CJRH-90",
+        "respuestaServicio": "",
+        "servicio": "428",
+        "color": "#F7941D",
+        "destino": "Quilicura",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "917",
+        "distanciabus2": "3437",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "CJRH-88",
+        "ppubus2": "ZN-6509",
+        "respuestaServicio": "",
+        "servicio": "428C",
+        "color": "#F7941D",
+        "destino": "Pudahuel",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Espejo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5229177,
+        "lng": -70.6974937
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5215687197085,
+          "lng": -70.6961447197085
+        },
+        "southwest": {
+          "lat": -33.5242666802915,
+          "lng": -70.6988426802915
+        }
+      }
+    },
+    "place_id": "ChIJpZ9OjWvbYpYRS1055pXgiEQ",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5229177,
+  "lng": -70.6974937
+}

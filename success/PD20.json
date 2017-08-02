@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:32",
+  "nomett": "AV. ESCUELA AGRICOLA ESQ. / VIA LACTEA",
+  "paradero": "PD20",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4151",
+        "distanciabus2": "5241",
+        "horaprediccionbus1": "Entre 11 Y 19 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "ZN-6537",
+        "ppubus2": "BJFC-97",
+        "respuestaServicio": "",
+        "servicio": "103",
+        "color": "#00A1E4",
+        "destino": "San Joaquin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2431",
+        "distanciabus2": "3191",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "ZJ-1782",
+        "ppubus2": "ZN-4208",
+        "respuestaServicio": "",
+        "servicio": "114",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2028",
+        "distanciabus2": "2048",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "FLXH-71",
+        "ppubus2": "ZN-4118",
+        "respuestaServicio": "",
+        "servicio": "117",
+        "color": "#00A1E4",
+        "destino": "San Joaquín",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "754",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRV-78",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "D10",
+        "color": "#F7941D",
+        "destino": "Álvaro Casanova",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "515N",
+        "color": "#0093B3",
+        "destino": "San Luis De Macul",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Macul",
+        "short_name": "Macul",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Macul, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.490554,
+        "lng": -70.60493799999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4892050197085,
+          "lng": -70.6035890197085
+        },
+        "southwest": {
+          "lat": -33.4919029802915,
+          "lng": -70.6062869802915
+        }
+      }
+    },
+    "place_id": "ChIJ8yjVOxrQYpYR2aGreMbkYL4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.490554,
+  "lng": -70.60493799999999
+}

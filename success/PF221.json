@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:16",
+  "nomett": "AV.PDTE.SALVADOR ALLENDE ESQ. / AV. EYZAGUIRRE",
+  "paradero": "PF221",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1812",
+        "distanciabus2": "2792",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "FLXT-49",
+        "ppubus2": "FLXG-81",
+        "respuestaServicio": "",
+        "servicio": "F03",
+        "color": "#FFD400",
+        "destino": "Plaza San Bernardo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1852",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXS-35",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F03C",
+        "color": "#FFD400",
+        "destino": "Villa Las Mamiñas",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1738",
+        "distanciabus2": "1868",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "BHZV-26",
+        "ppubus2": "CJRB-91",
+        "respuestaServicio": "",
+        "servicio": "F10",
+        "color": "#FFD400",
+        "destino": "San Guillermo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "93",
+        "distanciabus2": "1703",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRC-26",
+        "ppubus2": "ZK-7712",
+        "respuestaServicio": "",
+        "servicio": "F13",
+        "color": "#FFD400",
+        "destino": "Bajos De Mena",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "F13C",
+        "color": "#FFD400",
+        "destino": "Bajos De Mena",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2541",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BBKB-27",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F16",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6142663,
+        "lng": -70.586839
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6129173197085,
+          "lng": -70.58549001970849
+        },
+        "southwest": {
+          "lat": -33.6156152802915,
+          "lng": -70.5881879802915
+        }
+      }
+    },
+    "place_id": "ChIJv7hB7qXXYpYRDhXxR3WO8Fc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6142663,
+  "lng": -70.586839
+}

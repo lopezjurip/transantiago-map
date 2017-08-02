@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:50",
+  "nomett": "PARADA  / COMANDO   LOGISTICO FACH",
+  "paradero": "PI1617",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "860",
+        "distanciabus2": "3050",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "ZN-5645",
+        "ppubus2": "ZN-6543",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "247",
+        "distanciabus2": "4277",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "ZN-3954",
+        "ppubus2": "ZN-5401",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "109N",
+        "color": "#00A1E4",
+        "destino": "Maipú",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "812",
+        "distanciabus2": "4902",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "ZN-4321",
+        "ppubus2": "ZN-3952",
+        "respuestaServicio": "",
+        "servicio": "113",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3362",
+        "distanciabus2": "4842",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "WA-9900",
+        "ppubus2": "ZN-3964",
+        "respuestaServicio": "",
+        "servicio": "115",
+        "color": "#00A1E4",
+        "destino": "Villa El Abrazo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Cerrillos",
+        "short_name": "Los Cerrillos",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cerrillos",
+        "short_name": "Cerrillos",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Los Cerrillos, Cerrillos, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4887635,
+        "lng": -70.70075299999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4874145197085,
+          "lng": -70.69940401970848
+        },
+        "southwest": {
+          "lat": -33.4901124802915,
+          "lng": -70.7021019802915
+        }
+      }
+    },
+    "place_id": "ChIJlYQR4bDEYpYRYsPOVDDsRO4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4887635,
+  "lng": -70.70075299999999
+}

@@ -1,0 +1,104 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:37",
+  "nomett": "DUCAUD ESQ. / PUERTO WILLIAMS",
+  "paradero": "PG1778",
+  "respuestaParadero": "Frecuencia estimada es 1 bus cada 4 min.",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "9",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Frecuencia estimada es 1 bus cada 4 min.",
+        "servicio": "228",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Bernardo",
+        "short_name": "San Bernardo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipo",
+        "short_name": "Maipo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Bernardo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6022398,
+        "lng": -70.68515099999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6008908197085,
+          "lng": -70.68380201970848
+        },
+        "southwest": {
+          "lat": -33.6035887802915,
+          "lng": -70.6864999802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJM-DszGzZYpYRam5io0fED1M",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6022398,
+  "lng": -70.68515099999999
+}

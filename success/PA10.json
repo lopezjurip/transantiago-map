@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:41",
+  "nomett": "BASCUNAN GUERRERO ESQ. / AVENIDA EL MIRADOR",
+  "paradero": "PA10",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "121",
+        "distanciabus2": "9151",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "CJRG-18",
+        "ppubus2": "ZN-5961",
+        "respuestaServicio": "",
+        "servicio": "109",
+        "color": "#00A1E4",
+        "destino": "Renca",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "109N",
+        "color": "#00A1E4",
+        "destino": "Plaza Italia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "691",
+        "distanciabus2": "1151",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "ZN-3959",
+        "ppubus2": "ZJ-1809",
+        "respuestaServicio": "",
+        "servicio": "119",
+        "color": "#00A1E4",
+        "destino": "Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3627",
+        "distanciabus2": "4587",
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "CJRY-67",
+        "ppubus2": "CJRX-66",
+        "respuestaServicio": "",
+        "servicio": "345",
+        "color": "#00A77E",
+        "destino": "Alameda",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1368",
+        "distanciabus2": "7248",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 13 Y 21 min. ",
+        "ppubus1": "FLXK-66",
+        "ppubus2": "FLXL-56",
+        "respuestaServicio": "",
+        "servicio": "I18",
+        "color": "#00A77E",
+        "destino": "Metro U.L.A.",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2169",
+        "distanciabus2": "3629",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "CJRB-51",
+        "ppubus2": "BJFD-84",
+        "respuestaServicio": "",
+        "servicio": "511",
+        "color": "#0093B3",
+        "destino": "Cerro Navia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.46676,
+        "lng": -70.67162800000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4654110197085,
+          "lng": -70.67027901970852
+        },
+        "southwest": {
+          "lat": -33.4681089802915,
+          "lng": -70.67297698029152
+        }
+      }
+    },
+    "place_id": "ChIJSTlwmOHEYpYRO8rFdLhPRiY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.46676,
+  "lng": -70.67162800000001
+}

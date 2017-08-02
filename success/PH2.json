@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:32",
+  "nomett": "AV. DEPARTAMENTAL ESQ. / HAITI",
+  "paradero": "PH2",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1172",
+        "distanciabus2": "4732",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "ZN-3999",
+        "ppubus2": "ZB-6725",
+        "respuestaServicio": "",
+        "servicio": "102",
+        "color": "#00A1E4",
+        "destino": "Mall Plaza Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "6276",
+        "distanciabus2": "7226",
+        "horaprediccionbus1": "Entre 18 Y 28 min. ",
+        "horaprediccionbus2": "Entre 25 Y 35 min. ",
+        "ppubus1": "ZN-5763",
+        "ppubus2": "ZN-4103",
+        "respuestaServicio": "",
+        "servicio": "107",
+        "color": "#00A1E4",
+        "destino": "Av. Departamental",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "474",
+        "distanciabus2": "1604",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRF-76",
+        "ppubus2": "BJFT-47",
+        "respuestaServicio": "",
+        "servicio": "108",
+        "color": "#00A1E4",
+        "destino": "La Florida",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pedro Aguirre Cerda, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4879988,
+        "lng": -70.684381
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4866498197085,
+          "lng": -70.68303201970849
+        },
+        "southwest": {
+          "lat": -33.4893477802915,
+          "lng": -70.68572998029151
+        }
+      }
+    },
+    "place_id": "ChIJlYXGi87EYpYRa4Zb07YG68c",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4879988,
+  "lng": -70.684381
+}

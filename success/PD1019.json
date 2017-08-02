@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "TALINAY ESQ. / CAMARONES",
+  "paradero": "PD1019",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2853",
+        "distanciabus2": "4773",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "ZN-5154",
+        "ppubus2": "ZN-5846",
+        "respuestaServicio": "",
+        "servicio": "412",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "432N",
+        "color": "#F7941D",
+        "destino": "La Reina",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "450",
+        "distanciabus2": "3390",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "CJRY-34",
+        "ppubus2": "CJRT-83",
+        "respuestaServicio": "",
+        "servicio": "D08",
+        "color": "#F7941D",
+        "destino": "Av. Grecia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "589",
+        "distanciabus2": "2589",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "CJRZ-45",
+        "ppubus2": "CJRV-20",
+        "respuestaServicio": "",
+        "servicio": "D15",
+        "color": "#F7941D",
+        "destino": "Diagonal Las Torres",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "136",
+        "distanciabus2": "1546",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "FLXC-32",
+        "ppubus2": "CJRV-86",
+        "respuestaServicio": "",
+        "servicio": "D18",
+        "color": "#F7941D",
+        "destino": "Diagonal Las Torres",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4591143,
+        "lng": -70.5320862
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.45776531970849,
+          "lng": -70.5307372197085
+        },
+        "southwest": {
+          "lat": -33.46046328029149,
+          "lng": -70.5334351802915
+        }
+      }
+    },
+    "place_id": "ChIJFQ-LAQbOYpYRsEpwkNTQOz0",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4591143,
+  "lng": -70.5320862
+}

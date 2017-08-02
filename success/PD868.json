@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:22",
+  "nomett": "ALEJANDRO SEPULVEDA ESQ. / EL DESIERTO",
+  "paradero": "PD868",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "871",
+        "distanciabus2": "2051",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 03 Y 07 min. ",
+        "ppubus1": "CJRV-14",
+        "ppubus2": "CJRV-80",
+        "respuestaServicio": "",
+        "servicio": "D05",
+        "color": "#F7941D",
+        "destino": "Metro Franklin",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Penalolen",
+        "short_name": "Penalolen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Peñalolén",
+        "short_name": "Peñalolén",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Penalolen, Peñalolén, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4716717,
+        "lng": -70.5685342
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4703227197085,
+          "lng": -70.56718521970849
+        },
+        "southwest": {
+          "lat": -33.4730206802915,
+          "lng": -70.56988318029151
+        }
+      }
+    },
+    "place_id": "ChIJI9hV5yvOYpYRN0UZRVAcX9Q",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4716717,
+  "lng": -70.5685342
+}

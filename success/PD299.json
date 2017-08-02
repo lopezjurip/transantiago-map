@@ -1,0 +1,199 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:32",
+  "nomett": "AVENIDA LARRAIN ESQ. / CARLOS OSSANDON",
+  "paradero": "PD299",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4448",
+        "distanciabus2": "10828",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 24 Y 34 min. ",
+        "ppubus1": "BDWL-39",
+        "ppubus2": "WA-9969",
+        "respuestaServicio": "",
+        "servicio": "225",
+        "color": "#0077bb",
+        "destino": "Las Condes",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "358",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFL-81",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "227",
+        "color": "#0077bb",
+        "destino": "Pedro Aguirre Cerda",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2451",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZB-6703",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "403",
+        "color": "#F7941D",
+        "destino": "Metro Santa Ana",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1771",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZN-6189",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "422",
+        "color": "#F7941D",
+        "destino": "Pob. Teniente Merino",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1021",
+        "distanciabus2": "2771",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "CJRY-99",
+        "ppubus2": "CJRV-70",
+        "respuestaServicio": "",
+        "servicio": "D01",
+        "color": "#F7941D",
+        "destino": "Plaza Egaña Metro",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3326",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRT-82",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "D02",
+        "color": "#F7941D",
+        "destino": "Metro Irarrázaval",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4337",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "BJFB-88",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "517",
+        "color": "#0093B3",
+        "destino": "J. J. Perez",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Reina",
+        "short_name": "La Reina",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Reina, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4511254,
+        "lng": -70.5431424
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.44977641970849,
+          "lng": -70.5417934197085
+        },
+        "southwest": {
+          "lat": -33.45247438029149,
+          "lng": -70.5444913802915
+        }
+      }
+    },
+    "place_id": "ChIJj09AQRPOYpYRXhv-TGOVH_A",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4511254,
+  "lng": -70.5431424
+}

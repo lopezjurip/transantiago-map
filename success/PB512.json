@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:55",
+  "nomett": "AV. AMERICO VESPUCIO ESQ. / AV. EL GUANACO",
+  "paradero": "PB512",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1715",
+        "distanciabus2": "1735",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRH-85",
+        "ppubus2": "BBZX-43",
+        "respuestaServicio": "",
+        "servicio": "425",
+        "color": "#F7941D",
+        "destino": "Rigoberto Jara",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3596",
+        "distanciabus2": "8296",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJRJ-27",
+        "ppubus2": "CJRH-23",
+        "respuestaServicio": "",
+        "servicio": "429",
+        "color": "#F7941D",
+        "destino": "Lo Echevers",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "429C",
+        "color": "#F7941D",
+        "destino": "Quilicura",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "3556",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRG-94",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B05",
+        "color": "#ED1C24",
+        "destino": "Barrio San Ignacio",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huechuraba",
+        "short_name": "Huechuraba",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huechuraba, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3763608,
+        "lng": -70.65610749999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3750118197085,
+          "lng": -70.6547585197085
+        },
+        "southwest": {
+          "lat": -33.3777097802915,
+          "lng": -70.6574564802915
+        }
+      }
+    },
+    "place_id": "ChIJs0ByoUTGYpYRQdnSXio4bmc",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3763608,
+  "lng": -70.65610749999999
+}

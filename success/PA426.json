@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:01",
+  "nomett": "ANDES ESQ. / AVENIDA BRASIL",
+  "paradero": "PA426",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1317",
+        "distanciabus2": "3367",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 18 Y 28 min. ",
+        "ppubus1": "CJRW-48",
+        "ppubus2": "BJFV-57",
+        "respuestaServicio": "",
+        "servicio": "504",
+        "color": "#0093B3",
+        "destino": "El Tranque",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "462",
+        "distanciabus2": "3272",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "BDXR-13",
+        "ppubus2": "BJFC-18",
+        "respuestaServicio": "",
+        "servicio": "518",
+        "color": "#0093B3",
+        "destino": "J.J. Perez",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4326941,
+        "lng": -70.6648049
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4313451197085,
+          "lng": -70.66345591970848
+        },
+        "southwest": {
+          "lat": -33.4340430802915,
+          "lng": -70.66615388029149
+        }
+      }
+    },
+    "place_id": "ChIJG9WskrPFYpYRDk3rIF2C6L4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4326941,
+  "lng": -70.6648049
+}

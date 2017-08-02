@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "JUAN CRISTOBAL ESQ. / AV. ZAPADORES",
+  "paradero": "PB1227",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "322",
+        "distanciabus2": "1032",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJJW-61",
+        "ppubus2": "CJJW-57",
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Metro Zapadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4194",
+        "distanciabus2": "6404",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "FLXB-65",
+        "ppubus2": "CJRT-73",
+        "respuestaServicio": "",
+        "servicio": "B19",
+        "color": "#ED1C24",
+        "destino": "El Rosal",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1689",
+        "distanciabus2": "4649",
+        "horaprediccionbus1": "Entre 03 Y 07 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "CRYG-95",
+        "ppubus2": "CJRS-23",
+        "respuestaServicio": "",
+        "servicio": "B22",
+        "color": "#ED1C24",
+        "destino": "Palacio Riesco",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3871274,
+        "lng": -70.65041099999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.38577841970849,
+          "lng": -70.64906201970848
+        },
+        "southwest": {
+          "lat": -33.38847638029149,
+          "lng": -70.6517599802915
+        }
+      }
+    },
+    "place_id": "ChIJx_08DmzGYpYRQutiDebpIUw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3871274,
+  "lng": -70.65041099999999
+}

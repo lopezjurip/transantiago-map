@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:02",
+  "nomett": "NATANIEL COX ESQ. / ELEUTERIO RAMIREZ",
+  "paradero": "PA196",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2345",
+        "distanciabus2": "3065",
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": "Entre 20 Y 30 min. ",
+        "ppubus1": "BJFK-40",
+        "ppubus2": "BJFH-11",
+        "respuestaServicio": "",
+        "servicio": "214",
+        "color": "#0077bb",
+        "destino": "Santa Olga",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "10",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "No hay buses que se dirijan al paradero.",
+        "servicio": "226",
+        "color": "#0077bb",
+        "destino": "Nonato Coo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "391",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "WA-9753",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "229",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "264N",
+        "color": "#0077bb",
+        "destino": "Santo Tomás",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "19",
+        "distanciabus2": "1659",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "BJFT-74",
+        "ppubus2": "BJFS-68",
+        "respuestaServicio": "",
+        "servicio": "301",
+        "color": "#00A77E",
+        "destino": "Angelmó",
+        "sentido": "1",
+        "itinerario": true,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4495389,
+        "lng": -70.65333199999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4481899197085,
+          "lng": -70.65198301970848
+        },
+        "southwest": {
+          "lat": -33.4508878802915,
+          "lng": -70.65468098029149
+        }
+      }
+    },
+    "place_id": "ChIJOV1jDgnFYpYRbjB8sgrH-7o",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4495389,
+  "lng": -70.65333199999999
+}

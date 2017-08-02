@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:49",
+  "nomett": "CENTRAL PONIENTE ESQ. / EUCALIPTUS",
+  "paradero": "PI311",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3238",
+        "distanciabus2": "6608",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 11 Y 19 min. ",
+        "ppubus1": "ZN-5959",
+        "ppubus2": "ZN-3240",
+        "respuestaServicio": "",
+        "servicio": "111",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5949",
+        "distanciabus2": "7339",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "ZB-6727",
+        "ppubus2": "ZN-6728",
+        "respuestaServicio": "",
+        "servicio": "113",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "113E",
+        "color": "#00A1E4",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U1"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "8815",
+        "distanciabus2": "9015",
+        "horaprediccionbus1": "Entre 13 Y 21 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "FLXR-19",
+        "ppubus2": "FLXL-58",
+        "respuestaServicio": "",
+        "servicio": "350",
+        "color": "#00A77E",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "5841",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXK-86",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I11",
+        "color": "#00A77E",
+        "destino": "Ciudad Satélite",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maipú",
+        "short_name": "Maipú",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maipú, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5628489,
+        "lng": -70.784505
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5614999197085,
+          "lng": -70.7831560197085
+        },
+        "southwest": {
+          "lat": -33.5641978802915,
+          "lng": -70.7858539802915
+        }
+      }
+    },
+    "place_id": "ChIJf-LiGaPdYpYRKvoB-YikD5k",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5628489,
+  "lng": -70.784505
+}

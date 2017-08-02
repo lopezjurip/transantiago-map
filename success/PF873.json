@@ -1,0 +1,119 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:14",
+  "nomett": "LUIS MATTE LARRAIN ESQ. / LA SERENA",
+  "paradero": "PF873",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2024",
+        "distanciabus2": "2444",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "FLXR-76",
+        "ppubus2": "FLXJ-61",
+        "respuestaServicio": "",
+        "servicio": "F06",
+        "color": "#FFD400",
+        "destino": "Pie Andino",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1434",
+        "distanciabus2": "4204",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 11 Y 17 min. ",
+        "ppubus1": "WU-5565",
+        "ppubus2": "BHZV-27",
+        "respuestaServicio": "",
+        "servicio": "F14",
+        "color": "#FFD400",
+        "destino": "Villa Padre Hurtado",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Pintana, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.589316,
+        "lng": -70.60807439999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.58796701970849,
+          "lng": -70.60672541970848
+        },
+        "southwest": {
+          "lat": -33.59066498029149,
+          "lng": -70.6094233802915
+        }
+      }
+    },
+    "place_id": "ChIJDR6xmULXYpYRg03gC8l6Rec",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.589316,
+  "lng": -70.60807439999999
+}

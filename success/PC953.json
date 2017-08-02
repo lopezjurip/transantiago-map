@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:34",
+  "nomett": "AV. PDTE. KENNEDY ESQ. / ARTURO URETA",
+  "paradero": "PC953",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "415",
+        "distanciabus2": "2895",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "MZ-9901",
+        "ppubus2": "MZ-9904",
+        "respuestaServicio": "",
+        "servicio": "C15",
+        "color": "#ED1C24",
+        "destino": "Metro Escuela Militar",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4020435,
+        "lng": -70.5821425
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4006945197085,
+          "lng": -70.58079351970851
+        },
+        "southwest": {
+          "lat": -33.40339248029149,
+          "lng": -70.58349148029151
+        }
+      }
+    },
+    "place_id": "ChIJ73uRZC_PYpYRjiiZiqKeJiA",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4020435,
+  "lng": -70.5821425
+}

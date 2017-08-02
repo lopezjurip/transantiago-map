@@ -1,0 +1,143 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:38",
+  "nomett": "PARADA 5 / PARADERO 30   SANTA ROSA",
+  "paradero": "PG1611",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "848",
+        "distanciabus2": "2558",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "ZN-5586",
+        "ppubus2": "BDWL-39",
+        "respuestaServicio": "",
+        "servicio": "203",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2138",
+        "distanciabus2": "5718",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "ZN-6335",
+        "ppubus2": "BJFJ-80",
+        "respuestaServicio": "",
+        "servicio": "203E",
+        "color": "#0077bb",
+        "destino": "La Pintana",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "31",
+        "distanciabus2": "4311",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "CJRL-29",
+        "ppubus2": "CJRR-53",
+        "respuestaServicio": "",
+        "servicio": "G01",
+        "color": "#0077bb",
+        "destino": "Santo Tomás",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "40",
+        "distanciabus2": "710",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRR-46",
+        "ppubus2": "CJRP-35",
+        "respuestaServicio": "",
+        "servicio": "G11",
+        "color": "#0077bb",
+        "destino": "Lo Blanco",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "San Ramón",
+        "short_name": "San Ramón",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "San Ramón, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5578121,
+        "lng": -70.63126419999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5564631197085,
+          "lng": -70.62991521970848
+        },
+        "southwest": {
+          "lat": -33.5591610802915,
+          "lng": -70.6326131802915
+        }
+      }
+    },
+    "place_id": "ChIJT9PdWg7aYpYRTIdVPy3EgpY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5578121,
+  "lng": -70.63126419999999
+}

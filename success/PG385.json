@@ -1,0 +1,128 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:36",
+  "nomett": "AV. PADRE HURTADO ESQ. / ALEJANDRO GUZMAN",
+  "paradero": "PG385",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "549",
+        "distanciabus2": "829",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFX-29",
+        "ppubus2": "BJFW-52",
+        "respuestaServicio": "",
+        "servicio": "301",
+        "color": "#00A77E",
+        "destino": "Juan Antonio Ríos",
+        "sentido": "2",
+        "itinerario": true,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "509",
+        "distanciabus2": "1269",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "BJFV-92",
+        "ppubus2": "BJFS-78",
+        "respuestaServicio": "",
+        "servicio": "301C",
+        "color": "#00A77E",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2120",
+        "distanciabus2": "5000",
+        "horaprediccionbus1": "Entre 05 Y 09 min. ",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "BJFX-47",
+        "ppubus2": "BJFW-36",
+        "respuestaServicio": "",
+        "servicio": "301E",
+        "color": "#00A77E",
+        "destino": "Metro La Moneda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "El Bosque",
+        "short_name": "El Bosque",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "El Bosque, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.555756,
+        "lng": -70.669135
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5544070197085,
+          "lng": -70.66778601970849
+        },
+        "southwest": {
+          "lat": -33.5571049802915,
+          "lng": -70.67048398029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJW90Ss0raYpYRt0RC759gLwI",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.555756,
+  "lng": -70.669135
+}

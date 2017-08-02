@@ -1,0 +1,183 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:40",
+  "nomett": "AV. LOS ZAPADORES ESQ. / JOSE MIGUEL CARRERA",
+  "paradero": "PB721",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2500",
+        "distanciabus2": "4070",
+        "horaprediccionbus1": "Entre 06 Y 10 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "FLXC-88",
+        "ppubus2": "WC-1129",
+        "respuestaServicio": "",
+        "servicio": "223",
+        "color": "#0077bb",
+        "destino": "Ciudad Empresarial",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4208",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRF-40",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "B01",
+        "color": "#ED1C24",
+        "destino": "El Salto",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1129",
+        "distanciabus2": "3239",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "CPCS-84",
+        "ppubus2": "BJFV-71",
+        "respuestaServicio": "",
+        "servicio": "B12",
+        "color": "#ED1C24",
+        "destino": "Metro Zapadores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1571",
+        "distanciabus2": "6471",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 16 Y 26 min. ",
+        "ppubus1": "FLXB-48",
+        "ppubus2": "CJRG-97",
+        "respuestaServicio": "",
+        "servicio": "B19",
+        "color": "#ED1C24",
+        "destino": "El Rosal",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3149",
+        "distanciabus2": "6269",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 16 Y 24 min. ",
+        "ppubus1": "CRXW-95",
+        "ppubus2": "CJRS-14",
+        "respuestaServicio": "",
+        "servicio": "B22",
+        "color": "#ED1C24",
+        "destino": "Palacio Riesco",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1884",
+        "distanciabus2": "2194",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FLXS-46",
+        "ppubus2": "FLXR-91",
+        "respuestaServicio": "",
+        "servicio": "712",
+        "color": "#FFD400",
+        "destino": "Recoleta",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Recoleta",
+        "short_name": "Recoleta",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Recoleta, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3881294,
+        "lng": -70.6486678
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.38678041970849,
+          "lng": -70.64731881970849
+        },
+        "southwest": {
+          "lat": -33.38947838029149,
+          "lng": -70.65001678029151
+        }
+      }
+    },
+    "place_id": "ChIJM6uxWWzGYpYR5UPsApxoews",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3881294,
+  "lng": -70.6486678
+}

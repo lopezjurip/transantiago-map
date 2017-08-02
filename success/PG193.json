@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:37",
+  "nomett": "PARADA 2 / PARADERO 41   SANTA ROSA",
+  "paradero": "PG193",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1557",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "WB-1027",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "207E",
+        "color": "#0077bb",
+        "destino": "Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1567",
+        "distanciabus2": "2987",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 06 Y 10 min. ",
+        "ppubus1": "WA-9795",
+        "ppubus2": "BJFF-72",
+        "respuestaServicio": "",
+        "servicio": "209",
+        "color": "#0077bb",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4489",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 09 Y 15 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "WC-1735",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "209E",
+        "color": "#0077bb",
+        "destino": "Alameda",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1957",
+        "distanciabus2": "3817",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "WA-9791",
+        "ppubus2": "BJFK-20",
+        "respuestaServicio": "",
+        "servicio": "230",
+        "color": "#0077bb",
+        "destino": "Conchalí",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Pintana, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.594272,
+        "lng": -70.6276297
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5929230197085,
+          "lng": -70.62628071970849
+        },
+        "southwest": {
+          "lat": -33.5956209802915,
+          "lng": -70.6289786802915
+        }
+      }
+    },
+    "place_id": "ChIJ4fMn4N3ZYpYRBNrD01uMjaw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.594272,
+  "lng": -70.6276297
+}

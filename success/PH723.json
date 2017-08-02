@@ -1,0 +1,103 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:30",
+  "nomett": "BOMBERO OSSANDON ESQ. / SAFO",
+  "paradero": "PH723",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3487",
+        "distanciabus2": "3927",
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "BGTL-77",
+        "ppubus2": "FLXP-57",
+        "respuestaServicio": "",
+        "servicio": "H12",
+        "color": "#00A77E",
+        "destino": "Metro Franklin",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pedro Aguirre Cerda",
+        "short_name": "Pedro Aguirre Cerda",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pedro Aguirre Cerda, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4975398,
+        "lng": -70.68056399999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4961908197085,
+          "lng": -70.6792150197085
+        },
+        "southwest": {
+          "lat": -33.4988887802915,
+          "lng": -70.6819129802915
+        }
+      }
+    },
+    "place_id": "ChIJj5N5ji3bYpYRJ34uEcq2KYs",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4975398,
+  "lng": -70.68056399999999
+}

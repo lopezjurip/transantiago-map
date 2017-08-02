@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "15:42",
+  "nomett": "AVENIDA LAS TORRES ESQ. / TERRITORIO ANTARTICO",
+  "paradero": "PJ734",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2704",
+        "distanciabus2": "3684",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 09 Y 15 min. ",
+        "ppubus1": "BJFY-51",
+        "ppubus2": "BJFY-85",
+        "respuestaServicio": "",
+        "servicio": "J04",
+        "color": "#0093B3",
+        "destino": "Metro Neptuno",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2846",
+        "distanciabus2": "5876",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 15 Y 23 min. ",
+        "ppubus1": "BJFY-63",
+        "ppubus2": "BJFY-58",
+        "respuestaServicio": "",
+        "servicio": "J15C",
+        "color": "#0093B3",
+        "destino": "Metro Neptuno",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Prado",
+        "short_name": "Lo Prado",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Prado, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.446742,
+        "lng": -70.73105
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4453930197085,
+          "lng": -70.72970101970849
+        },
+        "southwest": {
+          "lat": -33.4480909802915,
+          "lng": -70.73239898029149
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJXW_yZ5DDYpYRoYFFPLjv1Vk",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.446742,
+  "lng": -70.73105
+}

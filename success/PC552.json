@@ -1,0 +1,167 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:36",
+  "nomett": "AV. CRISTOBAL COLON ESQ. / SEBASTIAN ELCANO",
+  "paradero": "PC552",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4247",
+        "distanciabus2": "4167",
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "BJFD-57",
+        "ppubus2": "BJFB-68",
+        "respuestaServicio": "",
+        "servicio": "503",
+        "color": "#0093B3",
+        "destino": "Av. La Estrella",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2849",
+        "distanciabus2": "4499",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "BFKC-44",
+        "ppubus2": "BDXR-13",
+        "respuestaServicio": "",
+        "servicio": "517",
+        "color": "#0093B3",
+        "destino": "J. J. Perez",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "541N",
+        "color": "#0093B3",
+        "destino": "El tranque",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1956",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRT-39",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C04",
+        "color": "#ED1C24",
+        "destino": "Metro Manuel Montt",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4681",
+        "distanciabus2": "5471",
+        "horaprediccionbus1": "Entre 11 Y 17 min. ",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "CJRR-18",
+        "ppubus2": "CJRY-18",
+        "respuestaServicio": "",
+        "servicio": "C06",
+        "color": "#ED1C24",
+        "destino": "Metro Tobalaba",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Las Condes, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4186239,
+        "lng": -70.5716341
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4172749197085,
+          "lng": -70.57028511970849
+        },
+        "southwest": {
+          "lat": -33.4199728802915,
+          "lng": -70.57298308029151
+        }
+      }
+    },
+    "place_id": "ChIJYSXSTuLOYpYRKFqomHk4a5o",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4186239,
+  "lng": -70.5716341
+}

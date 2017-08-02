@@ -1,0 +1,136 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:12",
+  "nomett": "PARADA  / PARADERO 3   GABRIELA",
+  "paradero": "PG131",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "2967",
+        "distanciabus2": "3967",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFJ-44",
+        "ppubus2": "BJFD-97",
+        "respuestaServicio": "",
+        "servicio": "205",
+        "color": "#0077bb",
+        "destino": "Santiago",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "408",
+        "distanciabus2": "1758",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 05 Y 09 min. ",
+        "ppubus1": "FLXC-80",
+        "ppubus2": "CJRP-26",
+        "respuestaServicio": "",
+        "servicio": "G05",
+        "color": "#0077bb",
+        "destino": "Metro La Cisterna",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U2"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "4155",
+        "distanciabus2": "8635",
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": "Entre 21 Y 31 min. ",
+        "ppubus1": "FLXR-78",
+        "ppubus2": "FLXJ-42",
+        "respuestaServicio": "",
+        "servicio": "F20",
+        "color": "#FFD400",
+        "destino": "Metro La Cisterna",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "La Pintana",
+        "short_name": "La Pintana",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "La Pintana, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5848296,
+        "lng": -70.6232047
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5834806197085,
+          "lng": -70.62185571970849
+        },
+        "southwest": {
+          "lat": -33.5861785802915,
+          "lng": -70.62455368029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJUf-pXeLZYpYRdIAazPzIPes",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5848296,
+  "lng": -70.6232047
+}

@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:31",
+  "nomett": "AVENIDA CERRILLOS ESQ. / BUENAVENTURA",
+  "paradero": "PH608",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1542",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRW-11",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "H08",
+        "color": "#00A77E",
+        "destino": "Pobl. Las Turbinas",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3893",
+        "distanciabus2": "8723",
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "FLXP-46",
+        "ppubus2": "FLXP-52",
+        "respuestaServicio": "",
+        "servicio": "H12",
+        "color": "#00A77E",
+        "destino": "Lo Espejo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "172",
+        "distanciabus2": "2752",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 07 Y 11 min. ",
+        "ppubus1": "FLXL-55",
+        "ppubus2": "FLXT-35",
+        "respuestaServicio": "",
+        "servicio": "348",
+        "color": "#00A77E",
+        "destino": "Rinconada",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Espejo",
+        "short_name": "Lo Espejo",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Espejo, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5047697,
+        "lng": -70.69585479999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.50342071970849,
+          "lng": -70.69450581970848
+        },
+        "southwest": {
+          "lat": -33.50611868029149,
+          "lng": -70.6972037802915
+        }
+      }
+    },
+    "place_id": "ChIJc659VkjbYpYRcaH76OTaCnY",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5047697,
+  "lng": -70.69585479999999
+}

@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:37",
+  "nomett": "ALEJANDRO FLEMING ESQ. / FUENTEOVEJUNA",
+  "paradero": "PC445",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "995",
+        "distanciabus2": "4065",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 12 Y 20 min. ",
+        "ppubus1": "WB-2353",
+        "ppubus2": "ZN-6007",
+        "respuestaServicio": "",
+        "servicio": "401",
+        "color": "#F7941D",
+        "destino": "Las Condes",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "524",
+        "distanciabus2": "654",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRH-35",
+        "ppubus2": "ZN-3924",
+        "respuestaServicio": "",
+        "servicio": "427",
+        "color": "#F7941D",
+        "destino": "Vital Apoquindo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1243",
+        "distanciabus2": "2403",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 04 Y 08 min. ",
+        "ppubus1": "BDXR-10",
+        "ppubus2": "BFKB-75",
+        "respuestaServicio": "",
+        "servicio": "501",
+        "color": "#0093B3",
+        "destino": "Fleming",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "3283",
+        "distanciabus2": "4203",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 10 Y 16 min. ",
+        "ppubus1": "BJFC-83",
+        "ppubus2": "BJFF-54",
+        "respuestaServicio": "",
+        "servicio": "504",
+        "color": "#0093B3",
+        "destino": "Hosp. Dipreca",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U5"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Las Condes",
+        "short_name": "Las Condes",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Las Condes, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4247198,
+        "lng": -70.54655340000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4233708197085,
+          "lng": -70.54520441970851
+        },
+        "southwest": {
+          "lat": -33.42606878029149,
+          "lng": -70.54790238029152
+        }
+      }
+    },
+    "place_id": "ChIJOYhel4vOYpYRk1bcbUhyVCM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4247198,
+  "lng": -70.54655340000001
+}

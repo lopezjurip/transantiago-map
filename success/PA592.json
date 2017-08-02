@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "16:00",
+  "nomett": "SAN ALFONSO ESQ. / AV. BLANCO ENCALADA",
+  "paradero": "PA592",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1854",
+        "distanciabus2": "2124",
+        "horaprediccionbus1": "Entre 07 Y 11 min. ",
+        "horaprediccionbus2": "Entre 07 Y 13 min. ",
+        "ppubus1": "FLXC-55",
+        "ppubus2": "CJRX-64",
+        "respuestaServicio": "",
+        "servicio": "345",
+        "color": "#00A77E",
+        "destino": "Lo Espejo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "20",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "FLXK-45",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "I18",
+        "color": "#00A77E",
+        "destino": "Rinconada",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U3"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Santiago, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.4582719,
+        "lng": -70.674987
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.4569229197085,
+          "lng": -70.6736380197085
+        },
+        "southwest": {
+          "lat": -33.4596208802915,
+          "lng": -70.67633598029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJKV7Qg_zEYpYRfYvXvIsU8vM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.4582719,
+  "lng": -70.674987
+}

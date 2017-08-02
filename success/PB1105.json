@@ -1,0 +1,120 @@
+{
+  "fechaprediccion": "2017-08-02",
+  "horaprediccion": "15:59",
+  "nomett": "MIRAFLORES ESQ. / AV. A. VESPUCIO",
+  "paradero": "PB1105",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1528",
+        "distanciabus2": "5598",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 14 Y 22 min. ",
+        "ppubus1": "CJRD-91",
+        "ppubus2": "CJRC-52",
+        "respuestaServicio": "",
+        "servicio": "B09",
+        "color": "#ED1C24",
+        "destino": "Lo Boza",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "5144",
+        "distanciabus2": "5534",
+        "horaprediccionbus1": "Entre 15 Y 23 min. ",
+        "horaprediccionbus2": "Entre 15 Y 25 min. ",
+        "ppubus1": "CJRD-18",
+        "ppubus2": "CJRC-45",
+        "respuestaServicio": "",
+        "servicio": "B20",
+        "color": "#ED1C24",
+        "destino": "Miraflores",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Renca",
+        "short_name": "Renca",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Renca, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3944742,
+        "lng": -70.768665
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3931252197085,
+          "lng": -70.7673160197085
+        },
+        "southwest": {
+          "lat": -33.3958231802915,
+          "lng": -70.77001398029151
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJT9bJy6bBYpYRZ1Hm1Px1Fxw",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3944742,
+  "lng": -70.768665
+}

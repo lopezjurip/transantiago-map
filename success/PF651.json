@@ -1,0 +1,135 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:15",
+  "nomett": "DOMINGO TOCORNAL ESQ. / GENERAL  JUAN MACKENNA",
+  "paradero": "PF651",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1318",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "ZK-7757",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F02",
+        "color": "#FFD400",
+        "destino": "San Gerónimo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "2247",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 12 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRG-23",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "F15",
+        "color": "#FFD400",
+        "destino": "Bajos De Mena",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U7"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1316",
+        "distanciabus2": "2576",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 14 min. ",
+        "ppubus1": "FLXR-84",
+        "ppubus2": "BBKD-23",
+        "respuestaServicio": "",
+        "servicio": "F29",
+        "color": "#FFD400",
+        "destino": "Casas Viejas",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U7"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Puente Alto",
+        "short_name": "Puente Alto",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cordillera",
+        "short_name": "Cordillera",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Puente Alto, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.6043972,
+        "lng": -70.590548
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.6030482197085,
+          "lng": -70.5891990197085
+        },
+        "southwest": {
+          "lat": -33.6057461802915,
+          "lng": -70.59189698029151
+        }
+      }
+    },
+    "place_id": "ChIJVRRdQAnXYpYRzvuQFvq_tAs",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.6043972,
+  "lng": -70.590548
+}

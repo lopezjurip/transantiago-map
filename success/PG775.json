@@ -1,0 +1,95 @@
+{
+  "fechaprediccion": "2017-07-31",
+  "horaprediccion": "18:34",
+  "nomett": "VECINAL SUR ESQ. / PENABLANCA",
+  "paradero": "PG775",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "758",
+        "distanciabus2": "10938",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Mas de 25 min.",
+        "ppubus1": "CJRK-90",
+        "ppubus2": "CJRR-93",
+        "respuestaServicio": "",
+        "servicio": "G07",
+        "color": "#0077bb",
+        "destino": "San Francisco",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U2"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "El Bosque",
+        "short_name": "El Bosque",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "El Bosque, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.5800319,
+        "lng": -70.67252189999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.5786829197085,
+          "lng": -70.67117291970848
+        },
+        "southwest": {
+          "lat": -33.5813808802915,
+          "lng": -70.6738708802915
+        }
+      }
+    },
+    "place_id": "ChIJ_RrANX7ZYpYRDUviPkWy2Y4",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.5800319,
+  "lng": -70.67252189999999
+}

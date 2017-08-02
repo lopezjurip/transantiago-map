@@ -1,0 +1,151 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:35",
+  "nomett": "AVENIDA LA DEHESA ESQ. / RAUL LABBE",
+  "paradero": "PC782",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "1749",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRR-76",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C08",
+        "color": "#ED1C24",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1478",
+        "distanciabus2": "2928",
+        "horaprediccionbus1": "Entre 04 Y 08 min. ",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "CJRT-40",
+        "ppubus2": "CJRK-56",
+        "respuestaServicio": "",
+        "servicio": "C09",
+        "color": "#ED1C24",
+        "destino": "Nueva Bilbao",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "6170",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 10 Y 16 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRT-76",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C12",
+        "color": "#ED1C24",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4056",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 08 Y 14 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRT-53",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C19",
+        "color": "#ED1C24",
+        "destino": "Cantagallo",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lo Barnechea",
+        "short_name": "Lo Barnechea",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lo Barnechea, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3640173,
+        "lng": -70.514706
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3626683197085,
+          "lng": -70.51335701970851
+        },
+        "southwest": {
+          "lat": -33.3653662802915,
+          "lng": -70.51605498029151
+        }
+      }
+    },
+    "place_id": "ChIJ5-n1AubLYpYR46aERi6gvY8",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3640173,
+  "lng": -70.514706
+}

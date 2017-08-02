@@ -1,0 +1,168 @@
+{
+  "fechaprediccion": "2017-08-01",
+  "horaprediccion": "13:37",
+  "nomett": "PARADA  / ESTADIO PALESTINO",
+  "paradero": "PC330",
+  "respuestaParadero": "",
+  "servicios": {
+    "item": [
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "648",
+        "distanciabus2": "1978",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Menos de 5 min.",
+        "ppubus1": "CJRJ-99",
+        "ppubus2": "WA-8543",
+        "respuestaServicio": "",
+        "servicio": "409",
+        "color": "#F7941D",
+        "destino": "Mapocho",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "4987",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 12 Y 20 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRJ-28",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "411",
+        "color": "#F7941D",
+        "destino": "Providencia",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U4"
+      },
+      {
+        "codigorespuesta": "00",
+        "distanciabus1": "1160",
+        "distanciabus2": "3330",
+        "horaprediccionbus1": "Menos de 5 min.",
+        "horaprediccionbus2": "Entre 08 Y 12 min. ",
+        "ppubus1": "CJRK-36",
+        "ppubus2": "MZ-8071",
+        "respuestaServicio": "",
+        "servicio": "C11",
+        "color": "#ED1C24",
+        "destino": "Tabancura",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "01",
+        "distanciabus1": "6816",
+        "distanciabus2": null,
+        "horaprediccionbus1": "Entre 14 Y 22 min. ",
+        "horaprediccionbus2": null,
+        "ppubus1": "CJRT-64",
+        "ppubus2": null,
+        "respuestaServicio": "",
+        "servicio": "C16",
+        "color": "#ED1C24",
+        "destino": "Vital Apoquindo",
+        "sentido": "2",
+        "itinerario": false,
+        "codigo": "U6"
+      },
+      {
+        "codigorespuesta": "11",
+        "distanciabus1": null,
+        "distanciabus2": null,
+        "horaprediccionbus1": null,
+        "horaprediccionbus2": null,
+        "ppubus1": null,
+        "ppubus2": null,
+        "respuestaServicio": "Fuera de horario de operacion para este paradero",
+        "servicio": "C21N",
+        "color": "#ED1C24",
+        "destino": "Metro Escuela Militar",
+        "sentido": "1",
+        "itinerario": false,
+        "codigo": "U6"
+      }
+    ]
+  },
+  "urlLinkPublicidad": null,
+  "urlPublicidad": "http://mkt.smsbus.cl/img/Cat11.jpg",
+  "x": "-",
+  "y": "-",
+  "valid": true,
+  "googleMaps": {
+    "address_components": [
+      {
+        "long_name": "Chile",
+        "short_name": "CL",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vitacura",
+        "short_name": "Vitacura",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Santiago",
+        "short_name": "Santiago",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Región Metropolitana",
+        "short_name": "Región Metropolitana",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vitacura, Región Metropolitana, Chile",
+    "geometry": {
+      "location": {
+        "lat": -33.3880111,
+        "lng": -70.5442296
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": -33.3866621197085,
+          "lng": -70.54288061970848
+        },
+        "southwest": {
+          "lat": -33.3893600802915,
+          "lng": -70.5455785802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ1URJfrPOYpYRTSLDmYC4nHM",
+    "types": [
+      "bus_station",
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  "lat": -33.3880111,
+  "lng": -70.5442296
+}
